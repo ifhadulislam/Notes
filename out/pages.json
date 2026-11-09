@@ -15,5 +15,7 @@
  "14-rbc": 103,
  "15-hemostasis": 110,
  "16-wbc": 116,
- "17-liver": 121
+ "17-liver": 121,
+ "18-lymphoreticular": 129,
+ "19-female-breast": 134
 }

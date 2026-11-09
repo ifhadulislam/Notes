@@ -295,5 +295,34 @@
    "Liver Tumours",
    "Gallbladder"
   ]
+ },
+ {
+  "id": "18-lymphoreticular",
+  "title": "Lymph Nodes, Lymphomas, Spleen & Thymus",
+  "front": false,
+  "num": 18,
+  "h2": [
+   "Lymph Node \u2014 Structure & Reactive Patterns",
+   "Lymphoid Neoplasms \u2014 WHO Classification",
+   "Hodgkin Lymphoma",
+   "Non-Hodgkin Lymphomas \u2014 Key Entities",
+   "Spleen",
+   "Thymus"
+  ]
+ },
+ {
+  "id": "19-female-breast",
+  "title": "Female Genital Tract & Breast",
+  "front": false,
+  "num": 19,
+  "h2": [
+   "Cervix",
+   "Uterus \u2014 Endometrium",
+   "Gestational Trophoblastic Disease",
+   "Ovary",
+   "Fallopian Tube & PID",
+   "Vulva & Vagina",
+   "Breast"
+  ]
  }
 ]
