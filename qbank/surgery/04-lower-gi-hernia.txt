@@ -1,0 +1,437 @@
+@topic Small Intestine & Appendix
+Q: Regarding Meckel's diverticulum, which statement is FALSE?
+A) It is a true diverticulum on the antimesenteric border
+B) It is a remnant of the vitello-intestinal duct
+C) Pancreatic tissue is the most common heterotopic mucosa
+D) It lies about 2 feet from the ileocaecal valve
+ANS: C
+TAGS: PQ, One-liner
+EX: The most common heterotopic tissue is **gastric mucosa**, followed by pancreatic. Rule of 2s: 2% of the population, 2 feet from the ileocaecal valve, 2 inches long, 2 types of ectopic tissue, symptomatic usually before 2 years.
+PEARL: The most common presentation in children is **painless lower GI bleeding**, diagnosed by a Tc-99m pertechnetate scan; in adults it is intestinal obstruction. A Meckel's diverticulum in a hernia sac is Littre's hernia.
+
+Q: An elderly man with chronic constipation has massive abdominal distension. X-ray shows a hugely dilated loop arising from the pelvis with a 'coffee bean' appearance. He has no signs of peritonitis. The initial management is:
+A) Emergency sigmoid colectomy
+B) Sigmoidoscopic decompression with a flatus tube
+C) Barium enema reduction
+D) Transverse colostomy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Sigmoid volvulus** (coffee bean or omega sign, usually anticlockwise rotation). Without gangrene, the first step is **endoscopic detorsion and a flatus tube**, followed by elective sigmoid colectomy in the same admission because recurrence is high. Gangrene or peritonitis requires resection (Hartmann's or Paul-Mikulicz procedure).
+PEARL: Caecal volvulus is treated by right hemicolectomy; endoscopic decompression is not reliable.
+
+Q: A 70-year-old with atrial fibrillation has sudden severe abdominal pain with minimal tenderness on examination. The investigation of choice is:
+A) Plain X-ray of the abdomen
+B) CT angiography
+C) Colonoscopy
+D) Serum amylase
+ANS: B
+TAGS: PQ, Clinical
+EX: **Pain out of proportion to physical signs** suggests acute mesenteric ischaemia. The most common cause is an **embolus to the superior mesenteric artery**, lodging just beyond the origin of the middle colic artery (so the proximal jejunum is spared). **CT angiography** is the investigation of choice.
+
+Q: Which feature favours Crohn's disease over ulcerative colitis?
+A) Continuous involvement starting from the rectum
+B) Pseudopolyps
+C) Transmural inflammation with skip lesions and fistulae
+D) Lead-pipe colon
+ANS: C
+TAGS: One-liner
+EX: **Crohn's disease**: any part of the gut (terminal ileum most common), skip lesions, **transmural** inflammation, non-caseating granulomas, cobblestone mucosa, creeping fat, fistulae, strictures (string sign of Kantor) and perianal disease. **Ulcerative colitis**: mucosal, continuous from the rectum, crypt abscesses, pseudopolyps and a lead-pipe colon.
+PEARL: Surgery in Crohn's is bowel-conserving: limited resection or stricturoplasty (Heineke-Mikulicz for strictures under 10 cm, Finney for 10 to 20 cm). Surgery is not curative.
+
+Q: The elective operation of choice for ulcerative colitis in a young patient is:
+A) Total colectomy with ileorectal anastomosis
+B) Restorative proctocolectomy with ileal pouch-anal anastomosis
+C) Segmental colectomy
+D) Loop ileostomy alone
+ANS: B
+TAGS: Management
+EX: **Restorative proctocolectomy with an ileal J-pouch** removes all diseased mucosa and preserves continence. The most common long-term complication is pouchitis. In the **emergency** setting (toxic megacolon, fulminant colitis) the operation is **subtotal colectomy with end ileostomy**, leaving the rectum.
+PEARL: Toxic megacolon: transverse colon diameter over 6 cm with systemic toxicity.
+
+Q: An appendicectomy specimen shows a 0.8 cm carcinoid tumour at the tip, with clear margins and no mesoappendix invasion. Further management is:
+A) Right hemicolectomy
+B) No further surgery
+C) Chemotherapy
+D) Octreotide therapy
+ANS: B
+TAGS: PQ, Management
+EX: Appendiceal neuroendocrine tumour: **under 1 cm, appendicectomy is sufficient**. **Over 2 cm**, base involvement, or mesoappendix invasion beyond 3 mm needs **right hemicolectomy**.
+PEARL: Carcinoid syndrome (flushing, diarrhoea, bronchospasm, right-sided valve lesions) implies liver metastases; the marker is urinary 5-HIAA and the treatment is octreotide.
+
+Q: The most common position of the appendix is:
+A) Pelvic
+B) Retrocaecal
+C) Pre-ileal
+D) Subcaecal
+ANS: B
+TAGS: One-liner
+EX: **Retrocaecal (about 74%)**, followed by pelvic (21%). The base is constant at the confluence of the taeniae coli. McBurney's point lies at the junction of the lateral one-third and medial two-thirds of the line joining the anterior superior iliac spine to the umbilicus.
+
+Q: Pain in the right iliac fossa on palpation of the left iliac fossa in acute appendicitis is:
+A) Rovsing's sign
+B) Psoas sign
+C) Obturator sign
+D) Dunphy's sign
+ANS: A
+TAGS: Eponym
+EX: **Rovsing's sign**: right iliac fossa pain on pressing the left iliac fossa. Psoas sign: pain on hip extension (retrocaecal appendix). Obturator sign: pain on internal rotation of the flexed hip (pelvic appendix). Dunphy's sign: pain on coughing.
+PEARL: Alvarado score (MANTRELS): Migration of pain, Anorexia, Nausea, Tenderness (2), Rebound, Elevated temperature, Leucocytosis (2), Shift to left. A score of 7 or more strongly suggests appendicitis.
+
+Q: A patient presents on day 5 of right iliac fossa pain with a tender, well-localised mass and is haemodynamically stable. The management is:
+A) Emergency appendicectomy
+B) Conservative management with the Ochsner-Sherren regimen
+C) Right hemicolectomy
+D) Diagnostic laparoscopy
+ANS: B
+TAGS: PQ, Management
+EX: An **appendicular mass** is managed conservatively: nil by mouth, intravenous fluids, antibiotics, and monitoring of pulse, temperature and size of the mass. Interval appendicectomy may follow at 6 to 8 weeks. The regimen is abandoned if the pulse rises, the mass enlarges, or signs of peritonitis or abscess develop (drain an abscess).
+
+Q: In suspected acute appendicitis in pregnancy, the initial imaging modality of choice is:
+A) CECT of the abdomen
+B) Ultrasonography
+C) Plain X-ray
+D) Technetium scan
+ANS: B
+TAGS: Investigation
+EX: **Ultrasound** is first; if inconclusive, **MRI without gadolinium**. In non-pregnant adults CECT is the most accurate. Appendicitis is the most common non-obstetric surgical emergency in pregnancy.
+
+Q: Typhoid ulcers of the intestine differ from tuberculous ulcers in that they are:
+A) Transverse and cause strictures
+B) Longitudinal along the antimesenteric border and prone to perforation
+C) Located mainly in the jejunum
+D) Associated with caseating granulomas
+ANS: B
+TAGS: One-liner
+EX: **Typhoid ulcers** lie over Peyer's patches, so they are **longitudinal** and antimesenteric; they perforate (usually in the third week) and do not cause strictures. **Tuberculous ulcers are transverse** (along the lymphatics) and heal with strictures. The ileocaecal region is the most common site of abdominal tuberculosis.
+
+Q: The most common cause of small bowel obstruction in adults is:
+A) Hernia
+B) Post-operative adhesions
+C) Malignancy
+D) Volvulus
+ANS: B
+TAGS: One-liner
+EX: **Adhesions** are the most common cause where abdominal surgery is common; obstructed hernia remains the leading cause in a virgin abdomen. On X-ray, small bowel is central with valvulae conniventes crossing the full width; large bowel is peripheral with haustra that do not cross the full width.
+
+Q: Which factor does NOT prevent spontaneous closure of an enterocutaneous fistula?
+A) Distal obstruction
+B) Epithelialisation of the tract
+C) A long tract of more than 2 cm
+D) Radiation enteritis
+ANS: C
+TAGS: One-liner
+EX: Factors preventing closure (FRIENDS): Foreign body, Radiation, Inflammation or Infection (Crohn's, tuberculosis), Epithelialisation, Neoplasia, Distal obstruction, Short tract (under 2 cm), and high output. A **long tract favours closure**.
+PEARL: High-output fistula: more than 500 mL/day. Management sequence (SNAP): control Sepsis, Nutrition, define Anatomy, then Plan surgery after several weeks.
+
+Q: A patient with a mucin-secreting appendiceal tumour has 'jelly belly' with scalloping of the liver surface on CT. The preferred treatment is:
+A) Systemic chemotherapy alone
+B) Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy
+C) Radiotherapy
+D) Repeated paracentesis
+ANS: B
+TAGS: Management
+EX: **Pseudomyxoma peritonei** most commonly arises from a low-grade appendiceal mucinous neoplasm. Treatment is **cytoreductive surgery with HIPEC** (Sugarbaker procedure), usually with mitomycin C.
+
+@topic Colon & Rectum
+Q: Familial adenomatous polyposis is caused by a mutation of which gene?
+A) MLH1 on chromosome 3
+B) APC on chromosome 5q
+C) STK11 on chromosome 19
+D) TP53 on chromosome 17
+ANS: B
+TAGS: PQ, One-liner
+EX: **FAP**: autosomal dominant **APC** mutation (5q21), more than 100 adenomas, and a 100% cancer risk by about 40 years. Treatment is prophylactic proctocolectomy. Gardner's syndrome: FAP with osteomas, desmoid tumours, epidermoid cysts and congenital hypertrophy of the retinal pigment epithelium. Turcot's syndrome: polyposis with brain tumours.
+OTH: A: MLH1 and MSH2 mismatch repair genes cause Lynch syndrome. | C: STK11 causes Peutz-Jeghers syndrome (hamartomatous polyps with mucocutaneous pigmentation).
+
+Q: The most common extra-colonic malignancy in Lynch syndrome is:
+A) Gastric carcinoma
+B) Endometrial carcinoma
+C) Ovarian carcinoma
+D) Urothelial carcinoma
+ANS: B
+TAGS: One-liner
+EX: **Lynch syndrome (HNPCC)** is due to mismatch repair gene mutations (MLH1, MSH2, MSH6, PMS2) with microsatellite instability. Tumours are right-sided, mucinous and occur at a young age. **Endometrial carcinoma** is the most common extra-colonic cancer.
+PEARL: Amsterdam criteria (3-2-1): three relatives affected, two generations, one diagnosed before 50 years.
+
+Q: A 60-year-old man presents with fatigue, iron deficiency anaemia and a mass in the right iliac fossa. The most likely diagnosis is:
+A) Carcinoma of the sigmoid colon
+B) Carcinoma of the caecum
+C) Ileocaecal tuberculosis
+D) Appendicular mass
+ANS: B
+TAGS: Clinical
+EX: **Right-sided colon cancers** are bulky, exophytic and bleed occultly, presenting with **anaemia and a mass**. **Left-sided cancers** are annular and present with altered bowel habit and obstruction. Rectal cancers present with bleeding and tenesmus.
+
+Q: The best investigation for local staging of carcinoma of the rectum is:
+A) CECT of the pelvis
+B) MRI of the pelvis
+C) PET-CT
+D) Colonoscopy
+ANS: B
+TAGS: PQ, Investigation
+EX: **Pelvic MRI** defines the T stage, mesorectal nodes and the circumferential resection margin. Endorectal ultrasound is good for early (T1 versus T2) lesions. CT of the chest and abdomen is used for distant staging.
+
+Q: A patient has a T3 N1 M0 adenocarcinoma of the rectum 6 cm from the anal verge. The best management is:
+A) Upfront abdominoperineal resection
+B) Neoadjuvant chemoradiation followed by low anterior resection with total mesorectal excision
+C) Local excision
+D) Palliative chemotherapy
+ANS: B
+TAGS: PQ, Management
+EX: Locally advanced rectal cancer (T3, T4 or node positive) is treated with **neoadjuvant chemoradiotherapy (or total neoadjuvant therapy), then total mesorectal excision**. A sphincter-saving low anterior resection is possible when a clear distal margin can be achieved (2 cm; 1 cm is acceptable for low tumours). Abdominoperineal resection is reserved for tumours invading the sphincter complex.
+
+Q: For adequate nodal staging of colon cancer, the minimum number of lymph nodes that should be examined is:
+A) 6
+B) 12
+C) 15
+D) 25
+ANS: B
+TAGS: One-liner
+EX: At least **12 lymph nodes** are required for colorectal cancer. (For gastric cancer the number is at least 16; older texts say 15.) Node-positive colon cancer (stage III) receives adjuvant chemotherapy with FOLFOX or CAPOX.
+PEARL: CEA is used for follow-up and detecting recurrence, not for screening or diagnosis.
+
+Q: A patient with acute diverticulitis has generalised purulent peritonitis at laparotomy, without faecal contamination. The Hinchey stage is:
+A) I
+B) II
+C) III
+D) IV
+ANS: C
+TAGS: PQ, Classification
+EX: Hinchey I: pericolic abscess. II: pelvic or distant abscess. **III: purulent peritonitis.** IV: faecal peritonitis. Stages I and II are managed with antibiotics with or without percutaneous drainage; III and IV need surgery (Hartmann's procedure or resection with anastomosis).
+PEARL: CECT is the investigation of choice; colonoscopy and barium enema are avoided in the acute phase and done after 6 weeks.
+
+Q: The most common cause of massive lower gastrointestinal bleeding in an elderly patient is:
+A) Carcinoma of the colon
+B) Diverticulosis
+C) Haemorrhoids
+D) Ischaemic colitis
+ANS: B
+TAGS: One-liner
+EX: **Diverticular disease** is the most common cause of major lower GI bleeding in adults (the bleeding is often from right-sided diverticula), followed by angiodysplasia. In children the most common cause is Meckel's diverticulum.
+PEARL: Angiodysplasia with aortic stenosis is Heyde's syndrome (acquired von Willebrand factor deficiency).
+
+Q: A post-operative elderly patient has massive abdominal distension with a caecal diameter of 11 cm on X-ray and no mechanical obstruction on CT. Conservative measures have failed. The drug of choice is:
+A) Metoclopramide
+B) Neostigmine
+C) Erythromycin
+D) Loperamide
+ANS: B
+TAGS: Clinical
+EX: **Ogilvie's syndrome** (acute colonic pseudo-obstruction). After excluding mechanical obstruction, **intravenous neostigmine** with cardiac monitoring (atropine ready) is given; colonoscopic decompression follows if it fails. Risk of perforation rises when the caecum exceeds 12 cm.
+
+Q: In large bowel obstruction with a competent ileocaecal valve, the most common site of perforation is the:
+A) Sigmoid colon
+B) Transverse colon
+C) Caecum
+D) Terminal ileum
+ANS: C
+TAGS: One-liner
+EX: A competent valve creates a **closed-loop obstruction**. By Laplace's law, wall tension is greatest where the diameter is largest, so the **caecum** perforates first.
+
+@topic Anal Canal
+Q: The primary internal haemorrhoids are classically situated at:
+A) 1, 5 and 9 o'clock
+B) 3, 7 and 11 o'clock
+C) 2, 6 and 10 o'clock
+D) 6 and 12 o'clock
+ANS: B
+TAGS: One-liner
+EX: In the lithotomy position the anal cushions lie at **3, 7 and 11 o'clock**, corresponding to the terminal branches of the superior rectal artery.
+PEARL: Grade I: bleed only. II: prolapse and reduce spontaneously. III: need manual reduction. IV: irreducible. Grades I and II: diet, sclerotherapy or rubber band ligation. Grades III and IV: haemorrhoidectomy (Milligan-Morgan open, Ferguson closed) or stapled haemorrhoidopexy.
+
+Q: A young woman has severe pain during and after defaecation with streaks of fresh blood on the stool. A skin tag is seen at the posterior midline of the anal verge. If medical treatment fails, the operation of choice is:
+A) Lord's anal dilatation
+B) Lateral internal sphincterotomy
+C) Fistulotomy
+D) Haemorrhoidectomy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Chronic anal fissure** (posterior midline in 90%, with a sentinel pile and hypertrophied papilla). First-line treatment is fibre, sitz baths and topical **diltiazem or glyceryl trinitrate**; botulinum toxin is second-line. **Lateral internal sphincterotomy** is the gold standard operation.
+PEARL: Fissures away from the midline suggest Crohn's disease, tuberculosis, HIV, syphilis or malignancy.
+
+Q: According to Goodsall's rule, a fistula with an external opening anterior to the transverse anal line and 2 cm from the anal verge will:
+A) Open in the posterior midline by a curved tract
+B) Run radially straight into the anal canal
+C) Open in the anterior midline
+D) Have no internal opening
+ANS: B
+TAGS: PQ, Eponym
+EX: **Goodsall's rule**: external openings **anterior** to the transverse line (within 3 cm) run **radially and directly** to the anal canal; **posterior** openings follow a **curved tract to the posterior midline**. Anterior openings more than 3 cm away may also track to the posterior midline.
+PEARL: Parks classification: intersphincteric (most common), trans-sphincteric, suprasphincteric and extrasphincteric. MRI is the investigation of choice for complex fistulae.
+
+Q: The standard treatment for squamous cell carcinoma of the anal canal is:
+A) Abdominoperineal resection
+B) Chemoradiation with 5-fluorouracil and mitomycin C
+C) Wide local excision
+D) Radiotherapy alone
+ANS: B
+TAGS: Management
+EX: The **Nigro regimen** (5-FU, mitomycin C and radiotherapy) is the primary treatment and preserves the sphincter. Abdominoperineal resection is reserved for residual or recurrent disease. The main risk factor is HPV 16 and 18.
+
+Q: Carcinoma arising below the dentate line of the anal canal drains to which lymph nodes?
+A) Internal iliac nodes
+B) Superficial inguinal nodes
+C) Inferior mesenteric nodes
+D) Para-aortic nodes
+ANS: B
+TAGS: Applied anatomy
+EX: Below the dentate line: **superficial inguinal nodes**, somatic innervation (inferior rectal nerve, painful), inferior rectal vessels, and squamous epithelium. Above the line: internal iliac and inferior mesenteric nodes, autonomic innervation (painless), superior rectal vessels (portal system), and columnar epithelium.
+
+Q: A 25-year-old hirsute driver has a discharging sinus in the natal cleft. Which of the following is a flap procedure used for this condition?
+A) Delorme's procedure
+B) Limberg flap
+C) Altemeier's procedure
+D) Thiersch stitch
+ANS: B
+TAGS: Management
+EX: **Pilonidal sinus** is acquired, caused by hair penetrating the skin of the natal cleft. Options: excision with healing by secondary intention, or off-midline closure by **Limberg (rhomboid) flap**, Karydakis or Bascom procedures, which flatten the cleft and lower recurrence.
+
+Q: A frail 85-year-old woman has a full-thickness rectal prolapse. The most suitable operation is:
+A) Abdominal mesh rectopexy
+B) A perineal procedure such as Delorme's or Altemeier's
+C) Anterior resection
+D) Abdominoperineal resection
+ANS: B
+TAGS: Management
+EX: **Perineal procedures** (Delorme's mucosal sleeve resection, Altemeier's perineal rectosigmoidectomy) have low morbidity and suit elderly, unfit patients, at the cost of higher recurrence. Fit patients are offered **abdominal (laparoscopic ventral mesh) rectopexy**, which has the lowest recurrence.
+
+Q: The most common type of anorectal abscess is:
+A) Ischiorectal
+B) Perianal
+C) Intersphincteric
+D) Supralevator
+ANS: B
+TAGS: One-liner
+EX: **Perianal abscess** (about 60%) is the most common, followed by ischiorectal. Most arise from infection of the anal glands (cryptoglandular theory). Treatment is incision and drainage; antibiotics alone are inadequate.
+
+@topic Hernia & Abdominal Wall
+Q: Which structure forms the lateral boundary of Hesselbach's triangle?
+A) Lateral border of the rectus abdominis
+B) Inferior epigastric artery
+C) Inguinal ligament
+D) Lacunar ligament
+ANS: B
+TAGS: PQ, Applied anatomy
+EX: **Hesselbach's triangle**: medially the lateral border of the rectus, **laterally the inferior epigastric vessels**, inferiorly the inguinal ligament. A **direct hernia** passes through it (medial to the vessels); an **indirect hernia** leaves through the deep ring lateral to the vessels.
+PEARL: The deep inguinal ring is a defect in the transversalis fascia, 1.25 cm above the mid-point of the inguinal ligament; the superficial ring is in the external oblique aponeurosis.
+
+Q: The most common type of hernia in women is:
+A) Femoral hernia
+B) Indirect inguinal hernia
+C) Direct inguinal hernia
+D) Obturator hernia
+ANS: B
+TAGS: One-liner
+EX: **Indirect inguinal hernia is the most common hernia in both sexes and at all ages.** Femoral hernia is more common in women than in men, but is still less common than inguinal hernia in women.
+
+Q: A 60-year-old woman has a tender irreducible swelling below and lateral to the pubic tubercle with vomiting. Which statement is true?
+A) It can be safely managed with a truss
+B) The neck of the sac lies medial to the lacunar ligament
+C) It has a high risk of strangulation and needs urgent surgery
+D) It passes through Hesselbach's triangle
+ANS: C
+TAGS: PQ, Clinical
+EX: A **femoral hernia** emerges below and lateral to the pubic tubercle and has the **highest risk of strangulation** because of the rigid femoral ring (lacunar ligament medially, femoral vein laterally, inguinal ligament anteriorly, pectineal ligament posteriorly).
+PEARL: Approaches: Lockwood (low), Lotheissen (inguinal) and McEvedy (high; preferred for strangulation). An abnormal obturator artery on the lacunar ligament is at risk when the ligament is divided.
+
+Q: A hernia in which only a part of the circumference of the bowel wall is strangulated is called:
+A) Littre's hernia
+B) Richter's hernia
+C) Maydl's hernia
+D) Amyand's hernia
+ANS: B
+TAGS: Eponym
+EX: **Richter's hernia**: antimesenteric part of the wall; strangulation occurs without obstruction, so it is easily missed (common in femoral hernia). **Littre's**: Meckel's diverticulum. **Maydl's**: W-shaped loop with the strangulated segment inside the abdomen. **Amyand's**: appendix in an inguinal hernia. **De Garengeot's**: appendix in a femoral hernia.
+
+Q: The gold standard open operation for an inguinal hernia in an adult is:
+A) Bassini's repair
+B) Lichtenstein tension-free mesh repair
+C) Herniotomy alone
+D) Darning
+ANS: B
+TAGS: One-liner
+EX: **Lichtenstein repair** uses a polypropylene mesh on the posterior wall with low recurrence. The best pure tissue repair is **Shouldice** (four-layer repair of the transversalis fascia). Infants and children need **herniotomy alone**. Laparoscopic TEP or TAPP repair is preferred for bilateral and recurrent hernias.
+
+Q: During laparoscopic inguinal hernia repair, the 'triangle of doom' contains the:
+A) Lateral femoral cutaneous nerve
+B) External iliac vessels
+C) Inferior epigastric vessels
+D) Obturator nerve
+ANS: B
+TAGS: PQ, Applied anatomy
+EX: **Triangle of doom**: bounded by the vas deferens medially and the gonadal vessels laterally; contains the **external iliac artery and vein**. **Triangle of pain**: lateral to the gonadal vessels below the iliopubic tract; contains the lateral femoral cutaneous nerve, the femoral branch of the genitofemoral nerve and the femoral nerve. No tacks are placed in either.
+PEARL: Corona mortis is an anastomosis between the obturator and inferior epigastric (or external iliac) vessels over the pectineal ligament.
+
+Q: The nerve most commonly injured during open inguinal hernia repair is the:
+A) Iliohypogastric nerve
+B) Ilioinguinal nerve
+C) Genital branch of the genitofemoral nerve
+D) Lateral femoral cutaneous nerve
+ANS: B
+TAGS: One-liner
+EX: The **ilioinguinal nerve** lies on the cord within the canal and is the most commonly injured in open repair, causing numbness or pain over the root of the penis and upper scrotum. In laparoscopic repair, the lateral femoral cutaneous nerve is the most commonly affected.
+
+Q: A hernia through the linea semilunaris at the level of the arcuate line, lying between the layers of the abdominal wall, is:
+A) Spigelian hernia
+B) Richter's hernia
+C) Petit's hernia
+D) Epigastric hernia
+ANS: A
+TAGS: Eponym
+EX: **Spigelian hernia** is an interparietal hernia lying deep to the external oblique aponeurosis, often impalpable; ultrasound or CT confirms it. The risk of strangulation is high, so repair is advised.
+PEARL: Lumbar hernias: superior triangle of Grynfeltt (more common) and inferior triangle of Petit (iliac crest, latissimus dorsi, external oblique).
+
+Q: A thin elderly woman with small bowel obstruction complains of pain along the medial side of the thigh down to the knee, relieved by flexing the hip. The likely diagnosis is:
+A) Femoral hernia
+B) Obturator hernia
+C) Sciatic hernia
+D) Perineal hernia
+ANS: B
+TAGS: Eponym
+EX: The **Howship-Romberg sign** is pain in the distribution of the obturator nerve caused by compression in the obturator canal. Obturator hernia occurs in elderly, emaciated, multiparous women and is usually diagnosed on CT.
+
+Q: A 1-year-old child has a 1 cm reducible umbilical hernia. The appropriate management is:
+A) Immediate herniorrhaphy
+B) Observation, as most close spontaneously
+C) Mesh repair
+D) Strapping with a coin
+ANS: B
+TAGS: Management
+EX: Most congenital umbilical hernias **close spontaneously by 2 to 4 years**. Surgery is advised if the hernia persists beyond about 4 to 5 years, is larger than 2 cm, or becomes symptomatic. Adult para-umbilical hernias need repair (Mayo's repair or mesh).
+
+Q: In the Nyhus classification, a femoral hernia is:
+A) Type II
+B) Type IIIA
+C) Type IIIC
+D) Type IV
+ANS: C
+TAGS: Classification
+EX: Nyhus I: indirect with a normal deep ring. II: indirect with a dilated ring and intact posterior wall. IIIA: direct. IIIB: indirect with posterior wall defect (pantaloon, sliding). **IIIC: femoral.** IV: recurrent.
+
+Q: On the 7th day after laparotomy, serosanguinous 'salmon-pink' fluid soaks the dressing. This indicates:
+A) Wound infection
+B) Impending wound dehiscence (burst abdomen)
+C) Anastomotic leak
+D) Seroma
+ANS: B
+TAGS: Clinical
+EX: The **pink fluid sign** between days 6 and 8 heralds **burst abdomen**. Management: cover the bowel with saline-soaked sterile towels, nasogastric decompression, fluids and antibiotics, then re-suturing in theatre.
+PEARL: Jenkins' rule: the suture length should be at least four times the wound length for mass closure.
+
+Q: A patient on anticoagulants develops a tender abdominal mass after a bout of coughing. The mass remains palpable and does not move when the abdominal muscles are tensed. This sign is:
+A) Carnett's sign
+B) Fothergill's sign
+C) Cullen's sign
+D) Tillaux's sign
+ANS: B
+TAGS: Eponym
+EX: **Fothergill's sign** indicates a **rectus sheath haematoma** (from the inferior epigastric vessels): the mass does not cross the midline and stays palpable on rectus contraction. Carnett's sign is increased abdominal wall tenderness on tensing the muscles.
+
+Q: The contents of a sliding inguinal hernia on the left side most commonly include the:
+A) Caecum
+B) Sigmoid colon
+C) Small intestine
+D) Omentum
+ANS: B
+TAGS: One-liner
+EX: In a **sliding hernia** a retroperitoneal viscus forms part of the wall of the sac: **sigmoid colon on the left**, caecum on the right, and the bladder medially. The sac must not be dissected off the viscus; it is reduced en masse.

@@ -1,0 +1,589 @@
+@topic Head & Neck
+Q: A 45-year-old has a slow-growing, painless, firm swelling in front of and below the ear lobule for 5 years, with normal facial nerve function. FNAC shows epithelial and myoepithelial cells in a chondromyxoid stroma. The treatment is:
+A) Enucleation
+B) Superficial parotidectomy with facial nerve preservation
+C) Total radical parotidectomy
+D) Radiotherapy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Pleomorphic adenoma** is the most common salivary tumour, usually in the superficial lobe of the parotid. Treatment is **superficial (or extracapsular) parotidectomy**; enucleation leaves pseudopod extensions behind and causes recurrence. Long-standing tumours can transform into carcinoma ex pleomorphic adenoma.
+PEARL: Warthin's tumour: elderly male smokers, tail of the parotid, often bilateral, 'hot' on technetium scan. Most common malignant parotid tumour: mucoepidermoid carcinoma. Adenoid cystic carcinoma shows perineural invasion and is the most common malignancy of minor salivary glands.
+
+Q: Months after parotidectomy a patient has sweating and flushing over the cheek while eating. This is due to aberrant regeneration of fibres of the:
+A) Great auricular nerve
+B) Auriculotemporal nerve
+C) Facial nerve
+D) Lingual nerve
+ANS: B
+TAGS: PQ, Eponym
+EX: **Frey's syndrome (gustatory sweating)**: post-ganglionic parasympathetic secretomotor fibres of the **auriculotemporal nerve** regrow to supply sweat glands and skin vessels. It is demonstrated by Minor's starch-iodine test and treated with botulinum toxin injection.
+
+Q: Salivary calculi are most common in the:
+A) Parotid gland
+B) Submandibular gland
+C) Sublingual gland
+D) Minor salivary glands
+ANS: B
+TAGS: One-liner
+EX: About 80% of salivary stones occur in the **submandibular gland** because its secretion is more mucinous and alkaline with a higher calcium content, and Wharton's duct runs uphill. Most are radio-opaque. Nerves at risk during gland excision: marginal mandibular, lingual and hypoglossal.
+
+Q: A 20-year-old has a smooth cystic swelling at the anterior border of the upper third of the sternocleidomastoid. Aspirate contains cholesterol crystals. The swelling arises from the:
+A) First branchial cleft
+B) Second branchial cleft
+C) Thyroglossal duct
+D) Jugular lymph sac
+ANS: B
+TAGS: Clinical
+EX: **Branchial cyst**: remnant of the **second branchial cleft** (cervical sinus), lined by squamous epithelium with lymphoid tissue. A branchial fistula opens at the lower third of the anterior border of the sternocleidomastoid; its tract passes between the internal and external carotid arteries to the tonsillar fossa.
+
+Q: A newborn has a soft, brilliantly transilluminant, partially compressible swelling in the posterior triangle of the neck. The diagnosis is:
+A) Branchial cyst
+B) Cystic hygroma
+C) Sternomastoid tumour
+D) Dermoid cyst
+ANS: B
+TAGS: Clinical
+EX: **Cystic hygroma** is a macrocystic lymphatic malformation from sequestration of the jugular lymph sac. It may cause obstructed labour or airway compromise and is associated with Turner syndrome. Treatment is excision or sclerotherapy (OK-432, bleomycin).
+
+Q: A carotid body tumour characteristically:
+A) Moves vertically but not horizontally
+B) Moves horizontally but not vertically
+C) Is brilliantly transilluminant
+D) Should be confirmed by FNAC
+ANS: B
+TAGS: Eponym
+EX: **Fontaine's sign**: the tumour moves side to side but not up and down because it is attached to the carotid bifurcation. Angiography shows splaying of the bifurcation (**lyre sign**). It is a paraganglioma (chemodectoma); the Shamblin classification grades vessel involvement. Biopsy and FNAC are avoided because of bleeding.
+
+Q: A classical radical neck dissection (Crile) removes lymph node levels I to V along with all of the following EXCEPT:
+A) Sternocleidomastoid muscle
+B) Internal jugular vein
+C) Spinal accessory nerve
+D) Vagus nerve
+ANS: D
+TAGS: One-liner
+EX: Radical neck dissection removes levels I to V with the **sternocleidomastoid, internal jugular vein and spinal accessory nerve**. Modified radical dissection preserves one or more of these three. Selective (supraomohyoid) dissection removes levels I to III for a node-negative oral cavity cancer.
+
+Q: In the AJCC 8th edition staging of oral cavity cancer, which parameter was added to the T category?
+A) Tumour thickness on palpation
+B) Depth of invasion
+C) Perineural invasion
+D) Histological grade
+ANS: B
+TAGS: PQ, Recent update
+EX: **Depth of invasion (DOI)**: T1 is 2 cm or less with DOI 5 mm or less; T2 is DOI over 5 mm up to 10 mm (or size 2 to 4 cm); T3 is DOI over 10 mm or size over 4 cm. **Extranodal extension** was added to the N category.
+PEARL: In India the most common site of oral cancer is the buccal mucosa (gingivobuccal complex) from tobacco chewing; worldwide it is the lateral border of the tongue. Erythroplakia has a higher malignant potential than leukoplakia.
+
+Q: A patient with a carious lower molar develops bilateral brawny swelling of the floor of the mouth and submandibular region with a raised tongue and difficulty breathing. The priority is:
+A) Incision and drainage under local anaesthesia
+B) Securing the airway
+C) Dental extraction
+D) Oral antibiotics and review
+ANS: B
+TAGS: Clinical
+EX: **Ludwig's angina** is a rapidly spreading cellulitis of the submandibular, sublingual and submental spaces. Death results from airway obstruction, so the **airway is secured first** (awake fibre-optic intubation or tracheostomy), followed by intravenous antibiotics and decompression.
+
+Q: A ranula is a:
+A) Retention cyst of the submandibular gland
+B) Mucous extravasation cyst arising from the sublingual gland
+C) Dermoid cyst of the floor of the mouth
+D) Cyst of the thyroglossal duct
+ANS: B
+TAGS: One-liner
+EX: A **ranula** is a bluish, translucent cyst in the floor of the mouth arising from the **sublingual gland**. A plunging ranula extends through or behind the mylohyoid into the neck. Treatment is excision of the sublingual gland with the cyst.
+
+@topic Neurosurgery
+Q: A young man is knocked unconscious briefly in a fight, recovers fully, and 3 hours later becomes drowsy with a dilated right pupil. CT shows a biconvex hyperdense collection. The source of bleeding is the:
+A) Bridging veins
+B) Middle meningeal artery
+C) Berry aneurysm
+D) Lenticulostriate arteries
+ANS: B
+TAGS: PQ, Clinical
+EX: **Extradural haematoma**: fracture at the pterion tears the **middle meningeal artery**. A **lucid interval** is classic. The clot is **biconvex (lentiform)** and does not cross suture lines. Treatment is urgent craniotomy and evacuation.
+OTH: A: Bridging veins bleed in subdural haematoma, which is crescentic and crosses sutures. | C: Aneurysm rupture causes subarachnoid haemorrhage.
+
+Q: An elderly alcoholic has fluctuating confusion and headache for 3 weeks after a minor fall. CT shows a crescent-shaped hypodense collection over the left hemisphere with midline shift. The treatment is:
+A) Craniectomy
+B) Burr-hole drainage
+C) Mannitol alone
+D) Lumbar puncture
+ANS: B
+TAGS: Clinical
+EX: **Chronic subdural haematoma** results from torn bridging veins in an atrophic brain. The collection is crescentic and becomes hypodense after about 3 weeks. Symptomatic collections are treated by **burr-hole evacuation**.
+
+Q: A 45-year-old has sudden 'worst headache of life' with neck stiffness. Non-contrast CT done at 12 hours is normal. The next step is:
+A) Discharge with analgesics
+B) Lumbar puncture for xanthochromia
+C) MRI of the brain after one week
+D) EEG
+ANS: B
+TAGS: PQ, Investigation
+EX: Non-contrast CT is the first investigation for **subarachnoid haemorrhage**. If it is negative and suspicion remains, **lumbar puncture** (xanthochromia, best after 12 hours) is done. The aneurysm is then identified by CT angiography or digital subtraction angiography (gold standard).
+PEARL: The most common cause of spontaneous SAH is a ruptured berry aneurysm (anterior communicating artery most common); overall the most common cause is trauma. Nimodipine reduces the effects of vasospasm.
+
+Q: Cushing's triad of raised intracranial pressure consists of:
+A) Hypotension, tachycardia, tachypnoea
+B) Hypertension, bradycardia, irregular respiration
+C) Hypertension, tachycardia, fever
+D) Hypotension, bradycardia, apnoea
+ANS: B
+TAGS: Eponym
+EX: **Cushing's triad**: hypertension (with widened pulse pressure), bradycardia and irregular respiration; it is a late sign of impending herniation.
+PEARL: Cerebral perfusion pressure = mean arterial pressure minus intracranial pressure; keep it above 60 mmHg. Measures: head elevation to 30°, sedation, mannitol or hypertonic saline, brief hyperventilation (PaCO2 30 to 35 mmHg), CSF drainage and decompressive craniectomy.
+
+Q: Following head injury, a patient has bilateral periorbital ecchymosis and clear fluid dripping from the nose. Which statement is correct?
+A) A nasogastric tube should be passed for feeding
+B) Beta-2 transferrin in the fluid confirms a CSF leak
+C) Immediate surgical repair is mandatory
+D) The fracture involves the middle cranial fossa
+ANS: B
+TAGS: PQ, Clinical
+EX: Raccoon eyes and CSF rhinorrhoea indicate an **anterior cranial fossa fracture**. **Beta-2 transferrin** (or beta-trace protein) is specific for CSF. Most leaks stop spontaneously within 7 to 10 days. Nasogastric tubes and nasotracheal intubation are avoided.
+PEARL: Battle's sign (mastoid ecchymosis), haemotympanum and CSF otorrhoea indicate a middle cranial fossa (petrous temporal) fracture.
+
+Q: A patient with an expanding temporal extradural haematoma develops a dilated pupil on the same side. This is due to compression of the:
+A) Optic nerve
+B) Oculomotor nerve by the herniating uncus
+C) Abducens nerve
+D) Cervical sympathetic chain
+ANS: B
+TAGS: Applied anatomy
+EX: **Uncal (transtentorial) herniation** compresses the ipsilateral **third nerve**, whose superficial parasympathetic fibres are affected first, giving a dilated pupil, and the cerebral peduncle, giving contralateral hemiparesis. Compression of the opposite peduncle against the tentorium (Kernohan's notch) causes false-localising ipsilateral hemiparesis.
+
+Q: The most common malignant brain tumour of childhood, arising in the cerebellar vermis and spreading through the CSF, is:
+A) Pilocytic astrocytoma
+B) Medulloblastoma
+C) Ependymoma
+D) Craniopharyngioma
+ANS: B
+TAGS: One-liner
+EX: **Medulloblastoma**: midline cerebellar (vermis) tumour of children with Homer Wright rosettes and 'drop metastases' to the spine; it is radiosensitive. Pilocytic astrocytoma is the most common brain tumour of children overall (cystic with a mural nodule, Rosenthal fibres, good prognosis).
+PEARL: In adults the most common brain tumour is metastasis; the most common primary malignant tumour is glioblastoma; the most common benign tumour is meningioma (dural tail, psammoma bodies).
+
+Q: A child has growth failure, bitemporal hemianopia and a calcified cystic suprasellar mass. The most likely diagnosis is:
+A) Pituitary adenoma
+B) Craniopharyngioma
+C) Optic glioma
+D) Germinoma
+ANS: B
+TAGS: Clinical
+EX: **Craniopharyngioma** arises from remnants of Rathke's pouch. It is cystic (with 'machine-oil' fluid containing cholesterol crystals) and calcified, and causes visual field defects, endocrine failure and diabetes insipidus.
+
+Q: The most common complication of a ventriculoperitoneal shunt is:
+A) Subdural haematoma
+B) Shunt obstruction
+C) Bowel perforation
+D) Seizures
+ANS: B
+TAGS: One-liner
+EX: **Blockage** (usually at the proximal ventricular end) is the most common complication, followed by infection, most often with **Staphylococcus epidermidis**.
+PEARL: Normal pressure hydrocephalus (Hakim's triad): gait disturbance, dementia and urinary incontinence, with enlarged ventricles and normal opening pressure.
+
+Q: A patient has severe back pain, bilateral sciatica, saddle anaesthesia and urinary retention. The management is:
+A) Bed rest and analgesics
+B) Urgent MRI and surgical decompression
+C) Epidural steroid injection
+D) Physiotherapy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Cauda equina syndrome**, most often from a large central lumbar disc prolapse, is a surgical emergency. **Urgent MRI and decompression** (ideally within 24 to 48 hours) give the best chance of recovering bladder and bowel function.
+
+Q: An elderly man with cervical spondylosis falls on his face and has weakness that is much greater in the arms than in the legs. The diagnosis is:
+A) Anterior cord syndrome
+B) Central cord syndrome
+C) Brown-Séquard syndrome
+D) Posterior cord syndrome
+ANS: B
+TAGS: Clinical
+EX: **Central cord syndrome** is the most common incomplete cord injury, due to hyperextension in a spondylotic spine; the upper limbs are affected more than the lower. **Anterior cord syndrome** has the worst prognosis (loss of motor, pain and temperature with preserved dorsal columns). **Brown-Séquard syndrome** has the best prognosis (ipsilateral motor and dorsal column loss, contralateral pain and temperature loss).
+
+Q: Diffuse axonal injury is best demonstrated by:
+A) Plain X-ray of the skull
+B) Non-contrast CT
+C) MRI
+D) Cerebral angiography
+ANS: C
+TAGS: Investigation
+EX: Diffuse axonal injury results from rotational acceleration and deceleration that shears axons at the grey-white junction, corpus callosum and brainstem. CT is often normal despite deep coma; **MRI (susceptibility-weighted and diffusion sequences)** shows the lesions.
+
+@topic Cardiothoracic
+Q: The 'triangle of safety' for insertion of an intercostal drain is bounded by all of the following EXCEPT:
+A) Anterior border of latissimus dorsi
+B) Lateral border of pectoralis major
+C) A horizontal line at the level of the nipple (5th intercostal space)
+D) Posterior border of trapezius
+ANS: D
+TAGS: Applied anatomy
+EX: Boundaries: anterior border of latissimus dorsi, lateral border of pectoralis major, a line through the 5th intercostal space, with the apex below the axilla. The drain is inserted **just above the upper border of the lower rib** to avoid the neurovascular bundle.
+
+Q: The conduit with the best long-term patency in coronary artery bypass grafting is the:
+A) Great saphenous vein
+B) Left internal mammary artery
+C) Radial artery
+D) Gastroepiploic artery
+ANS: B
+TAGS: One-liner
+EX: The **left internal mammary (thoracic) artery** grafted to the left anterior descending artery has a patency above 90% at 10 years. Saphenous vein grafts have about 50% patency at 10 years.
+PEARL: CABG is preferred over stenting in left main disease, triple-vessel disease with poor left ventricular function, and diabetics with multivessel disease.
+
+Q: A tall, thin 22-year-old male smoker has a second episode of right spontaneous pneumothorax. After drainage, the definitive treatment is:
+A) Long-term intercostal drainage
+B) VATS bullectomy with pleurodesis
+C) Pneumonectomy
+D) Observation
+ANS: B
+TAGS: PQ, Management
+EX: Primary spontaneous pneumothorax is caused by rupture of apical subpleural blebs. Indications for surgery: **second ipsilateral episode**, first contralateral episode, bilateral pneumothorax, persistent air leak beyond 5 to 7 days, and high-risk occupations (pilots, divers). **VATS bullectomy with pleurodesis or pleurectomy** is the procedure of choice.
+
+Q: Milky fluid drains from a chest tube after oesophagectomy. Which finding confirms the diagnosis?
+A) Pleural fluid pH below 7.2
+B) Pleural fluid triglycerides above 110 mg/dL
+C) Pleural fluid glucose below 40 mg/dL
+D) Pleural fluid adenosine deaminase above 40 U/L
+ANS: B
+TAGS: Clinical
+EX: **Chylothorax** follows thoracic duct injury; triglycerides above 110 mg/dL or chylomicrons are diagnostic. Initial management is drainage, a medium-chain triglyceride diet or total parenteral nutrition, and octreotide. Output above 1 litre/day for 5 days calls for thoracic duct ligation.
+
+Q: Which paraneoplastic syndrome is most characteristic of squamous cell carcinoma of the lung?
+A) SIADH
+B) Hypercalcaemia due to PTH-related peptide
+C) Cushing's syndrome
+D) Lambert-Eaton syndrome
+ANS: B
+TAGS: One-liner
+EX: **Squamous cell carcinoma**: central, cavitating, and secretes **PTHrP causing hypercalcaemia**. **Small cell carcinoma**: SIADH, ectopic ACTH and Lambert-Eaton syndrome. **Adenocarcinoma**: the most common type overall, peripheral, and the most common in non-smokers and women.
+PEARL: Pancoast (superior sulcus) tumour: Horner's syndrome with pain and wasting in the C8 to T1 distribution.
+
+Q: The most common tumour of the anterior mediastinum in adults is:
+A) Neurogenic tumour
+B) Thymoma
+C) Bronchogenic cyst
+D) Pericardial cyst
+ANS: B
+TAGS: One-liner
+EX: Anterior mediastinum: **thymoma** (also thyroid, teratoma, 'terrible' lymphoma). Middle: cysts and lymphoma. Posterior: **neurogenic tumours** (the most common mediastinal mass overall). Thymoma is associated with myasthenia gravis, pure red cell aplasia and hypogammaglobulinaemia.
+
+Q: In a cyanotic newborn with duct-dependent circulation, patency of the ductus arteriosus is maintained with:
+A) Indomethacin
+B) Prostaglandin E1
+C) Ibuprofen
+D) Oxygen
+ANS: B
+TAGS: Pharmacology
+EX: **Prostaglandin E1 (alprostadil)** keeps the duct open. **Indomethacin, ibuprofen or paracetamol** closes a patent ductus in preterm infants. The modified Blalock-Taussig shunt (subclavian artery to pulmonary artery) is a palliative procedure for Fallot's tetralogy.
+
+Q: Notching of the inferior borders of the ribs on chest X-ray in coarctation of the aorta is due to:
+A) Enlarged intercostal veins
+B) Enlarged collateral posterior intercostal arteries
+C) Erosion by the dilated aorta
+D) Rib hypoplasia
+ANS: B
+TAGS: One-liner
+EX: Collateral flow through dilated **posterior intercostal arteries** erodes the 3rd to 9th ribs; the first two ribs are spared because their arteries arise from the costocervical trunk. Other signs: '3' sign on X-ray, radio-femoral delay; associations: bicuspid aortic valve and Turner syndrome.
+
+Q: A patient with pneumonia has a persistent loculated pleural collection with a thick peel preventing lung expansion at 6 weeks. The treatment is:
+A) Repeated aspiration
+B) Decortication
+C) Antibiotics alone
+D) Pleurodesis
+ANS: B
+TAGS: Management
+EX: Empyema stages: exudative (drain and antibiotics), fibrinopurulent (drain with fibrinolytics or VATS debridement), and **organised (thick peel, trapped lung), which needs decortication**.
+
+Q: An intra-aortic balloon pump is contraindicated in:
+A) Cardiogenic shock after myocardial infarction
+B) Severe aortic regurgitation
+C) Acute mitral regurgitation
+D) Refractory unstable angina
+ANS: B
+TAGS: One-liner
+EX: The balloon lies in the descending thoracic aorta, **inflates in diastole** (improving coronary perfusion) and deflates in systole (reducing afterload). It is contraindicated in **aortic regurgitation**, aortic dissection and severe aorto-iliac disease.
+
+@topic Paediatric Surgery
+Q: The most common type of tracheo-oesophageal anomaly is:
+A) Isolated oesophageal atresia without fistula
+B) Proximal oesophageal atresia with distal tracheo-oesophageal fistula
+C) H-type fistula without atresia
+D) Proximal fistula with distal atresia
+ANS: B
+TAGS: PQ, One-liner
+EX: **Proximal atresia with a distal fistula (Gross type C)** accounts for about 85%. The newborn drools and chokes on feeds, a nasogastric tube coils in the upper pouch, and gas is present in the abdomen. Pure atresia gives a gasless abdomen. Look for VACTERL associations.
+
+Q: A newborn has respiratory distress, a scaphoid abdomen and bowel loops in the left hemithorax on X-ray. Which should be AVOIDED?
+A) Endotracheal intubation
+B) Bag-and-mask ventilation
+C) Nasogastric tube decompression
+D) Delayed surgical repair after stabilisation
+ANS: B
+TAGS: PQ, Clinical
+EX: **Congenital diaphragmatic hernia** (Bochdalek type: posterolateral, left-sided in most). **Bag-mask ventilation distends the herniated stomach and bowel** and worsens lung compression. Management is intubation, gentle ventilation, gastric decompression and **delayed repair** after stabilisation. Prognosis depends on pulmonary hypoplasia and pulmonary hypertension.
+PEARL: Morgagni hernia is anterior (retrosternal), usually right-sided, and presents later.
+
+Q: A 4-week-old first-born boy has non-bilious projectile vomiting after feeds and remains hungry. An olive-shaped mass is felt in the epigastrium. The first step in management is:
+A) Immediate pyloromyotomy
+B) Correction of dehydration and electrolyte imbalance
+C) Barium meal
+D) Upper GI endoscopy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Infantile hypertrophic pyloric stenosis** is a medical emergency, not a surgical one: first correct the **hypochloraemic, hypokalaemic metabolic alkalosis** with saline and potassium, then perform **Ramstedt's pyloromyotomy**. Ultrasound criteria: muscle thickness 4 mm or more and canal length 16 mm or more.
+
+Q: A newborn with Down syndrome has bilious vomiting from the first day. X-ray of the abdomen shows a 'double bubble' sign with no distal gas. The diagnosis is:
+A) Pyloric stenosis
+B) Duodenal atresia
+C) Jejunal atresia
+D) Hirschsprung's disease
+ANS: B
+TAGS: Clinical
+EX: **Duodenal atresia** is due to failure of recanalisation; about one-third have trisomy 21. Treatment is **duodenoduodenostomy** (Kimura's diamond anastomosis). Jejunal atresia gives a triple bubble and results from an intrauterine vascular accident.
+
+Q: A previously well 2-week-old infant has sudden bilious vomiting. Upper GI contrast study shows the duodenojejunal flexure to the right of the midline with a corkscrew appearance. The operation is:
+A) Ramstedt's operation
+B) Ladd's procedure
+C) Kasai's procedure
+D) Duhamel's procedure
+ANS: B
+TAGS: PQ, Clinical
+EX: **Bilious vomiting in a neonate is malrotation with midgut volvulus until proved otherwise.** **Ladd's procedure**: anticlockwise detorsion, division of Ladd's bands, widening of the mesenteric base, appendicectomy, and placing the small bowel on the right and the colon on the left.
+
+Q: A 9-month-old has episodes of screaming with drawing up of the legs, vomiting and 'red currant jelly' stools. Ultrasound shows a target sign. The child is stable without peritonitis. The treatment is:
+A) Laparotomy and resection
+B) Pneumatic or hydrostatic reduction
+C) Observation
+D) Colonoscopic reduction
+ANS: B
+TAGS: PQ, Clinical
+EX: **Intussusception** (ileocolic most common, age 6 to 18 months; lead point is usually hypertrophied Peyer's patches). **Air or saline enema reduction** under imaging guidance is first-line. Surgery is needed for peritonitis, perforation, shock or failed reduction.
+PEARL: Dance's sign is emptiness of the right iliac fossa. In older children and adults, look for a pathological lead point (Meckel's diverticulum, polyp, lymphoma).
+
+Q: The gold standard for the diagnosis of Hirschsprung's disease is:
+A) Contrast enema
+B) Anorectal manometry
+C) Rectal biopsy
+D) Plain X-ray of the abdomen
+ANS: C
+TAGS: PQ, Investigation
+EX: **Rectal (suction) biopsy** shows absent ganglion cells in the submucosal and myenteric plexuses with hypertrophied nerve trunks, increased acetylcholinesterase staining and absent calretinin. Contrast enema shows a transition zone; manometry shows an absent recto-anal inhibitory reflex.
+PEARL: Presents with failure to pass meconium within 48 hours. The rectosigmoid is the most commonly affected segment; RET mutations and Down syndrome are associated. Pull-through operations: Swenson, Duhamel and Soave.
+
+Q: A preterm neonate on formula feeds develops abdominal distension, bloody stools and gas within the bowel wall on X-ray. The absolute indication for surgery is:
+A) Pneumatosis intestinalis
+B) Portal venous gas
+C) Pneumoperitoneum
+D) Thrombocytopenia
+ANS: C
+TAGS: Clinical
+EX: **Necrotising enterocolitis**: pneumatosis intestinalis is the hallmark (Bell's stage II). Management is bowel rest, antibiotics and parenteral nutrition. **Pneumoperitoneum (perforation)** is the absolute indication for surgery.
+
+Q: In a newborn male with an anorectal malformation, the most common associated fistula is:
+A) Rectovesical
+B) Rectourethral
+C) Rectoperineal
+D) Rectovestibular
+ANS: B
+TAGS: One-liner
+EX: Males: **rectourethral (bulbar) fistula**. Females: **rectovestibular fistula**. A cross-table lateral X-ray in the prone position (or the older invertogram) at 18 to 24 hours shows the level. High anomalies: colostomy, then posterior sagittal anorectoplasty (Peña).
+
+Q: Which statement differentiates gastroschisis from omphalocele?
+A) Gastroschisis is covered by a membranous sac
+B) Gastroschisis lies to the right of a normally inserted umbilical cord
+C) Gastroschisis is more often associated with chromosomal anomalies
+D) Gastroschisis contains liver in most cases
+ANS: B
+TAGS: One-liner
+EX: **Gastroschisis**: defect to the **right of the umbilicus**, no sac, bowel is thickened and matted, associated with young maternal age and intestinal atresia but few other anomalies. **Omphalocele**: central defect covered by a sac with the cord inserted on it, often containing liver, and frequently associated with cardiac defects, trisomies and Beckwith-Wiedemann syndrome.
+
+Q: A 3-year-old has a smooth flank mass that does not cross the midline, with haematuria and hypertension. The likely diagnosis is:
+A) Neuroblastoma
+B) Wilms' tumour
+C) Hydronephrosis
+D) Polycystic kidney
+ANS: B
+TAGS: PQ, Clinical
+EX: **Wilms' tumour (nephroblastoma)**: age 2 to 5 years, WT1 gene (11p13), triphasic histology, metastasises to the lungs. Associations: WAGR, Denys-Drash and Beckwith-Wiedemann syndromes.
+OTH: A: Neuroblastoma occurs below 2 years, crosses the midline, calcifies, displaces the kidney, raises urinary VMA and HVA, shows N-myc amplification, and is the most common extracranial solid tumour of childhood.
+
+Q: A 5-week-old infant has persistent jaundice with pale stools and dark urine; HIDA scan shows no excretion into the bowel. The operation should ideally be done before:
+A) 8 weeks of age
+B) 6 months of age
+C) 1 year of age
+D) 2 years of age
+ANS: A
+TAGS: PQ, One-liner
+EX: **Biliary atresia**: **Kasai portoenterostomy** gives the best results before **60 days (8 weeks)** of life. Ultrasound may show the triangular cord sign. It is the most common indication for liver transplantation in children.
+
+Q: The most common cause of bladder outlet obstruction in a male newborn is:
+A) Urethral atresia
+B) Posterior urethral valves
+C) Ureterocele
+D) Meatal stenosis
+ANS: B
+TAGS: One-liner
+EX: **Posterior urethral valves**: antenatal bilateral hydronephrosis with a thick-walled bladder and a 'keyhole' sign. The investigation of choice is a **micturating cystourethrogram**. Treatment is catheter drainage followed by cystoscopic valve fulguration.
+
+Q: The most common tumour of the newborn is:
+A) Neuroblastoma
+B) Sacrococcygeal teratoma
+C) Wilms' tumour
+D) Hepatoblastoma
+ANS: B
+TAGS: One-liner
+EX: **Sacrococcygeal teratoma** is more common in girls and is classified by Altman. Treatment is early complete excision **including the coccyx**; AFP is used for follow-up. Risk of malignancy increases with age at diagnosis.
+
+Q: A neonate with cystic fibrosis has intestinal obstruction, and X-ray shows a 'soap-bubble' appearance in the right iliac fossa. The initial treatment of uncomplicated cases is:
+A) Immediate laparotomy
+B) Hyperosmolar water-soluble contrast enema
+C) Rectal biopsy
+D) Colostomy
+ANS: B
+TAGS: Clinical
+EX: **Meconium ileus**: inspissated meconium obstructs the terminal ileum (Neuhauser's soap-bubble sign, microcolon). Uncomplicated cases are treated with a **Gastrografin enema**; complicated cases (volvulus, atresia, perforation) need surgery.
+
+@topic Plastic Surgery & Skin
+Q: An elderly farmer has a slowly growing pearly nodule with telangiectasia and a rolled edge near the inner canthus. Which statement is true?
+A) It commonly metastasises to lymph nodes
+B) It is the most common skin cancer
+C) It arises from melanocytes
+D) It typically occurs on the lower lip
+ANS: B
+TAGS: PQ, Clinical
+EX: **Basal cell carcinoma (rodent ulcer)** is the most common skin cancer. It occurs on the upper face (above a line from the angle of the mouth to the ear lobe), is locally invasive and **almost never metastasises**. Histology shows peripheral palisading of nuclei. Treatment is excision with a 3 to 5 mm margin, or Mohs micrographic surgery at critical sites.
+OTH: D: The lower lip is the typical site of squamous cell carcinoma, which has an everted edge and keratin pearls.
+
+Q: The most important prognostic factor in localised cutaneous melanoma is:
+A) Diameter of the lesion
+B) Breslow thickness
+C) Colour variegation
+D) Site of the lesion
+ANS: B
+TAGS: One-liner
+EX: **Breslow thickness** (depth in millimetres from the granular layer) is the most important prognostic factor in localised disease, followed by ulceration. It determines excision margins and the need for sentinel node biopsy.
+PEARL: Margins: in situ 0.5 to 1 cm; up to 1 mm, 1 cm; 1 to 2 mm, 1 to 2 cm; more than 2 mm, 2 cm. Superficial spreading is the most common type; nodular has the worst prognosis; lentigo maligna the best; acral lentiginous is the most common in dark-skinned populations.
+
+Q: A suspicious pigmented lesion of 1 cm on the back should be biopsied by:
+A) Shave biopsy
+B) Excision biopsy with a 1 to 3 mm margin
+C) Wide excision with a 2 cm margin
+D) FNAC
+ANS: B
+TAGS: Management
+EX: **Full-thickness excision biopsy with a narrow margin** allows accurate measurement of Breslow thickness. Shave biopsy must be avoided. Definitive wide excision follows once the depth is known.
+
+Q: The most common soft tissue sarcoma in children is:
+A) Liposarcoma
+B) Rhabdomyosarcoma
+C) Synovial sarcoma
+D) Fibrosarcoma
+ANS: B
+TAGS: One-liner
+EX: **Rhabdomyosarcoma** is the most common in children (head and neck, genitourinary). In adults, liposarcoma is the most common in the retroperitoneum and undifferentiated pleomorphic sarcoma in the extremities. Sarcomas spread by blood to the **lungs**; **histological grade** is the most important prognostic factor.
+PEARL: Sarcomas that spread to lymph nodes (SCARE): Synovial sarcoma, Clear cell sarcoma, Angiosarcoma, Rhabdomyosarcoma, Epithelioid sarcoma. Biopsy is by core needle, or an incisional biopsy placed along the line of the future resection.
+
+Q: The pectoralis major myocutaneous flap, the workhorse flap for head and neck reconstruction, is based on the:
+A) Internal mammary artery perforators
+B) Pectoral branch of the thoraco-acromial artery
+C) Lateral thoracic artery
+D) Thoracodorsal artery
+ANS: B
+TAGS: PQ, Applied anatomy
+EX: PMMC flap: **pectoral branch of the thoraco-acromial artery**. Latissimus dorsi flap: thoracodorsal artery. Pedicled TRAM flap: superior epigastric artery. DIEP flap: deep inferior epigastric perforators. Deltopectoral flap: internal mammary perforators. A free fibula flap (peroneal artery) is preferred for mandibular reconstruction.
+
+Q: A Z-plasty with limbs at 60° provides a theoretical gain in length of:
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+ANS: C
+TAGS: One-liner
+EX: Z-plasty angles and gain in length: 30° gives 25%, 45° gives 50%, **60° gives 75%**. It is used to lengthen and re-orient contracted scars.
+
+Q: In unilateral cleft lip, the repair is traditionally timed by the 'rule of tens'. Which is NOT part of it?
+A) Age of 10 weeks
+B) Weight of 10 pounds
+C) Haemoglobin of 10 g/dL
+D) Head circumference of 10 inches
+ANS: D
+TAGS: One-liner
+EX: **Rule of 10**: 10 weeks of age, 10 pounds in weight and haemoglobin of 10 g/dL. Lip repair (Millard's rotation-advancement) is done at 3 to 6 months; palate repair at 9 to 18 months, before speech develops.
+
+Q: A patient has a finger held in flexion with uniform fusiform swelling, tenderness along the flexor sheath and severe pain on passive extension. The diagnosis is:
+A) Paronychia
+B) Felon
+C) Suppurative flexor tenosynovitis
+D) Web space infection
+ANS: C
+TAGS: Eponym
+EX: **Kanavel's four signs**: flexed posture of the finger, fusiform swelling, tenderness along the flexor tendon sheath, and pain on passive extension (the earliest and most reliable). Treatment is urgent sheath drainage and irrigation. The most common hand infection overall is paronychia.
+
+Q: An ulcer with an undermined edge is characteristic of:
+A) Basal cell carcinoma
+B) Tuberculous ulcer
+C) Squamous cell carcinoma
+D) Venous ulcer
+ANS: B
+TAGS: One-liner
+EX: Undermined edge: **tuberculosis**. Punched-out edge: syphilitic (gummatous), trophic and arterial ulcers. Rolled (beaded) edge: basal cell carcinoma. Everted edge: squamous cell carcinoma. Sloping edge: healing or venous ulcer.
+
+Q: A 3-month-old infant has a rapidly enlarging bright red, raised lesion on the cheek that was not present at birth. The first-line treatment, if treatment is needed, is:
+A) Surgical excision
+B) Oral propranolol
+C) Pulsed dye laser
+D) Intralesional steroids
+ANS: B
+TAGS: Management
+EX: **Infantile haemangioma** appears after birth, proliferates in the first year and then involutes (most by 5 to 7 years; GLUT-1 positive). Most need only observation; **oral propranolol** is first-line for lesions that threaten vision, airway or function, or ulcerate. Vascular malformations (for example, port-wine stain) are present at birth and never involute.
+
+@topic Transplant & Oncology
+Q: Under the Transplantation of Human Organs Act in India, brain-stem death is certified by a board of doctors performing the tests:
+A) Once, by two doctors
+B) Twice, 6 hours apart, by a board of four doctors
+C) Three times, 24 hours apart
+D) Twice, 1 hour apart, by any two doctors
+ANS: B
+TAGS: PQ, One-liner
+EX: The board has **four members**: the medical administrator in charge of the hospital, an authorised specialist, a neurologist or neurosurgeon, and the treating doctor. Brain-stem tests, including the apnoea test, are done **twice, at least 6 hours apart**.
+
+Q: The most important opportunistic viral infection between 1 and 6 months after solid organ transplantation is:
+A) Herpes simplex virus
+B) Cytomegalovirus
+C) Epstein-Barr virus
+D) Hepatitis B virus
+ANS: B
+TAGS: One-liner
+EX: **CMV** is the most common significant infection in this period, with highest risk when a seronegative recipient receives a seropositive organ. Prophylaxis and treatment use valganciclovir or ganciclovir. EBV causes post-transplant lymphoproliferative disorder; BK virus causes nephropathy after renal transplant.
+
+Q: The maximum acceptable cold ischaemia time is shortest for which organ?
+A) Kidney
+B) Liver
+C) Heart
+D) Pancreas
+ANS: C
+TAGS: One-liner
+EX: Approximate limits: **heart 4 to 6 hours**, lung 6 to 8 hours, liver 12 hours, pancreas 12 to 18 hours, kidney 24 to 36 hours. University of Wisconsin solution is the standard preservation fluid for abdominal organs.
+
+Q: A graft exchanged between genetically identical twins is called:
+A) Autograft
+B) Isograft
+C) Allograft
+D) Xenograft
+ANS: B
+TAGS: One-liner
+EX: Autograft: same individual. **Isograft (syngeneic)**: genetically identical individuals. Allograft (homograft): different individuals of the same species. Xenograft (heterograft): different species.
+
+Q: Which tumour marker is correctly matched?
+A) CA 125: pancreatic carcinoma
+B) CA 19-9: ovarian carcinoma
+C) Calcitonin: medullary carcinoma of the thyroid
+D) Alpha-fetoprotein: pure seminoma
+ANS: C
+TAGS: One-liner
+EX: **Calcitonin**: medullary thyroid carcinoma. CA 19-9: pancreatic and biliary cancers. CA 125: ovarian cancer. AFP: hepatocellular carcinoma and yolk sac tumour (never pure seminoma). CEA: colorectal cancer. CA 15-3: breast cancer. PSA: prostate cancer. Chromogranin A: neuroendocrine tumours.
+
+Q: The principal dose-limiting toxicity of tacrolimus is:
+A) Bone marrow suppression
+B) Nephrotoxicity
+C) Pulmonary fibrosis
+D) Haemorrhagic cystitis
+ANS: B
+TAGS: Pharmacology
+EX: **Calcineurin inhibitors** (tacrolimus, ciclosporin) cause **nephrotoxicity**, hypertension, neurotoxicity (tremor) and post-transplant diabetes (tacrolimus more). Ciclosporin also causes gum hypertrophy and hirsutism. Mycophenolate causes gastrointestinal upset and marrow suppression; sirolimus impairs wound healing and causes hyperlipidaemia.

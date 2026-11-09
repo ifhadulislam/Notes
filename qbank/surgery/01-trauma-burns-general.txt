@@ -1,0 +1,568 @@
+@topic Trauma
+Q: A 28-year-old motorcyclist is brought with severe breathlessness, distended neck veins, absent breath sounds and a hyper-resonant note on the right, with trachea shifted to the left. BP is 80/50 mmHg. What is the immediate next step?
+A) Urgent chest X-ray
+B) Needle decompression
+C) Pericardiocentesis
+D) Endotracheal intubation
+ANS: B
+TAGS: PQ, Clinical
+EX: This is **tension pneumothorax**, a clinical diagnosis. Treatment must not wait for imaging: immediate **needle (or finger) decompression**, followed by an intercostal drain in the 5th intercostal space just anterior to the mid-axillary line.
+OTH: A: Waiting for an X-ray in tension pneumothorax is a classic error and can be fatal. | C: Tamponade also gives raised JVP and hypotension, but breath sounds are normal and the trachea is central. | D: Positive-pressure ventilation before decompression worsens the tension.
+PEARL: ATLS 10th edition: adult needle decompression site is the **5th ICS, anterior to the mid-axillary line**; in children the 2nd ICS mid-clavicular line is still used.
+
+Q: Beck's triad of cardiac tamponade includes all of the following EXCEPT:
+A) Hypotension
+B) Raised jugular venous pressure
+C) Muffled heart sounds
+D) Pulsus paradoxus
+ANS: D
+TAGS: PQ, Eponym
+EX: **Beck's triad** = hypotension + raised JVP + muffled heart sounds. Pulsus paradoxus and Kussmaul's sign occur in tamponade but are not part of the triad.
+PEARL: In trauma, tamponade is confirmed by the pericardial view of eFAST. Definitive treatment is thoracotomy or sternotomy; pericardiocentesis is only a temporising measure.
+
+Q: After insertion of an intercostal drain for traumatic haemothorax, which finding is an indication for urgent thoracotomy?
+A) Initial drainage of 500 mL
+B) Initial drainage of more than 1500 mL
+C) Drainage of 50 mL/hour for 2 hours
+D) Persistent air leak for 6 hours
+ANS: B
+TAGS: PQ, Management
+EX: **Massive haemothorax** is more than **1500 mL** of blood on tube insertion (or more than one-third of blood volume), or continuing loss of **more than 200 mL/hour for 2 to 4 hours**. Both are indications for thoracotomy.
+OTH: A: 500 mL is managed with drainage and observation. | C: The ongoing-loss threshold is 200 mL/h, not 50 mL/h. | D: An air leak alone suggests a lung or bronchial injury and is first observed or bronchoscoped.
+
+Q: A trauma patient has a pulse of 112/min, normal systolic blood pressure, narrowed pulse pressure, respiratory rate of 24/min and is mildly anxious. What is the estimated blood loss?
+A) Less than 15%
+B) 15 to 30%
+C) 31 to 40%
+D) More than 40%
+ANS: B
+TAGS: PQ, Classification
+EX: This is **class II haemorrhage (15 to 30%, 750 to 1500 mL)**: tachycardia above 100, normal systolic BP and a **reduced pulse pressure**. Systolic BP falls only in class III (more than 30%).
+OTH: A: Class I has minimal change in vital signs. | C: Class III shows a fall in systolic BP, pulse above 120 and confusion. | D: Class IV is pre-terminal with negligible urine output and lethargy.
+PEARL: Earliest sign of hypovolaemic shock is **tachycardia**; a fall in blood pressure means at least 30% of blood volume is lost.
+
+Q: A haemodynamically unstable patient with blunt abdominal trauma has free fluid in Morison's pouch on FAST. The next step is:
+A) Contrast-enhanced CT of the abdomen
+B) Diagnostic peritoneal lavage
+C) Emergency laparotomy
+D) Repeat FAST after 30 minutes
+ANS: C
+TAGS: PQ, Management
+EX: **Unstable + FAST positive = laparotomy.** CT is the investigation of choice only in haemodynamically stable patients.
+OTH: A: The unstable patient must never be sent to the CT scanner. | B: DPL is used when FAST is unavailable or equivocal in an unstable patient. | D: Repeating FAST is for a stable patient with an initially negative scan.
+PEARL: FAST views: pericardial, hepatorenal (Morison's pouch), splenorenal and pelvis. eFAST adds both pleural spaces. FAST misses retroperitoneal and hollow-viscus injury.
+
+Q: The organ most commonly injured in blunt abdominal trauma is:
+A) Liver
+B) Spleen
+C) Kidney
+D) Small intestine
+ANS: B
+TAGS: One-liner
+EX: The **spleen** is the most commonly injured organ in blunt abdominal trauma; the **liver** is the most commonly injured in penetrating (stab) trauma and overall, and the **small bowel** in gunshot wounds.
+PEARL: Seat-belt sign is associated with small bowel and mesenteric injury and with a Chance fracture of the lumbar spine.
+
+Q: A head injury patient opens eyes to pain, makes incomprehensible sounds and withdraws the limb from a painful stimulus. The Glasgow Coma Scale score is:
+A) 6
+B) 7
+C) 8
+D) 9
+ANS: C
+TAGS: PQ, Calculation
+EX: Eye opening to pain = **2**, incomprehensible sounds = **2**, withdrawal (normal flexion) = **4**. Total = **8**, which is a severe head injury and an indication for a definitive airway.
+PEARL: GCS: Eye 4, Verbal 5, Motor 6 (minimum 3, maximum 15). Motor: obeys 6, localises 5, withdraws 4, abnormal flexion 3, extension 2, none 1. The motor score is the best predictor of outcome.
+
+Q: Flail chest is best defined as:
+A) Fracture of a single rib at two places
+B) Fracture of two or more consecutive ribs at two or more places
+C) Fracture of the first rib with clavicle
+D) Bilateral fracture of the 11th and 12th ribs
+ANS: B
+TAGS: Definition
+EX: A flail segment results when **two or more adjacent ribs are fractured in two or more places** (or with costochondral separation), producing paradoxical movement. The hypoxia is mainly due to the underlying **pulmonary contusion**.
+PEARL: Management is oxygen, adequate analgesia (epidural or nerve block) and judicious fluids; ventilation only if respiratory failure develops.
+
+Q: The correct initial management of an open (sucking) chest wound is:
+A) Tight occlusive dressing on all four sides
+B) Sterile dressing taped on three sides
+C) Immediate needle thoracostomy
+D) Primary closure of the wound in the emergency room
+ANS: B
+TAGS: Management
+EX: A **three-sided dressing** acts as a flutter valve: it lets air out during expiration and prevents entry during inspiration. A chest drain is then placed at a site away from the wound, followed by definitive closure.
+OTH: A: Sealing all four sides can convert it into a tension pneumothorax. | C: Needle thoracostomy is for tension pneumothorax. | D: Definitive closure is done in theatre later.
+
+Q: The 'lethal triad' in a trauma patient consists of:
+A) Hypotension, bradycardia, hypothermia
+B) Hypothermia, acidosis, coagulopathy
+C) Hypoxia, hypercarbia, acidosis
+D) Hypotension, raised JVP, muffled heart sounds
+ANS: B
+TAGS: PQ, One-liner
+EX: **Hypothermia, acidosis and coagulopathy** form a self-perpetuating vicious cycle. Its presence is the indication for **damage control surgery**: control bleeding and contamination, temporary closure, ICU resuscitation, then planned re-operation in 24 to 48 hours.
+
+Q: During mass-casualty triage, a patient who is walking with a minor forearm laceration is given which colour tag?
+A) Red
+B) Yellow
+C) Green
+D) Black
+ANS: C
+TAGS: PQ, One-liner
+EX: **Green** = ambulatory, minor injuries ('walking wounded'). **Red** = immediate, life-threatening but salvageable. **Yellow** = urgent but can wait. **Black** = dead or moribund.
+PEARL: START triage: respiratory rate above 30, absent radial pulse or capillary refill above 2 seconds, or inability to follow commands makes the patient **red**.
+
+Q: Zone II of the neck in penetrating trauma extends from:
+A) Clavicle to the cricoid cartilage
+B) Cricoid cartilage to the angle of the mandible
+C) Angle of the mandible to the base of the skull
+D) Sternal notch to the hyoid bone
+ANS: B
+TAGS: Anatomy
+EX: Zone I: clavicle and sternal notch to cricoid. **Zone II: cricoid to the angle of the mandible** (most commonly injured, easiest to explore). Zone III: angle of the mandible to the skull base.
+PEARL: Hard signs (expanding haematoma, pulsatile bleeding, air bubbling, stridor) need immediate exploration regardless of zone.
+
+Q: A haemodynamically stable 20-year-old has a grade III splenic laceration on CECT after blunt trauma, with no contrast blush. The best management is:
+A) Immediate splenectomy
+B) Non-operative management with monitoring
+C) Diagnostic laparoscopy
+D) Splenorrhaphy
+ANS: B
+TAGS: PQ, Management
+EX: **Haemodynamic stability, not the grade, decides management.** Stable patients are managed non-operatively with bed rest, serial examination and haemoglobin. A contrast blush is treated by angioembolisation.
+OTH: A: Splenectomy is for the unstable patient or failed non-operative management. | C: Laparoscopy has no role here. | D: Splenorrhaphy is an operative salvage option found at laparotomy.
+PEARL: After splenectomy, vaccinate against pneumococcus, meningococcus and H. influenzae type b, ideally **14 days after** emergency surgery (or 14 days before elective surgery).
+
+Q: Tranexamic acid in a bleeding trauma patient should be started within:
+A) 1 hour
+B) 3 hours
+C) 6 hours
+D) 12 hours
+ANS: B
+TAGS: PQ, One-liner
+EX: The CRASH-2 trial showed a mortality benefit when tranexamic acid is given **within 3 hours** of injury: 1 g over 10 minutes followed by 1 g over 8 hours. Given later, it may increase death from bleeding.
+PEARL: Massive transfusion uses packed cells : plasma : platelets in a **1:1:1** ratio.
+
+Q: Permissive hypotension during trauma resuscitation is contraindicated in:
+A) Penetrating abdominal injury
+B) Ruptured spleen
+C) Severe traumatic brain injury
+D) Pelvic fracture
+ANS: C
+TAGS: Management
+EX: Permissive hypotension (systolic about 80 to 90 mmHg until bleeding is controlled) avoids dislodging clots. It is avoided in **head and spinal cord injury** because cerebral perfusion pressure depends on the mean arterial pressure.
+
+Q: A 30-year-old with severe maxillofacial trauma cannot be intubated or ventilated. The airway of choice is:
+A) Nasotracheal intubation
+B) Surgical cricothyroidotomy
+C) Emergency tracheostomy
+D) Laryngeal mask airway
+ANS: B
+TAGS: PQ, Management
+EX: In a 'cannot intubate, cannot oxygenate' situation the fastest surgical airway is **cricothyroidotomy** through the cricothyroid membrane.
+OTH: A: Nasotracheal intubation is contraindicated with suspected skull base or midface fractures. | C: Tracheostomy takes longer and bleeds more. | D: A supraglottic device is not a definitive airway and is unreliable with distorted anatomy.
+PEARL: Surgical cricothyroidotomy is avoided in children **below 12 years** (risk of subglottic stenosis); needle cricothyroidotomy with jet insufflation is used instead.
+
+Q: During laparotomy for liver trauma, bleeding continues despite the Pringle manoeuvre. The likely source is:
+A) Hepatic artery
+B) Portal vein
+C) Hepatic veins or retrohepatic inferior vena cava
+D) Cystic artery
+ANS: C
+TAGS: Applied anatomy
+EX: The **Pringle manoeuvre** compresses the hepatoduodenal ligament (free edge of the lesser omentum), occluding the hepatic artery and portal vein. Bleeding that continues therefore comes from the **hepatic veins or retrohepatic IVC**.
+PEARL: Most liver injuries in unstable patients are controlled by perihepatic packing (damage control).
+
+Q: Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure above ___ with new organ dysfunction.
+A) 5 mmHg
+B) 12 mmHg
+C) 20 mmHg
+D) 40 mmHg
+ANS: C
+TAGS: Definition
+EX: Normal intra-abdominal pressure is 5 to 7 mmHg. **Intra-abdominal hypertension** is 12 mmHg or more; **abdominal compartment syndrome** is a sustained pressure **above 20 mmHg with new organ dysfunction** (oliguria, raised airway pressures, low cardiac output).
+PEARL: It is measured indirectly by **intravesical (bladder) pressure**. Treatment is decompressive laparotomy with temporary closure (laparostomy).
+
+Q: A patient with blunt trauma has a chest X-ray showing the nasogastric tube coiled in the left hemithorax. The diagnosis is:
+A) Oesophageal rupture
+B) Traumatic diaphragmatic rupture
+C) Left haemothorax
+D) Eventration of the diaphragm
+ANS: B
+TAGS: Clinical
+EX: A nasogastric tube in the chest is diagnostic of **traumatic diaphragmatic rupture**, which is more common on the **left** (the liver protects the right side). Treatment is surgical repair, by laparotomy in the acute setting.
+
+Q: At laparotomy for blunt trauma, a non-expanding pelvic (zone 3) retroperitoneal haematoma is found. The correct approach is:
+A) Explore and ligate bleeding vessels
+B) Do not explore; pack and plan angioembolisation or pelvic stabilisation
+C) Open the haematoma and pack it
+D) Bilateral internal iliac artery ligation
+ANS: B
+TAGS: Management
+EX: Zone 1 (central) haematomas are always explored. Zone 2 (lateral, perirenal) are explored if penetrating or expanding. **Zone 3 (pelvic) haematomas from blunt trauma are not explored** because opening them releases the tamponade; they are managed by pelvic binder or fixation, pre-peritoneal packing and angioembolisation.
+
+Q: Emergency department (resuscitative) thoracotomy has the best outcome in:
+A) Blunt trauma with no signs of life at the scene
+B) Penetrating cardiac injury with witnessed loss of vital signs
+C) Blunt trauma with asystole and no tamponade
+D) Severe head injury with cardiac arrest
+ANS: B
+TAGS: Management
+EX: Survival after resuscitative thoracotomy is highest in **penetrating thoracic (especially cardiac stab) injuries with witnessed arrest or signs of life on arrival**. Outcomes in blunt trauma arrest are dismal.
+
+Q: According to ATLS 10th edition, the initial fluid bolus for an adult in haemorrhagic shock is:
+A) 2 litres of warmed crystalloid
+B) 1 litre of warmed isotonic crystalloid
+C) 500 mL of colloid
+D) 20 mL/kg of 5% dextrose
+ANS: B
+TAGS: Recent update
+EX: ATLS 10 reduced the initial bolus to **1 litre of warmed isotonic crystalloid** in adults (20 mL/kg in children), followed by early blood products if there is no response. Large-volume crystalloid worsens coagulopathy.
+
+@topic Burns
+Q: A 70 kg man sustains 40% TBSA burns. Using the Parkland formula, the volume of fluid to be given in the first 8 hours is:
+A) 2800 mL
+B) 5600 mL
+C) 8400 mL
+D) 11200 mL
+ANS: B
+TAGS: PQ, Calculation
+EX: Parkland: **4 mL x weight (kg) x %TBSA** = 4 x 70 x 40 = 11200 mL in 24 hours. **Half (5600 mL) in the first 8 hours** and the rest over the next 16 hours.
+PEARL: The 8 hours are counted from the **time of the burn**, not the time of arrival. Fluid of choice is **Ringer lactate**. First-degree (erythema only) burns are not included in TBSA.
+
+Q: An adult has burns involving the entire front of the trunk and the whole of the right upper limb. The percentage of body surface area burnt is:
+A) 18%
+B) 27%
+C) 36%
+D) 45%
+ANS: B
+TAGS: PQ, Calculation
+EX: Wallace's rule of nines: front of trunk **18%** + one upper limb **9%** = **27%**. Head and neck 9%, each upper limb 9%, front of trunk 18%, back of trunk 18%, each lower limb 18%, perineum 1%.
+PEARL: The patient's palm with fingers is about 1% TBSA. The **Lund and Browder chart** is the most accurate method, especially in children (head is 18% in an infant).
+
+Q: The best guide to the adequacy of fluid resuscitation in a burns patient is:
+A) Central venous pressure
+B) Blood pressure
+C) Urine output
+D) Haematocrit
+ANS: C
+TAGS: PQ, One-liner
+EX: **Hourly urine output** is the best practical guide: **0.5 to 1 mL/kg/h in adults** and **1 mL/kg/h in children**.
+PEARL: In high-voltage electrical burns with myoglobinuria, target a higher urine output (about 1 to 1.5 mL/kg/h, 75 to 100 mL/h) until the urine clears.
+
+Q: A burn wound is pink, moist, blistered, very painful and blanches on pressure. The depth of the burn is:
+A) Superficial (epidermal)
+B) Superficial partial thickness
+C) Deep partial thickness
+D) Full thickness
+ANS: B
+TAGS: Clinical
+EX: **Superficial partial-thickness** burns involve the papillary dermis: blisters, intact capillary refill and severe pain. They heal within 2 to 3 weeks without scarring.
+OTH: A: Epidermal burns show erythema only, without blisters. | C: Deep dermal burns are mottled or cherry red with fixed staining, reduced sensation and no blanching. | D: Full-thickness burns are leathery, white or charred and painless.
+
+Q: A burns patient develops acute gastric ulcers. These are known as:
+A) Cushing's ulcers
+B) Curling's ulcers
+C) Cameron ulcers
+D) Dieulafoy's lesions
+ANS: B
+TAGS: PQ, Eponym
+EX: **Curling's ulcer**: stress ulcer after major burns (duodenum and stomach). **Cushing's ulcer**: after head injury or raised intracranial pressure, due to vagal hyperacidity; deeper and more likely to perforate.
+OTH: C: Cameron ulcers are linear erosions in a large hiatus hernia. | D: Dieulafoy's lesion is an exposed submucosal artery, usually near the gastro-oesophageal junction.
+
+Q: All of the following are true about Marjolin's ulcer EXCEPT:
+A) It is a squamous cell carcinoma arising in a scar
+B) It is slow growing
+C) It is very painful
+D) Lymph node spread is late
+ANS: C
+TAGS: One-liner
+EX: Marjolin's ulcer is a well-differentiated **squamous cell carcinoma in a chronic scar** (burn scar, venous ulcer, sinus). Scar tissue has no nerves or lymphatics, so it is **painless**, slow growing and spreads to nodes only after it reaches normal tissue. Treatment is wide excision.
+
+Q: A patient rescued from a house fire has headache, confusion and a pulse oximeter reading of 99%. The most appropriate immediate treatment is:
+A) Observation as saturation is normal
+B) 100% oxygen
+C) Intravenous methylene blue
+D) Intravenous sodium bicarbonate
+ANS: B
+TAGS: PQ, Clinical
+EX: This is **carbon monoxide poisoning**. Pulse oximetry cannot distinguish carboxyhaemoglobin from oxyhaemoglobin and reads falsely normal; diagnosis is by co-oximetry. **100% oxygen** reduces the half-life of carboxyhaemoglobin from about 4 hours to about 1 hour.
+PEARL: Signs of inhalation injury (singed nasal hair, hoarseness, stridor, carbonaceous sputum) call for **early intubation** before airway oedema develops.
+
+Q: The specific treatment for a hydrofluoric acid burn is:
+A) Sodium bicarbonate
+B) Calcium gluconate
+C) Polyethylene glycol
+D) Copper sulphate
+ANS: B
+TAGS: One-liner
+EX: Fluoride ions chelate calcium and cause deep tissue necrosis and life-threatening hypocalcaemia. Treatment is copious irrigation and **calcium gluconate** (topical gel, local injection or intra-arterial).
+OTH: C: Polyethylene glycol is used for phenol burns. | D: Copper sulphate was historically used for phosphorus burns.
+
+Q: Which topical burn agent penetrates eschar well but can cause metabolic acidosis?
+A) Silver sulfadiazine
+B) Mafenide acetate
+C) Silver nitrate
+D) Povidone iodine
+ANS: B
+TAGS: One-liner
+EX: **Mafenide acetate** inhibits carbonic anhydrase, producing a hyperchloraemic **metabolic acidosis**; it is painful but penetrates eschar and cartilage (useful for ear burns).
+OTH: A: Silver sulfadiazine can cause transient neutropenia and does not penetrate eschar. | C: Silver nitrate causes hyponatraemia, hypochloraemia and methaemoglobinaemia, and stains black.
+
+Q: A patient with a circumferential full-thickness burn of the forearm has increasing pain, numbness and an absent radial pulse on Doppler. The treatment is:
+A) Limb elevation and observation
+B) Escharotomy
+C) Early tangential excision and grafting
+D) Amputation
+ANS: B
+TAGS: Management
+EX: Circumferential full-thickness burns act as a tourniquet as oedema develops. **Escharotomy** (incision through the eschar down to fat) is done along the mid-axial lines. If the compartment remains tense, as in electrical burns, fasciotomy is added.
+
+Q: The most common cause of death in the first 48 hours after a major burn is:
+A) Septicaemia
+B) Hypovolaemic shock
+C) Acute renal failure
+D) Pulmonary embolism
+ANS: B
+TAGS: One-liner
+EX: Early deaths are due to **hypovolaemic (burn) shock** and inhalation injury. **Sepsis** is the most common cause of late death and of death overall in hospitalised burn patients.
+
+@topic Shock, Fluids & Nutrition
+Q: A patient with a cervical spine injury has a BP of 80/50 mmHg, pulse of 52/min and warm, dry extremities. The type of shock is:
+A) Hypovolaemic
+B) Cardiogenic
+C) Neurogenic
+D) Septic
+ANS: C
+TAGS: PQ, Clinical
+EX: **Neurogenic shock** results from loss of sympathetic tone (injury above T6): **hypotension with bradycardia** and warm peripheries. Treatment is cautious fluids and vasopressors, with atropine for bradycardia.
+PEARL: Spinal shock is different: it is transient loss of all reflexes and flaccidity below the level of injury; return of the bulbocavernosus reflex marks its end.
+
+Q: The vasopressor of choice in septic shock is:
+A) Dopamine
+B) Noradrenaline
+C) Adrenaline
+D) Vasopressin
+ANS: B
+TAGS: One-liner
+EX: Surviving Sepsis guidelines recommend **noradrenaline** as the first-line vasopressor, targeting a mean arterial pressure of 65 mmHg. Vasopressin is added as the second agent; initial fluid is 30 mL/kg of balanced crystalloid.
+
+Q: A severely malnourished patient is started on total parenteral nutrition and develops weakness, arrhythmia and respiratory failure on day 3. The characteristic biochemical abnormality is:
+A) Hyperkalaemia
+B) Hypophosphataemia
+C) Hypercalcaemia
+D) Hypernatraemia
+ANS: B
+TAGS: PQ, Clinical
+EX: **Refeeding syndrome**: carbohydrate load causes an insulin surge that drives phosphate, potassium and magnesium into cells. **Hypophosphataemia** is the hallmark; thiamine deficiency also occurs.
+PEARL: Prevent by starting feeds at low calories (about 10 kcal/kg/day) with thiamine and electrolyte replacement.
+
+Q: A man with long-standing gastric outlet obstruction due to a duodenal ulcer has repeated vomiting. The expected metabolic abnormality is:
+A) Hyperkalaemic metabolic acidosis
+B) Hypokalaemic hypochloraemic metabolic alkalosis with paradoxical aciduria
+C) Hyperchloraemic metabolic acidosis
+D) Respiratory alkalosis
+ANS: B
+TAGS: PQ, Clinical
+EX: Loss of gastric HCl produces hypochloraemic alkalosis. The kidney retains sodium by exchanging it for potassium and then hydrogen ions, so the urine becomes acidic despite systemic alkalosis: **paradoxical aciduria**. Fluid of choice is **isotonic saline with potassium chloride**.
+PEARL: The same abnormality occurs in infantile hypertrophic pyloric stenosis.
+
+Q: The lactate concentration of Ringer lactate solution is approximately:
+A) 4 mmol/L
+B) 28 mmol/L
+C) 109 mmol/L
+D) 130 mmol/L
+ANS: B
+TAGS: One-liner
+EX: Ringer lactate (Hartmann's solution) contains sodium **130**, chloride **109**, **lactate 28**, potassium **4** and calcium about **1.5 mmol/L** (3 mEq/L). It is the most physiological crystalloid and the fluid of choice in burns and trauma.
+
+Q: Platelet concentrates are stored at:
+A) 2 to 6 °C for 35 days
+B) 20 to 24 °C with continuous agitation for 5 days
+C) Minus 30 °C for 1 year
+D) 37 °C for 24 hours
+ANS: B
+TAGS: One-liner
+EX: **Platelets: 20 to 24 °C with agitation, 5 days** (hence the highest risk of bacterial contamination). Packed red cells: 2 to 6 °C, 35 days in CPDA-1 and 42 days in SAGM. Fresh frozen plasma: minus 30 °C for up to 1 year.
+
+Q: A patient develops acute breathlessness, hypoxia and bilateral lung infiltrates 3 hours after transfusion of fresh frozen plasma, with a normal JVP and no response to diuretics. The likely diagnosis is:
+A) Transfusion-associated circulatory overload
+B) Transfusion-related acute lung injury
+C) Acute haemolytic reaction
+D) Anaphylaxis
+ANS: B
+TAGS: Clinical
+EX: **TRALI** is non-cardiogenic pulmonary oedema within **6 hours** of transfusion, caused by donor anti-HLA or anti-neutrophil antibodies (commonly plasma from multiparous donors). Management is supportive; diuretics do not help.
+OTH: A: TACO has raised JVP, hypertension and responds to diuretics. | C: Haemolytic reactions cause fever, loin pain, haemoglobinuria and hypotension.
+
+Q: A patient with a controlled but severe systemic disease that limits activity (for example, poorly controlled diabetes) is classified as ASA grade:
+A) I
+B) II
+C) III
+D) IV
+ANS: C
+TAGS: Classification
+EX: ASA I: healthy. II: mild systemic disease. **III: severe systemic disease**. IV: severe disease that is a constant threat to life. V: moribund, not expected to survive without surgery. VI: brain-dead organ donor. Suffix E denotes emergency.
+
+Q: The preferred route of nutrition in a patient with a functioning gut who cannot swallow for more than 4 to 6 weeks is:
+A) Total parenteral nutrition through a central line
+B) Nasogastric tube feeding
+C) Percutaneous endoscopic gastrostomy
+D) Peripheral parenteral nutrition
+ANS: C
+TAGS: Management
+EX: 'If the gut works, use it.' Nasogastric or nasojejunal feeding suits short-term needs (under 4 weeks). For **long-term enteral feeding a gastrostomy (PEG) or jejunostomy** is preferred. Parenteral nutrition is reserved for intestinal failure.
+PEARL: The most common complication of TPN is catheter-related sepsis; the most common metabolic complication is hyperglycaemia.
+
+@topic General Principles
+Q: Which of the following is a synthetic absorbable monofilament suture?
+A) Polyglactin 910
+B) Polydioxanone
+C) Polypropylene
+D) Silk
+ANS: B
+TAGS: PQ, One-liner
+EX: **Polydioxanone (PDS)** is a synthetic absorbable **monofilament** absorbed by hydrolysis in about 180 days. Polyglactin (Vicryl) is synthetic absorbable but **braided** (absorbed in 60 to 90 days). Polypropylene (Prolene) is a non-absorbable monofilament used for vascular anastomosis; silk is a natural braided non-absorbable suture.
+PEARL: Catgut is absorbed by enzymatic proteolysis; synthetic absorbables by hydrolysis, which causes less tissue reaction.
+
+Q: An elective laparoscopic cholecystectomy without bile spillage is classified as which type of wound?
+A) Clean
+B) Clean-contaminated
+C) Contaminated
+D) Dirty
+ANS: B
+TAGS: PQ, Classification
+EX: **Clean-contaminated**: the respiratory, alimentary, biliary or genitourinary tract is entered under controlled conditions without unusual contamination (infection rate under 10%).
+OTH: A: Clean wounds enter no tract, for example hernia repair or thyroidectomy (1 to 2%). | C: Contaminated wounds include gross spillage, fresh traumatic wounds and a major break in sterile technique (15 to 20%). | D: Dirty wounds have pus, perforated viscus or old traumatic wounds (up to 40%).
+
+Q: Prophylactic antibiotics for elective surgery are ideally administered:
+A) The night before surgery
+B) Within 60 minutes before the skin incision
+C) At the time of skin closure
+D) For 5 days after surgery
+ANS: B
+TAGS: PQ, One-liner
+EX: A single dose given **within 60 minutes before incision** (at induction) ensures peak tissue levels at the time of contamination. It is repeated if surgery lasts more than 4 hours or blood loss exceeds 1.5 litres.
+
+Q: In the WHO surgical safety checklist, the 'time out' is performed:
+A) Before induction of anaesthesia
+B) Before the skin incision
+C) Before the patient leaves the operating room
+D) In the ward before shifting the patient
+ANS: B
+TAGS: PQ, One-liner
+EX: **Sign in**: before induction of anaesthesia. **Time out**: before skin incision. **Sign out**: before the patient leaves the operating room.
+
+Q: The predominant collagen in early granulation tissue, which is later replaced in a mature scar, is:
+A) Type I
+B) Type II
+C) Type III
+D) Type IV
+ANS: C
+TAGS: One-liner
+EX: **Type III collagen** is laid down first and is replaced by **type I** during remodelling. A scar reaches about 80% of the strength of normal skin by around 3 months and never regains 100%.
+PEARL: The macrophage is the key cell orchestrating wound healing; the fibroblast is the main cell of the proliferative phase. Vitamin C is needed for hydroxylation of proline and lysine.
+
+Q: Which feature favours a keloid over a hypertrophic scar?
+A) It remains within the boundaries of the wound
+B) It regresses spontaneously with time
+C) It extends beyond the margins of the original wound
+D) It appears within 4 weeks of injury
+ANS: C
+TAGS: PQ, Clinical
+EX: A **keloid grows beyond the wound margins**, does not regress, is common over the sternum, shoulder and ear lobe, shows a familial tendency in dark skin, and recurs after excision. A hypertrophic scar stays within the wound, appears early and regresses.
+PEARL: First-line treatment is **intralesional triamcinolone** with silicone gel sheeting or pressure; excision alone has a high recurrence rate.
+
+Q: The recommended method for reprocessing a flexible gastrointestinal endoscope is:
+A) Autoclaving at 121 °C
+B) High-level disinfection with 2% glutaraldehyde
+C) Hot air oven
+D) Wiping with 70% alcohol
+ANS: B
+TAGS: One-liner
+EX: Flexible endoscopes are heat sensitive and are treated by **high-level disinfection with 2% glutaraldehyde** (about 20 minutes) or ortho-phthalaldehyde or peracetic acid, after thorough manual cleaning.
+PEARL: Autoclave: 121 °C at 15 psi for 15 minutes, or 134 °C for 3 minutes. Sharp instruments are best sterilised by hot air oven or chemical means.
+
+Q: The gas most commonly used to create pneumoperitoneum in laparoscopy is:
+A) Nitrous oxide
+B) Carbon dioxide
+C) Helium
+D) Air
+ANS: B
+TAGS: One-liner
+EX: **Carbon dioxide** is non-combustible, cheap, highly soluble in blood (low risk of gas embolism) and rapidly excreted. Working pressure is **12 to 15 mmHg** in adults.
+PEARL: Palmer's point (3 cm below the left costal margin in the mid-clavicular line) is used for entry when peri-umbilical adhesions are expected.
+
+Q: The safest form of electrosurgery in a patient with a cardiac pacemaker is:
+A) Monopolar cutting
+B) Monopolar coagulation
+C) Bipolar diathermy
+D) Fulguration
+ANS: C
+TAGS: One-liner
+EX: In **bipolar diathermy** the current passes only between the two tips of the forceps, so no patient plate is needed and there is no current path through the body. If monopolar must be used, the plate is placed so that the current path is away from the pacemaker.
+
+Q: A diabetic man presents with rapidly spreading scrotal and perineal swelling, crepitus, foul-smelling discharge and septic shock. The most important step in management is:
+A) Intravenous antibiotics alone
+B) Urgent wide surgical debridement
+C) Hyperbaric oxygen
+D) Incision and drainage under local anaesthesia
+ANS: B
+TAGS: Clinical
+EX: This is **Fournier's gangrene**, a necrotising fasciitis of the perineum (usually polymicrobial, type I). **Aggressive early debridement** with broad-spectrum antibiotics and resuscitation is life-saving. The testes are usually spared because of their separate blood supply.
+PEARL: Type II necrotising fasciitis is caused by group A streptococcus. The LRINEC score helps in early diagnosis.
+
+Q: The principal toxin responsible for gas gangrene is:
+A) Theta toxin
+B) Alpha toxin (lecithinase)
+C) Tetanospasmin
+D) Exotoxin A
+ANS: B
+TAGS: One-liner
+EX: **Clostridium perfringens alpha toxin** is a lecithinase (phospholipase C) that causes myonecrosis and haemolysis; it is demonstrated by the Nagler reaction. Treatment is urgent debridement, high-dose penicillin with clindamycin, and hyperbaric oxygen where available.
+
+Q: A pressure sore with full-thickness skin loss extending into subcutaneous fat, but not through the fascia, is:
+A) Stage 1
+B) Stage 2
+C) Stage 3
+D) Stage 4
+ANS: C
+TAGS: Classification
+EX: Stage 1: non-blanchable erythema with intact skin. Stage 2: partial-thickness skin loss (blister or shallow ulcer). **Stage 3: full-thickness skin loss into subcutaneous fat.** Stage 4: exposure of muscle, bone or tendon.
+PEARL: The most common site overall is the ischium in paraplegics who sit, and the sacrum in bed-bound patients.
+
+Q: According to enhanced recovery (ERAS) principles, clear fluids are allowed before elective surgery up to:
+A) 2 hours
+B) 4 hours
+C) 6 hours
+D) 8 hours
+ANS: A
+TAGS: PQ, Recent update
+EX: Fasting guidelines: **clear fluids up to 2 hours**, breast milk 4 hours, solids and formula milk 6 hours before anaesthesia. ERAS also includes pre-operative carbohydrate loading, avoidance of routine bowel preparation and drains, multimodal opioid-sparing analgesia, and early feeding and mobilisation.
+
+Q: A post-operative complication requiring re-operation under general anaesthesia is which Clavien-Dindo grade?
+A) Grade II
+B) Grade IIIa
+C) Grade IIIb
+D) Grade IV
+ANS: C
+TAGS: Classification
+EX: Grade I: deviation from the normal course needing no specific treatment. Grade II: needs drugs, transfusion or TPN. Grade IIIa: intervention without general anaesthesia. **Grade IIIb: intervention under general anaesthesia.** Grade IV: life-threatening organ failure needing ICU. Grade V: death.
+
+Q: The most common organism causing surgical site infection is:
+A) Escherichia coli
+B) Staphylococcus aureus
+C) Pseudomonas aeruginosa
+D) Bacteroides fragilis
+ANS: B
+TAGS: One-liner
+EX: **Staphylococcus aureus** is the most common organism overall. After bowel surgery, enteric organisms (E. coli, Bacteroides) predominate. Superficial incisional SSI occurs within 30 days; deep or organ-space SSI within 90 days if an implant is used.
+
+Q: The first step by which a split-thickness skin graft receives nutrition in the initial 48 hours is:
+A) Inosculation
+B) Plasmatic imbibition
+C) Neovascularisation
+D) Capillary ingrowth from the graft edges
+ANS: B
+TAGS: One-liner
+EX: Graft take: **plasmatic imbibition** (first 24 to 48 hours, nutrition by diffusion), then **inosculation** (graft and bed capillaries connect), then **revascularisation**. The most common cause of graft failure is haematoma or seroma beneath the graft, followed by infection (beta-haemolytic streptococcus) and shearing.
+PEARL: Split-thickness (Thiersch) grafts take more easily but contract more secondarily; full-thickness (Wolfe) grafts give better cosmesis and less secondary contraction.

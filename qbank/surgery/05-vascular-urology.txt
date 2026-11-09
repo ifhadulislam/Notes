@@ -1,0 +1,433 @@
+@topic Arterial Disorders
+Q: A 55-year-old smoker has claudication of both buttocks and thighs, erectile dysfunction and absent femoral pulses. The site of arterial occlusion is:
+A) Superficial femoral artery
+B) Aorto-iliac segment
+C) Popliteal artery
+D) Tibial arteries
+ANS: B
+TAGS: PQ, Clinical
+EX: **Leriche syndrome**: aorto-iliac occlusion giving buttock claudication, impotence and absent femoral pulses. Claudication is felt one level below the block: iliac disease causes thigh and buttock pain; **superficial femoral artery disease at the adductor canal (the most common site) causes calf claudication**.
+
+Q: An ankle-brachial pressure index of 0.3 indicates:
+A) Normal circulation
+B) Mild claudication
+C) Critical limb ischaemia
+D) Calcified incompressible vessels
+ANS: C
+TAGS: One-liner
+EX: ABPI: normal 0.9 to 1.3. Claudication 0.5 to 0.9. **Critical limb-threatening ischaemia below 0.4** (rest pain, ulcers, gangrene). Above 1.3 suggests incompressible calcified arteries (diabetes, renal failure); use the toe-brachial index instead.
+
+Q: A patient with atrial fibrillation has sudden pain, pallor and coldness of the right leg for 3 hours with absent pulses below the femoral; sensation and movement are slightly reduced. After giving heparin, the next step is:
+A) Catheter-directed thrombolysis over 48 hours
+B) Embolectomy with a Fogarty catheter
+C) Primary amputation
+D) Elevation of the limb and observation
+ANS: B
+TAGS: PQ, Clinical
+EX: Acute limb ischaemia from an embolus (six Ps: pain, pallor, pulselessness, paraesthesia, paralysis, perishing cold). The most common source is the heart (atrial fibrillation) and the most common site of lodgement is the **common femoral bifurcation**. A threatened limb needs **urgent embolectomy** after immediate heparin; irreversible muscle damage begins at about 6 hours.
+PEARL: After revascularisation watch for reperfusion injury and compartment syndrome; perform fasciotomy if the ischaemia was prolonged.
+
+Q: A 30-year-old male heavy smoker has rest pain in the foot, ulceration of the toes and a history of migratory superficial thrombophlebitis. Angiography shows 'corkscrew' collaterals. The most important treatment is:
+A) Lumbar sympathectomy
+B) Complete cessation of smoking
+C) Femoro-popliteal bypass
+D) Long-term steroids
+ANS: B
+TAGS: Clinical
+EX: **Buerger's disease (thromboangiitis obliterans)**: segmental inflammatory occlusion of small and medium arteries and veins of the limbs in young male smokers. **Stopping tobacco** is the only measure that halts progression. Bypass is rarely feasible because distal vessels are involved.
+
+Q: Elective repair of an asymptomatic infrarenal abdominal aortic aneurysm in a man is recommended when its diameter reaches:
+A) 3.0 cm
+B) 4.0 cm
+C) 5.5 cm
+D) 7.0 cm
+ANS: C
+TAGS: PQ, One-liner
+EX: Repair is indicated at **5.5 cm in men** (5.0 cm in women), growth of more than 1 cm per year, or symptoms. Ultrasound is used for screening and surveillance; **CT angiography** for planning.
+PEARL: Classic triad of rupture: abdominal or back pain, hypotension and a pulsatile mass. The most common cause of death after elective repair is myocardial infarction. Bloody diarrhoea after repair suggests ischaemic colitis (inferior mesenteric artery).
+
+Q: The most common type of endoleak after endovascular aneurysm repair is:
+A) Type I
+B) Type II
+C) Type III
+D) Type IV
+ANS: B
+TAGS: Classification
+EX: Type I: leak at the proximal or distal attachment site (needs prompt treatment). **Type II: retrograde flow from collaterals such as lumbar or inferior mesenteric arteries (most common, often observed).** Type III: graft defect or component separation. Type IV: graft porosity. Type V: endotension.
+
+Q: A hypertensive man has tearing chest pain radiating to the back. CT shows a dissection confined to the descending thoracic aorta, distal to the left subclavian artery, with no malperfusion. The management is:
+A) Emergency surgical graft replacement
+B) Medical management with intravenous beta blockers
+C) Thrombolysis
+D) Pericardiocentesis
+ANS: B
+TAGS: PQ, Classification
+EX: **Stanford type B** (descending aorta only) is managed medically with heart rate and blood pressure control; endovascular repair is used for complications. **Stanford type A** involves the ascending aorta and needs **emergency surgery**. DeBakey I: ascending and descending; II: ascending only; III: descending only.
+
+Q: Carotid endarterectomy is most clearly indicated in a patient with:
+A) Asymptomatic 40% stenosis
+B) Symptomatic 70 to 99% stenosis
+C) Complete occlusion of the internal carotid artery
+D) Symptomatic 30% stenosis
+ANS: B
+TAGS: Management
+EX: Symptomatic patients (TIA or minor stroke) with **70 to 99% stenosis** benefit most, ideally within 2 weeks of symptoms. Complete occlusion is not operated. The cranial nerve most commonly injured is the hypoglossal (some series cite the marginal mandibular or vagus).
+
+Q: A patient gets dizziness and syncope on exercising the left arm, and the left radial pulse is weak. The lesion is stenosis of the:
+A) Left vertebral artery
+B) Left subclavian artery proximal to the origin of the vertebral artery
+C) Left common carotid artery
+D) Left axillary artery
+ANS: B
+TAGS: Clinical
+EX: **Subclavian steal syndrome**: proximal subclavian stenosis causes retrograde flow in the ipsilateral vertebral artery during arm exercise, 'stealing' blood from the posterior circulation.
+
+Q: The earliest and most reliable clinical sign of acute compartment syndrome is:
+A) Absent distal pulses
+B) Pain on passive stretching of the muscles
+C) Paralysis
+D) Pallor
+ANS: B
+TAGS: One-liner
+EX: **Pain out of proportion and pain on passive stretch** are the earliest signs. Pulses are usually preserved until late. A compartment pressure above 30 mmHg, or within 30 mmHg of the diastolic pressure, confirms it. Treatment is urgent fasciotomy.
+
+Q: The best conduit for a femoro-popliteal bypass below the knee is:
+A) PTFE graft
+B) Dacron graft
+C) Autologous great saphenous vein
+D) Umbilical vein graft
+ANS: C
+TAGS: One-liner
+EX: **Autologous great saphenous vein** (reversed or in situ) gives the best patency for infra-inguinal bypass. Dacron is used for aortic and aorto-iliac reconstruction; PTFE is acceptable above the knee.
+
+Q: Lumbar sympathectomy for lower limb ischaemia involves removal of which ganglia?
+A) L1 and L2 bilaterally
+B) L2 and L3
+C) L4 and L5
+D) T12 and L1
+ANS: B
+TAGS: One-liner
+EX: The **L2 and L3 ganglia** are removed. **L1 is preserved on at least one side** to avoid retrograde ejaculation. It increases skin blood flow, so it helps rest pain and superficial ulcers, but does not improve claudication.
+
+Q: The most common peripheral artery aneurysm is of the:
+A) Femoral artery
+B) Popliteal artery
+C) Subclavian artery
+D) Brachial artery
+ANS: B
+TAGS: One-liner
+EX: **Popliteal aneurysms** account for about 70% of peripheral aneurysms; half are bilateral and many are associated with an abdominal aortic aneurysm. They present with thrombosis or distal embolisation rather than rupture.
+
+@topic Venous & Lymphatic
+Q: In the CEAP classification of chronic venous disease, lipodermatosclerosis is:
+A) C2
+B) C3
+C) C4b
+D) C5
+ANS: C
+TAGS: PQ, Classification
+EX: C0: no signs. C1: telangiectasia or reticular veins. C2: varicose veins. C3: oedema. C4a: pigmentation or eczema. **C4b: lipodermatosclerosis or atrophie blanche.** C5: healed ulcer. C6: active ulcer.
+
+Q: The investigation of choice for varicose veins is:
+A) Ascending venography
+B) Duplex ultrasonography
+C) Plethysmography
+D) CT venography
+ANS: B
+TAGS: Investigation
+EX: **Duplex ultrasound** shows reflux (retrograde flow lasting more than 0.5 seconds) at the junctions and perforators and confirms deep vein patency. Current first-line treatment for truncal reflux is **endovenous thermal ablation** (laser or radiofrequency), then foam sclerotherapy, then surgery.
+PEARL: Trendelenburg test: saphenofemoral incompetence. Perthes test: deep vein patency. Stripping below the knee risks the saphenous nerve; short saphenous surgery risks the sural nerve.
+
+Q: The most effective treatment for a venous ulcer over the medial malleolus is:
+A) Topical antibiotics
+B) Multilayer compression bandaging
+C) Skin grafting as the first step
+D) Long-term bed rest alone
+ANS: B
+TAGS: Management
+EX: Venous ulcers occur in the **gaiter area** and are shallow with sloping edges and surrounding pigmentation. **Four-layer compression bandaging** (about 40 mmHg at the ankle) is the mainstay, after excluding arterial disease (ABPI above 0.8). Treating superficial reflux reduces recurrence.
+
+Q: A patient on the 5th post-operative day after hip surgery develops unilateral calf swelling and tenderness. The investigation of choice is:
+A) D-dimer
+B) Duplex ultrasonography
+C) Contrast venography
+D) MR venography
+ANS: B
+TAGS: PQ, Investigation
+EX: **Compression duplex ultrasound** is the investigation of choice for DVT. D-dimer is useful only to exclude DVT in low-probability patients and is unreliable after surgery. Virchow's triad: stasis, endothelial injury and hypercoagulability.
+PEARL: Phlegmasia alba dolens is a painful white leg from iliofemoral DVT; phlegmasia caerulea dolens is a blue leg with impending venous gangrene.
+
+Q: The most common cause of lymphoedema worldwide is:
+A) Milroy's disease
+B) Filariasis
+C) Post-mastectomy axillary dissection
+D) Lymphoedema praecox
+ANS: B
+TAGS: One-liner
+EX: **Filariasis (Wuchereria bancrofti)** is the most common cause worldwide; in developed countries it is cancer treatment. Primary lymphoedema: congenita (before 2 years; familial form is Milroy's disease, VEGFR3), **praecox (2 to 35 years, most common primary type; familial form is Meige's disease)**, and tarda (after 35 years).
+PEARL: Stemmer's sign: inability to pinch the skin at the base of the second toe. Investigation of choice: lymphoscintigraphy.
+
+Q: Which of the following is an excisional (debulking) operation for lymphoedema?
+A) Lymphovenous anastomosis
+B) Charles' operation
+C) Omental pedicle transfer
+D) Vascularised lymph node transfer
+ANS: B
+TAGS: One-liner
+EX: **Charles' operation**: excision of all skin and subcutaneous tissue down to the deep fascia with skin grafting. Other reduction procedures: Homans' and Thompson's (buried dermal flap). Physiological procedures: lymphovenous anastomosis and vascularised lymph node transfer.
+
+Q: Compression of the artery proximal to an arteriovenous fistula produces a fall in heart rate. This is called:
+A) Nicoladoni-Branham sign
+B) Homans' sign
+C) Moses' sign
+D) Adson's sign
+ANS: A
+TAGS: Eponym
+EX: **Nicoladoni-Branham sign**: occluding the fistula removes the shunt, raising peripheral resistance and blood pressure and causing reflex bradycardia. The preferred first access for haemodialysis is a radio-cephalic (Brescia-Cimino) fistula in the non-dominant arm.
+
+Q: A diabetic has a painless, punched-out ulcer under the head of the first metatarsal with surrounding callus; foot pulses are palpable. The most important measure for healing is:
+A) Long-term oral antibiotics
+B) Off-loading with a total contact cast
+C) Lumbar sympathectomy
+D) Below-knee amputation
+ANS: B
+TAGS: Clinical
+EX: This is a **neuropathic ulcer** at a pressure point. **Off-loading (total contact cast)** with debridement of callus is the key to healing. Ischaemic ulcers are painful, occur on the toes and margins of the foot, and have absent pulses.
+
+@topic Urology
+Q: Which renal stone is radiolucent on a plain X-ray?
+A) Calcium oxalate
+B) Struvite
+C) Pure uric acid
+D) Cystine
+ANS: C
+TAGS: One-liner
+EX: **Uric acid stones are radiolucent** (also xanthine and indinavir stones); they form in acidic urine and dissolve with alkalinisation. Calcium oxalate is the most common stone. Struvite (triple phosphate) forms **staghorn calculi** in alkaline urine with urease-producing organisms such as Proteus. Cystine stones are faintly opaque with hexagonal crystals.
+PEARL: Investigation of choice for urolithiasis: non-contrast CT of the kidneys, ureters and bladder.
+
+Q: A 2.5 cm stone in the renal pelvis is best treated by:
+A) Extracorporeal shock wave lithotripsy
+B) Percutaneous nephrolithotomy
+C) Medical expulsive therapy
+D) Open pyelolithotomy
+ANS: B
+TAGS: PQ, Management
+EX: **PCNL** is the treatment of choice for renal stones **larger than 2 cm**, staghorn calculi, and large lower-pole stones. ESWL or flexible ureteroscopy (RIRS) is used for stones under 2 cm. Ureteric stones under 10 mm may pass with medical expulsive therapy (tamsulosin).
+PEARL: ESWL is contraindicated in pregnancy, bleeding disorders, untreated infection and distal obstruction; cystine and calcium oxalate monohydrate stones respond poorly.
+
+Q: A patient with an obstructing ureteric stone has fever with rigors, hypotension and hydronephrosis. The immediate management is:
+A) Emergency ureteroscopic lithotripsy
+B) Urgent decompression by percutaneous nephrostomy or ureteric stent
+C) ESWL
+D) Intravenous antibiotics alone
+ANS: B
+TAGS: PQ, Clinical
+EX: An **obstructed, infected kidney is a urological emergency**. Drain the system urgently by **percutaneous nephrostomy or a double-J stent** with antibiotics; definitive stone treatment is deferred until sepsis resolves.
+
+Q: The narrowest part of the ureter is at the:
+A) Pelvi-ureteric junction
+B) Crossing of the iliac vessels
+C) Vesico-ureteric junction
+D) Crossing of the vas deferens
+ANS: C
+TAGS: One-liner
+EX: The three constrictions are the pelvi-ureteric junction, the pelvic brim (crossing of the iliac vessels) and the **vesico-ureteric junction (intramural part), which is the narrowest**; it is the most common site of stone impaction.
+
+Q: The most common histological type of renal cell carcinoma and its associated gene are:
+A) Papillary; MET
+B) Clear cell; VHL on chromosome 3p
+C) Chromophobe; FLCN
+D) Collecting duct; fumarate hydratase
+ANS: B
+TAGS: One-liner
+EX: **Clear cell carcinoma** (about 75%) arises from the proximal convoluted tubule and is associated with **VHL** gene loss (3p). The classic triad of haematuria, loin pain and mass is seen in only about 10%. It invades the renal vein and IVC and gives 'cannonball' lung metastases.
+PEARL: A recent-onset left varicocele in an older man suggests a left renal tumour. Stauffer's syndrome is reversible non-metastatic hepatic dysfunction. T1a tumours (up to 4 cm) are treated by partial nephrectomy.
+
+Q: A complex renal cyst with thick irregular enhancing septa but no enhancing soft-tissue nodule is Bosniak category:
+A) I
+B) II
+C) III
+D) IV
+ANS: C
+TAGS: Classification
+EX: Bosniak I: simple cyst. II: a few thin septa or fine calcification. IIF: needs follow-up. **III: thick, irregular, enhancing walls or septa (about 50% malignant; surgery).** IV: enhancing soft-tissue component (malignant; surgery).
+
+Q: A 62-year-old smoker has painless gross haematuria. Cystoscopy and resection show high-grade urothelial carcinoma invading the detrusor muscle (T2). The treatment is:
+A) Intravesical BCG
+B) Repeat TURBT alone
+C) Neoadjuvant cisplatin-based chemotherapy followed by radical cystectomy
+D) Intravesical mitomycin C
+ANS: C
+TAGS: PQ, Management
+EX: **Muscle-invasive bladder cancer (T2 or more)**: neoadjuvant cisplatin-based chemotherapy and **radical cystectomy** with urinary diversion (ileal conduit or neobladder). **Non-muscle-invasive disease** (Ta, T1, CIS): TURBT with intravesical therapy; **BCG** for high-grade tumours and carcinoma in situ.
+PEARL: Painless haematuria is malignancy until proved otherwise. Schistosomiasis predisposes to squamous cell carcinoma; urachal remnants and exstrophy to adenocarcinoma.
+
+Q: Benign prostatic hyperplasia arises predominantly from which zone of the prostate?
+A) Peripheral zone
+B) Central zone
+C) Transition zone
+D) Anterior fibromuscular stroma
+ANS: C
+TAGS: One-liner
+EX: **BPH arises in the transition (periurethral) zone**; **carcinoma arises in the peripheral zone** (about 70%), which is why it is felt on rectal examination and causes obstruction late.
+
+Q: During TURP using glycine irrigation, a patient under spinal anaesthesia becomes restless and confused with bradycardia and hypertension. The most likely abnormality is:
+A) Hyperkalaemia
+B) Dilutional hyponatraemia
+C) Hypoglycaemia
+D) Hypocalcaemia
+ANS: B
+TAGS: PQ, Clinical
+EX: **TUR syndrome**: absorption of hypotonic irrigant (1.5% glycine) through open venous sinuses causes fluid overload and **dilutional hyponatraemia**; glycine also causes visual disturbance and hyperammonaemia. Stop the procedure; give furosemide, and hypertonic saline if severe.
+PEARL: Risk is reduced by limiting resection time to under 60 minutes, keeping irrigation height low, and using bipolar TURP with saline.
+
+Q: A 65-year-old man with moderate lower urinary tract symptoms and a 60 g prostate wants medical therapy that reduces prostate size and the risk of retention. The drug is:
+A) Tamsulosin
+B) Finasteride
+C) Tolterodine
+D) Tadalafil
+ANS: B
+TAGS: Pharmacology
+EX: **5-alpha-reductase inhibitors** (finasteride, dutasteride) shrink the gland over about 6 months, halve the PSA, and reduce the risk of retention and surgery. **Alpha-1a blockers** (tamsulosin, silodosin) give rapid symptom relief without changing size. Combination therapy is best for large glands.
+
+Q: Bone metastases from carcinoma of the prostate are typically:
+A) Osteolytic, in the skull
+B) Osteoblastic, in the lumbar spine and pelvis
+C) Mixed, in the long bones only
+D) Expansile and pulsatile
+ANS: B
+TAGS: One-liner
+EX: Prostate cancer spreads through Batson's vertebral venous plexus, giving **osteoblastic (sclerotic) metastases** in the lumbar spine and pelvis, with raised alkaline phosphatase. Diagnosis is by MRI-directed transrectal or transperineal biopsy; grading is by the Gleason score (grade groups 1 to 5). PSMA PET is the most sensitive staging tool.
+PEARL: Metastatic disease is treated by androgen deprivation: LHRH agonists (with anti-androgen cover for the initial flare), LHRH antagonists (degarelix) or bilateral orchidectomy.
+
+Q: A 14-year-old boy has sudden severe scrotal pain for 3 hours with a high-riding, tender testis and absent cremasteric reflex. The next step is:
+A) Doppler ultrasound and review the next morning
+B) Immediate surgical exploration
+C) Antibiotics and scrotal support
+D) Radionuclide scan
+ANS: B
+TAGS: PQ, Clinical
+EX: **Testicular torsion** is a clinical diagnosis; **exploration must not be delayed** for imaging. Salvage is best within 6 hours. At surgery the testis is untwisted and **both testes are fixed**, since the 'bell-clapper' deformity is bilateral.
+OTH: C: Epididymo-orchitis has a gradual onset, urinary symptoms, a preserved cremasteric reflex, and relief of pain on elevation (positive Prehn's sign).
+
+Q: A 30-year-old man has a hard, painless testicular mass. The correct approach for diagnosis and treatment is:
+A) Trans-scrotal needle biopsy
+B) Scrotal orchidectomy
+C) High inguinal orchidectomy
+D) Observation with serial ultrasound
+ANS: C
+TAGS: PQ, Management
+EX: **Radical inguinal orchidectomy** with early clamping of the cord is both diagnostic and therapeutic. Scrotal violation is avoided because it alters lymphatic drainage: the testis drains to **para-aortic nodes**, the scrotal skin to inguinal nodes.
+PEARL: Seminoma is the most common germ cell tumour and is radiosensitive. Alpha-fetoprotein is never raised in pure seminoma (it indicates yolk sac elements); beta-hCG is raised in choriocarcinoma and some seminomas. The most common testicular tumour above 60 years is lymphoma.
+
+Q: The ideal age for orchidopexy in a child with an undescended testis is:
+A) At birth
+B) 6 to 12 months
+C) 3 to 5 years
+D) At puberty
+ANS: B
+TAGS: One-liner
+EX: Spontaneous descent is unlikely after 6 months, so orchidopexy is done at **6 to 12 months** (by 18 months at the latest) to preserve fertility and allow examination. Orchidopexy does not abolish the cancer risk (seminoma is the most common tumour) but may reduce it. Impalpable testes are assessed by laparoscopy.
+
+Q: A man falls astride a beam and develops perineal bruising, blood at the urethral meatus and inability to pass urine. Which statement is correct?
+A) An immediate urethral catheter should be passed
+B) The injury is to the membranous urethra
+C) A retrograde urethrogram is the investigation of choice
+D) Extravasated urine will track into the thigh
+ANS: C
+TAGS: PQ, Clinical
+EX: A straddle injury ruptures the **bulbar urethra**, with a butterfly perineal haematoma. **Retrograde urethrography** is done before any catheterisation; a complete tear is managed by **suprapubic cystostomy** with delayed repair. Extravasation spreads into the scrotum, penis and anterior abdominal wall deep to Scarpa's fascia, but **not into the thigh**, because Colles' fascia is attached to the fascia lata.
+OTH: B: The membranous urethra is injured in pelvic fractures, with a high-riding prostate on rectal examination.
+
+Q: After a road traffic accident with pelvic fracture, a retrograde cystogram shows flame-shaped extravasation of contrast confined to the pelvis. The management is:
+A) Laparotomy and bladder repair
+B) Urethral catheter drainage for 10 to 14 days
+C) Bilateral nephrostomy
+D) Suprapubic cystostomy with ureteric stents
+ANS: B
+TAGS: PQ, Management
+EX: **Extraperitoneal bladder rupture** (the more common type, associated with pelvic fracture) is managed by **catheter drainage**. **Intraperitoneal rupture** (blow to a full bladder, tear at the dome, contrast outlining bowel loops) needs **laparotomy and repair**.
+
+Q: The investigation of choice to confirm functionally significant pelvi-ureteric junction obstruction is:
+A) Intravenous urography
+B) Diuretic renography (MAG3 or DTPA)
+C) Micturating cystourethrogram
+D) Ultrasound
+ANS: B
+TAGS: PQ, Investigation
+EX: **Diuretic renogram** shows delayed drainage (half-time over 20 minutes) and split function. Treatment is **Anderson-Hynes dismembered pyeloplasty**, indicated for symptoms, split function below 40% or deteriorating function. Intermittent loin pain and swelling relieved by passing large volumes of urine is Dietl's crisis.
+PEARL: DMSA is the best scan for renal scars and cortical function; a micturating cystourethrogram is best for vesico-ureteric reflux and posterior urethral valves.
+
+Q: Regarding hypospadias, which statement is FALSE?
+A) The urethral meatus opens on the ventral surface
+B) Circumcision should be done in the neonatal period
+C) It may be associated with chordee and a hooded prepuce
+D) Surgery is ideally done between 6 and 18 months
+ANS: B
+TAGS: One-liner
+EX: **Circumcision is contraindicated** because the prepuce is used for urethral reconstruction. The distal (glanular and coronal) type is the most common. The most common complication of repair is a urethrocutaneous fistula.
+
+Q: The sentinel lymph node of Cabanas is related to carcinoma of the:
+A) Testis
+B) Penis
+C) Prostate
+D) Bladder
+ANS: B
+TAGS: Eponym
+EX: The sentinel node of Cabanas lies near the superficial epigastric vein and drains the **penis**. Penile cancer is squamous cell carcinoma, spreads to inguinal nodes, and is rare in men circumcised in infancy. Premalignant lesions: erythroplasia of Queyrat, Bowen's disease and balanitis xerotica obliterans.
+
+Q: A man has a painful erection lasting 6 hours; cavernosal blood gas shows dark blood with pH 7.1 and low oxygen. The initial treatment is:
+A) Observation
+B) Corporal aspiration with intracavernosal phenylephrine
+C) Selective arterial embolisation
+D) Immediate penile prosthesis
+ANS: B
+TAGS: Clinical
+EX: **Ischaemic (low-flow) priapism** is a compartment syndrome of the penis. Treat by **aspiration and irrigation with an alpha agonist (phenylephrine)**; shunt surgery if this fails. Non-ischaemic (high-flow) priapism follows perineal trauma, is painless, and is managed by observation or embolisation.
+
+Q: Sterile pyuria, a small contracted 'thimble' bladder and a 'golf-hole' ureteric orifice are features of:
+A) Interstitial cystitis
+B) Genitourinary tuberculosis
+C) Schistosomiasis
+D) Radiation cystitis
+ANS: B
+TAGS: One-liner
+EX: **Genitourinary tuberculosis**: sterile pyuria, moth-eaten calyces, infundibular stenosis, 'putty' or cement kidney (autonephrectomy), beaded ureter, golf-hole orifice and thimble bladder. Diagnosis: early-morning urine samples for culture or nucleic acid testing.
+
+Q: In renal transplantation, the donor kidney is usually placed in the:
+A) Renal fossa after recipient nephrectomy
+B) Iliac fossa, extraperitoneally
+C) Pelvis, intraperitoneally
+D) Left hypochondrium
+ANS: B
+TAGS: One-liner
+EX: The graft is placed **extraperitoneally in the iliac fossa** (usually the right): renal vein to external iliac vein, renal artery to internal or external iliac artery, and ureter to bladder (Lich-Gregoir). The **left kidney is preferred from a living donor** because of its longer renal vein.
+PEARL: Hyperacute rejection occurs within minutes from preformed antibodies (ABO or HLA) and requires graft removal; acute rejection is T-cell mediated and responds to steroids.
+
+Q: A 50-year-old diabetic woman has fever, flank pain and gas within the renal parenchyma on CT. The most common causative organism is:
+A) Clostridium perfringens
+B) Escherichia coli
+C) Proteus mirabilis
+D) Candida albicans
+ANS: B
+TAGS: Clinical
+EX: **Emphysematous pyelonephritis** occurs almost exclusively in diabetics; **E. coli** is the most common organism (glucose fermentation produces gas). Treatment is resuscitation, antibiotics and percutaneous drainage; nephrectomy for failure.
+PEARL: Xanthogranulomatous pyelonephritis: Proteus, staghorn calculus, lipid-laden foamy macrophages, mimics a renal tumour.
+
+Q: A young man has a scrotal swelling that feels like a 'bag of worms' and disappears on lying down. Which statement is true?
+A) It is more common on the right side
+B) It is due to dilatation of the pampiniform plexus
+C) It transilluminates brilliantly
+D) It always requires surgery
+ANS: B
+TAGS: One-liner
+EX: **Varicocele**: dilated pampiniform plexus, **left-sided in 90%** because the left testicular vein enters the left renal vein at a right angle and is longer. Surgery is indicated for pain, testicular atrophy or infertility with abnormal semen; microsurgical subinguinal varicocelectomy has the lowest recurrence.
+
+Q: Jaboulay's operation is performed for:
+A) Varicocele
+B) Hydrocele
+C) Undescended testis
+D) Epididymal cyst
+ANS: B
+TAGS: Eponym
+EX: **Jaboulay's procedure** is eversion of the tunica vaginalis sac for a large primary vaginal hydrocele. Lord's plication is used for small thin-walled sacs. A congenital hydrocele (patent processus vaginalis) is treated by herniotomy if it persists beyond about 2 years.

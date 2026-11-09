@@ -1,0 +1,512 @@
+@topic Oesophagus
+Q: A 35-year-old has progressive dysphagia to both solids and liquids with regurgitation of undigested food. Barium swallow shows a dilated oesophagus with a smooth 'bird's beak' taper. The investigation of choice to confirm the diagnosis is:
+A) Upper GI endoscopy
+B) Oesophageal manometry
+C) 24-hour pH monitoring
+D) Endoscopic ultrasound
+ANS: B
+TAGS: PQ, Clinical
+EX: **Achalasia cardia**: loss of inhibitory (nitric oxide, VIP) neurons of the myenteric plexus. **High-resolution manometry** is the gold standard: incomplete relaxation of the lower oesophageal sphincter (raised integrated relaxation pressure) with absent peristalsis. Endoscopy is done to exclude pseudo-achalasia from a tumour at the cardia.
+PEARL: Chicago classification: type I (classic, no pressurisation), type II (pan-oesophageal pressurisation, best response to treatment), type III (spastic, worst). Treatment: laparoscopic Heller's cardiomyotomy with partial (Dor) fundoplication, or per-oral endoscopic myotomy (POEM).
+
+Q: Barrett's oesophagus is defined histologically by:
+A) Squamous hyperplasia
+B) Columnar epithelium with intestinal metaplasia containing goblet cells
+C) Gastric fundic-type mucosa
+D) Dysplastic squamous epithelium
+ANS: B
+TAGS: One-liner
+EX: Barrett's oesophagus is replacement of the distal squamous epithelium by **columnar epithelium with intestinal metaplasia (goblet cells)** due to chronic reflux. It predisposes to **adenocarcinoma**. Extent is recorded by the Prague C and M criteria.
+PEARL: High-grade dysplasia is treated by endoscopic resection of visible lesions plus radiofrequency ablation, rather than oesophagectomy.
+
+Q: After a bout of forceful vomiting following an alcohol binge, a man develops severe chest pain and subcutaneous emphysema of the neck. Chest X-ray shows a left pleural effusion. The diagnosis is:
+A) Mallory-Weiss tear
+B) Boerhaave syndrome
+C) Acute myocardial infarction
+D) Perforated peptic ulcer
+ANS: B
+TAGS: PQ, Clinical
+EX: **Boerhaave syndrome** is a full-thickness barogenic rupture of the oesophagus, typically in the **left posterolateral wall of the lower third**. **Mackler's triad**: vomiting, chest pain and subcutaneous emphysema. Confirm with a water-soluble contrast swallow or CT. Treatment within 24 hours is primary repair with drainage.
+OTH: A: Mallory-Weiss tear is a mucosal tear at the gastro-oesophageal junction presenting with haematemesis; it is usually self-limiting. | D: Perforated ulcer causes abdominal rigidity and gas under the diaphragm.
+PEARL: The most common cause of oesophageal perforation overall is iatrogenic (endoscopy and dilatation).
+
+Q: Zenker's diverticulum arises through:
+A) Killian's dehiscence between the thyropharyngeus and cricopharyngeus
+B) Laimer's triangle below the cricopharyngeus
+C) The sinus of Morgagni
+D) The piriform fossa
+ANS: A
+TAGS: Applied anatomy
+EX: A pharyngeal pouch is a **pulsion pseudo-diverticulum** through **Killian's dehiscence** in the posterior wall of the inferior constrictor. Elderly men present with dysphagia, regurgitation of undigested food, halitosis and aspiration. Investigation of choice is a **barium swallow**; blind endoscopy risks perforation.
+PEARL: Treatment is cricopharyngeal myotomy with diverticulectomy or endoscopic stapling (Dohlman's procedure).
+
+Q: The best investigation for assessing the depth of invasion (T stage) of oesophageal carcinoma is:
+A) Barium swallow
+B) CECT of the thorax
+C) Endoscopic ultrasound
+D) PET-CT
+ANS: C
+TAGS: Investigation
+EX: **Endoscopic ultrasound** is the most accurate for T and N staging. CT and PET-CT assess distant metastasis. The investigation of choice for diagnosis is endoscopy with biopsy.
+PEARL: Worldwide and in India the most common type is squamous cell carcinoma (middle third); in the West adenocarcinoma of the lower third predominates.
+
+Q: A child accidentally swallows a drain-cleaning alkali solution. Which of the following is contraindicated?
+A) Securing the airway
+B) Induced emesis or gastric lavage
+C) Upper GI endoscopy within 24 hours
+D) Intravenous fluids
+ANS: B
+TAGS: PQ, Management
+EX: Emesis re-exposes the oesophagus to the corrosive, and neutralisation produces heat; both are **contraindicated**. Endoscopy within 12 to 48 hours grades the injury (Zargar classification).
+PEARL: Alkali causes **liquefactive necrosis** and mainly damages the oesophagus; acid causes **coagulative necrosis** and mainly damages the stomach (antrum). Late complications: stricture and squamous cell carcinoma.
+
+Q: The gold standard investigation for the diagnosis of gastro-oesophageal reflux disease is:
+A) Barium swallow
+B) Upper GI endoscopy
+C) 24-hour ambulatory pH monitoring
+D) Manometry
+ANS: C
+TAGS: Investigation
+EX: **24-hour pH monitoring** is the most sensitive and specific test; a **DeMeester score above 14.7** is abnormal. Manometry is done before anti-reflux surgery to exclude a motility disorder.
+PEARL: Nissen fundoplication is a 360° wrap. Toupet is a posterior 270° wrap. Dor is an anterior 180° wrap.
+
+Q: Which oesophagectomy involves a laparotomy and a right thoracotomy with an intrathoracic anastomosis?
+A) Orringer's transhiatal oesophagectomy
+B) Ivor Lewis oesophagectomy
+C) McKeown oesophagectomy
+D) Left thoraco-abdominal oesophagectomy
+ANS: B
+TAGS: Eponym
+EX: **Ivor Lewis**: two stages (abdomen then right chest) with an intrathoracic anastomosis. **McKeown**: three stages (right chest, abdomen, neck) with a cervical anastomosis. **Orringer**: transhiatal, with no thoracotomy and a cervical anastomosis.
+PEARL: The stomach is the most common conduit; its blood supply then depends on the right gastroepiploic artery.
+
+Q: A middle-aged woman with iron deficiency anaemia, glossitis and koilonychia has dysphagia due to a post-cricoid web. This condition predisposes to:
+A) Adenocarcinoma of the oesophagus
+B) Squamous cell carcinoma of the post-cricoid region
+C) Achalasia cardia
+D) Zenker's diverticulum
+ANS: B
+TAGS: Clinical
+EX: **Plummer-Vinson (Paterson-Brown-Kelly) syndrome** is a premalignant condition for post-cricoid and upper oesophageal **squamous cell carcinoma**. Treatment is iron replacement and endoscopic dilatation of the web.
+
+@topic Stomach & Duodenum
+Q: A 40-year-old man on NSAIDs presents with sudden severe epigastric pain and board-like rigidity. The first investigation is:
+A) Ultrasound of the abdomen
+B) Erect chest X-ray
+C) Upper GI endoscopy
+D) Barium meal
+ANS: B
+TAGS: PQ, Clinical
+EX: Perforated peptic ulcer: an **erect chest X-ray** shows free gas under the diaphragm in about 70 to 75% of cases; CT is the most sensitive test. The usual site is the **anterior wall of the first part of the duodenum**. Treatment is resuscitation and closure with an omental (Graham) patch, followed by H. pylori eradication.
+OTH: C: Endoscopy and barium studies are contraindicated in suspected perforation.
+
+Q: Massive haematemesis from a posterior duodenal ulcer is due to erosion of the:
+A) Left gastric artery
+B) Gastroduodenal artery
+C) Splenic artery
+D) Right gastroepiploic artery
+ANS: B
+TAGS: Applied anatomy
+EX: Posterior duodenal ulcers bleed from the **gastroduodenal artery**; anterior ulcers perforate. Lesser-curve gastric ulcers bleed from the left gastric artery.
+
+Q: On endoscopy for upper GI bleeding, a non-bleeding visible vessel is seen in the ulcer base. The Forrest class is:
+A) Ia
+B) Ib
+C) IIa
+D) IIc
+ANS: C
+TAGS: PQ, Classification
+EX: Forrest Ia: spurting arterial bleed. Ib: oozing. **IIa: non-bleeding visible vessel.** IIb: adherent clot. IIc: flat pigmented spot. III: clean base. Endoscopic therapy is indicated for Ia, Ib and IIa (and IIb after clot removal), using dual therapy such as adrenaline injection with clips or thermal coagulation.
+PEARL: Glasgow-Blatchford score (pre-endoscopy) identifies patients for outpatient care; Rockall score predicts mortality.
+
+Q: The best non-invasive test to confirm eradication of Helicobacter pylori is:
+A) Serology for IgG
+B) Urea breath test
+C) Rapid urease test
+D) Culture
+ANS: B
+TAGS: Investigation
+EX: The **urea breath test** (or stool antigen) is used to confirm eradication, at least 4 weeks after treatment and 2 weeks off proton pump inhibitors. Serology remains positive for months. The rapid urease test and histology need endoscopy.
+
+Q: Early gastric cancer is defined as a tumour confined to the:
+A) Mucosa only, without lymph node metastasis
+B) Mucosa or submucosa, irrespective of lymph node status
+C) Muscularis propria without nodal metastasis
+D) Stomach wall smaller than 2 cm
+ANS: B
+TAGS: PQ, Definition
+EX: **Early gastric cancer** is limited to the **mucosa or submucosa (T1), regardless of nodal status**. Selected mucosal lesions are treated by endoscopic submucosal dissection.
+PEARL: Signs of advanced gastric cancer: Virchow's node (left supraclavicular, Troisier's sign), Sister Mary Joseph nodule (umbilicus), Krukenberg tumour (ovary), Blumer's shelf (pouch of Douglas), Irish node (left axilla).
+
+Q: A patient who underwent a Billroth II gastrectomy has abdominal cramps, diarrhoea, palpitations and sweating 20 minutes after meals. The mechanism is:
+A) Reactive hypoglycaemia
+B) Rapid emptying of hyperosmolar contents into the small bowel causing fluid shift
+C) Bacterial overgrowth
+D) Afferent loop obstruction
+ANS: B
+TAGS: Clinical
+EX: **Early dumping** occurs within 30 minutes: hyperosmolar chyme draws fluid into the gut and releases vasoactive peptides. **Late dumping** occurs 1 to 3 hours after meals and is reactive hypoglycaemia from an exaggerated insulin response.
+PEARL: Treatment: small, frequent, dry meals low in refined carbohydrate; octreotide for refractory cases.
+
+Q: A 5 cm submucosal gastric tumour shows spindle cells positive for CD117. Which statement is correct?
+A) It arises from smooth muscle cells
+B) Routine lymphadenectomy is required
+C) DOG1 is a highly specific marker
+D) It is highly sensitive to conventional chemotherapy
+ANS: C
+TAGS: PQ, One-liner
+EX: **GIST** arises from the interstitial cells of Cajal, with c-KIT (CD117) or PDGFRA mutations; **DOG1** is the most specific marker. The stomach is the most common site. Treatment is resection with clear margins **without lymphadenectomy** (nodal spread is rare); **imatinib** is used as adjuvant or for unresectable disease.
+PEARL: Prognosis depends on tumour size, mitotic rate and site (gastric is better than small bowel), and tumour rupture.
+
+Q: The provocative test of choice for Zollinger-Ellison syndrome is:
+A) Calcium infusion test
+B) Secretin stimulation test
+C) Pentagastrin test
+D) Glucagon stimulation test
+ANS: B
+TAGS: One-liner
+EX: In gastrinoma, **secretin paradoxically raises serum gastrin** (by more than 120 pg/mL). A fasting gastrin above 1000 pg/mL with gastric pH below 2 is diagnostic. Most gastrinomas lie in the gastrinoma triangle (junction of cystic and common bile ducts, junction of 2nd and 3rd parts of the duodenum, neck of the pancreas); the duodenum is the most common site.
+
+Q: Borchardt's triad of acute gastric volvulus includes all EXCEPT:
+A) Severe epigastric pain
+B) Retching without vomiting
+C) Inability to pass a nasogastric tube
+D) Haematemesis
+ANS: D
+TAGS: Eponym
+EX: **Borchardt's triad**: epigastric pain and distension, unproductive retching, and inability to pass a nasogastric tube. Organo-axial volvulus (rotation around the long axis) is the most common type and is associated with para-oesophageal hernia.
+
+Q: According to the 2022 ASMBS/IFSO guidelines, metabolic and bariatric surgery is recommended for individuals with a BMI of at least:
+A) 30 kg/m² regardless of comorbidity
+B) 35 kg/m² regardless of comorbidity
+C) 40 kg/m² only
+D) 45 kg/m² only
+ANS: B
+TAGS: PQ, Recent update
+EX: The 2022 guidelines recommend surgery for **BMI 35 or more regardless of comorbidities**, and consideration for BMI 30 to 34.9 with metabolic disease. For Asian populations the thresholds are lowered by 2.5 (BMI 27.5 or more may be considered). Older (1991 NIH) criteria were 40, or 35 with comorbidity.
+PEARL: Sleeve gastrectomy is the most commonly performed procedure worldwide; Roux-en-Y gastric bypass is preferred in patients with severe reflux and gives better diabetes remission.
+
+Q: The most common cause of upper gastrointestinal bleeding is:
+A) Oesophageal varices
+B) Peptic ulcer disease
+C) Mallory-Weiss tear
+D) Gastric carcinoma
+ANS: B
+TAGS: One-liner
+EX: **Peptic ulcer** (duodenal more than gastric) is the most common cause overall. After resuscitation, endoscopy within 24 hours is both diagnostic and therapeutic. For variceal bleeding: terlipressin or octreotide, antibiotics and endoscopic band ligation; balloon tamponade or TIPS for failures.
+
+@topic Liver
+Q: Which statement about the caudate lobe of the liver is correct?
+A) It is segment IV
+B) It drains directly into the inferior vena cava
+C) It receives blood only from the right portal vein
+D) It atrophies in Budd-Chiari syndrome
+ANS: B
+TAGS: Applied anatomy
+EX: The **caudate lobe (segment I)** receives blood from both right and left portal and arterial branches and **drains by small veins directly into the IVC**. This is why it **hypertrophies in Budd-Chiari syndrome**.
+PEARL: Cantlie's line runs from the gallbladder fossa to the IVC along the middle hepatic vein and divides the functional right and left liver. Segments II, III and IV are left; V to VIII are right.
+
+Q: Aspiration of an amoebic liver abscess is indicated in all of the following EXCEPT:
+A) Abscess in the left lobe
+B) No clinical response after 72 hours of metronidazole
+C) A 3 cm abscess in the right lobe
+D) Imminent rupture
+ANS: C
+TAGS: PQ, Management
+EX: Amoebic liver abscess is treated with **metronidazole** followed by a luminal amoebicide. Aspiration is reserved for **left lobe abscess** (risk of rupture into the pericardium), large abscess (over 5 to 10 cm), failure to respond in 72 hours, impending rupture, or diagnostic doubt.
+PEARL: It is usually solitary, in the postero-superior right lobe, with 'anchovy sauce' pus. Pyogenic abscesses are most often of biliary origin.
+
+Q: Which of the following is NOT used as a scolicidal agent in hydatid cyst surgery?
+A) 20% hypertonic saline
+B) Cetrimide
+C) Chlorhexidine
+D) 5% dextrose
+ANS: D
+TAGS: One-liner
+EX: Scolicidal agents: hypertonic saline (15 to 20%), cetrimide, chlorhexidine, povidone iodine and absolute alcohol. Formalin is no longer used because of sclerosing cholangitis.
+PEARL: Hydatid cyst layers: **pericyst** (host fibrous tissue), **ectocyst** (laminated membrane) and **endocyst** (germinal layer). The 'water lily' sign indicates a detached floating membrane. PAIR (puncture, aspiration, injection, re-aspiration) with albendazole cover is used for uncomplicated cysts and is contraindicated when there is biliary communication.
+
+Q: According to the Milan criteria, liver transplantation for hepatocellular carcinoma is acceptable for:
+A) A single tumour up to 5 cm, or up to 3 tumours each 3 cm or less
+B) A single tumour up to 8 cm
+C) Up to 5 tumours each 5 cm or less
+D) Any tumour without portal vein invasion
+ANS: A
+TAGS: PQ, One-liner
+EX: **Milan criteria**: single lesion 5 cm or less, or up to **3 lesions each 3 cm or less**, with no vascular invasion or extrahepatic spread.
+PEARL: HCC is diagnosed without biopsy in a cirrhotic liver when a lesion shows **arterial phase hyperenhancement with portal venous or delayed washout** on triphasic CT or MRI. Fibrolamellar HCC occurs in young adults without cirrhosis, has normal AFP and a central scar.
+
+Q: The most common benign tumour of the liver is:
+A) Hepatic adenoma
+B) Focal nodular hyperplasia
+C) Haemangioma
+D) Bile duct hamartoma
+ANS: C
+TAGS: One-liner
+EX: **Cavernous haemangioma** shows peripheral nodular enhancement with centripetal fill-in on contrast CT. It is managed conservatively and should not be biopsied.
+OTH: A: Hepatic adenoma is linked to oral contraceptives and anabolic steroids, and carries a risk of rupture and malignancy; resect if over 5 cm. | B: Focal nodular hyperplasia shows a central stellate scar with a spoke-wheel pattern and needs no treatment.
+
+Q: The Child-Pugh score includes all of the following EXCEPT:
+A) Serum bilirubin
+B) Serum albumin
+C) Serum creatinine
+D) Ascites
+ANS: C
+TAGS: One-liner
+EX: **Child-Pugh**: bilirubin, albumin, prothrombin time (INR), ascites and encephalopathy. **MELD**: bilirubin, INR and **creatinine** (MELD-Na adds sodium). Class A 5 to 6, B 7 to 9, C 10 to 15.
+
+Q: The most common malignant tumour of the liver is:
+A) Hepatocellular carcinoma
+B) Cholangiocarcinoma
+C) Metastasis
+D) Hepatoblastoma
+ANS: C
+TAGS: One-liner
+EX: **Metastases** (most often from colorectal cancer via the portal vein) are far more common than primary tumours. HCC is the most common primary malignancy in adults; hepatoblastoma is the most common in children.
+
+@topic Gallbladder & Bile Ducts
+Q: A patient has fever with rigors, right upper quadrant pain and jaundice. This triad is known as:
+A) Saint's triad
+B) Charcot's triad
+C) Rigler's triad
+D) Whipple's triad
+ANS: B
+TAGS: PQ, Eponym
+EX: **Charcot's triad** (pain, fever, jaundice) indicates acute cholangitis. Adding shock and altered sensorium gives **Reynolds' pentad** (severe suppurative cholangitis). Treatment is antibiotics, resuscitation and urgent biliary decompression by **ERCP**.
+OTH: A: Saint's triad is gallstones, hiatus hernia and diverticulosis. | C: Rigler's triad is pneumobilia, small bowel obstruction and an ectopic gallstone (gallstone ileus). | D: Whipple's triad is for insulinoma.
+
+Q: The investigation of choice for acute cholecystitis is:
+A) Plain X-ray of the abdomen
+B) Ultrasonography
+C) CECT of the abdomen
+D) ERCP
+ANS: B
+TAGS: Investigation
+EX: **Ultrasound** is the investigation of choice: stones, wall thickening above 3 mm, pericholecystic fluid and sonographic Murphy's sign. The **most accurate test is a HIDA scan** (non-visualisation of the gallbladder). Recommended treatment is early laparoscopic cholecystectomy, within 72 hours to a week of onset.
+
+Q: The boundaries of Calot's triangle as originally described include all EXCEPT:
+A) Cystic duct
+B) Common hepatic duct
+C) Cystic artery
+D) Common bile duct
+ANS: D
+TAGS: PQ, Applied anatomy
+EX: Calot's original triangle: cystic duct, common hepatic duct and **cystic artery**. The hepatocystic triangle used in surgery is bounded by the cystic duct, common hepatic duct and the inferior surface of the liver; it contains the cystic artery and the cystic lymph node of Lund.
+PEARL: The **critical view of safety** requires: the hepatocystic triangle cleared of fat, the lower third of the gallbladder separated from the liver bed, and only two structures seen entering the gallbladder.
+
+Q: A patient develops a biliary stricture 2 cm below the hepatic duct confluence after laparoscopic cholecystectomy. The definitive treatment is:
+A) Endoscopic stenting for life
+B) Roux-en-Y hepaticojejunostomy
+C) Choledochoduodenostomy
+D) End-to-end repair over a T-tube
+ANS: B
+TAGS: Management
+EX: Established benign biliary strictures are best treated by **Roux-en-Y hepaticojejunostomy** at a specialist centre. Strictures are graded by the **Bismuth** classification (by distance from the confluence) and injuries by the **Strasberg** classification. The most common cause is misidentifying the common bile duct as the cystic duct.
+
+Q: A 65-year-old has painless progressive jaundice with a palpable, non-tender gallbladder. According to Courvoisier's law, the cause is unlikely to be:
+A) Carcinoma of the head of the pancreas
+B) Periampullary carcinoma
+C) Common bile duct stones
+D) Distal cholangiocarcinoma
+ANS: C
+TAGS: PQ, Eponym
+EX: **Courvoisier's law**: in obstructive jaundice with a palpable gallbladder, the cause is unlikely to be stones, because a gallbladder with stones is chronically fibrosed and cannot distend. Exceptions: double impaction of stones, Mirizzi syndrome, and oriental cholangiohepatitis.
+
+Q: Histology after routine cholecystectomy shows gallbladder carcinoma invading the muscular layer (T1b). The further management is:
+A) No further treatment
+B) Radical (extended) cholecystectomy
+C) Chemotherapy alone
+D) Radiotherapy to the gallbladder bed
+ANS: B
+TAGS: PQ, Management
+EX: **T1a** (lamina propria): simple cholecystectomy is sufficient. **T1b and above**: **extended cholecystectomy** (wedge of segments IVb and V with regional lymphadenectomy).
+PEARL: Risk factors: gallstones (especially larger than 3 cm), porcelain gallbladder, polyps larger than 1 cm, anomalous pancreaticobiliary duct junction, typhoid carrier state and primary sclerosing cholangitis.
+
+Q: The most common type of choledochal cyst in the Todani classification is:
+A) Type I
+B) Type II
+C) Type III
+D) Type V
+ANS: A
+TAGS: Classification
+EX: **Type I**: fusiform dilatation of the extrahepatic duct (most common). Type II: diverticulum. Type III: choledochocele (intraduodenal). Type IVa: intra- and extrahepatic; IVb: multiple extrahepatic. **Type V: Caroli's disease** (intrahepatic only). Treatment for type I is complete excision with Roux-en-Y hepaticojejunostomy because of the risk of cholangiocarcinoma.
+
+Q: An elderly woman presents with small bowel obstruction. X-ray shows air in the biliary tree. The most likely site of impaction of the causative lesion is:
+A) Duodenum
+B) Jejunum
+C) Terminal ileum
+D) Sigmoid colon
+ANS: C
+TAGS: PQ, Clinical
+EX: **Gallstone ileus**: a large stone enters the bowel through a cholecystoduodenal fistula and impacts in the **terminal ileum**, the narrowest part. **Rigler's triad**: pneumobilia, small bowel obstruction and an ectopic gallstone. Treatment is enterolithotomy through a proximal enterotomy.
+PEARL: Impaction in the duodenum causing gastric outlet obstruction is Bouveret's syndrome.
+
+Q: Obstructive jaundice caused by a stone impacted in Hartmann's pouch compressing the common hepatic duct is called:
+A) Mirizzi syndrome
+B) Bouveret syndrome
+C) Caroli syndrome
+D) Lemmel syndrome
+ANS: A
+TAGS: Eponym
+EX: **Mirizzi syndrome**: type I is external compression; higher types (Csendes classification) involve a cholecystobiliary fistula. It increases the risk of bile duct injury during cholecystectomy.
+
+Q: Following a liver biopsy, a patient develops upper abdominal pain, jaundice and melaena. The treatment of choice is:
+A) Laparotomy and hepatic resection
+B) Angiographic embolisation
+C) ERCP and sphincterotomy
+D) Conservative management only
+ANS: B
+TAGS: Clinical
+EX: **Haemobilia** presents with **Quincke's triad** (biliary colic, jaundice and gastrointestinal bleeding). The most common cause is iatrogenic trauma. CT angiography confirms it and **selective angioembolisation** is the treatment of choice.
+
+Q: A cholangiocarcinoma located at the confluence of the right and left hepatic ducts is called:
+A) Klatskin tumour
+B) Krukenberg tumour
+C) Pancoast tumour
+D) Brenner tumour
+ANS: A
+TAGS: Eponym
+EX: **Klatskin tumour** is a hilar cholangiocarcinoma, the most common site of cholangiocarcinoma, classified by Bismuth-Corlette. Risk factors: primary sclerosing cholangitis, choledochal cyst, liver flukes (Clonorchis, Opisthorchis) and hepatolithiasis.
+
+@topic Pancreas
+Q: A patient presents on day 6 of an attack of suspected acute pancreatitis and serum amylase is normal. Which test is most useful to support the diagnosis?
+A) Serum lipase
+B) Serum LDH
+C) Serum calcium
+D) Serum trypsinogen activation peptide
+ANS: A
+TAGS: PQ, Investigation
+EX: **Serum amylase** rises within hours and returns to normal in **3 to 5 days**. **Serum lipase** is more specific and stays elevated for **8 to 14 days**, so it is preferred for late presentations. Urinary amylase also remains raised longer than serum amylase.
+PEARL: Diagnosis needs two of three: typical pain, amylase or lipase more than three times normal, and characteristic imaging. Enzyme levels do not correlate with severity.
+
+Q: In the revised Atlanta classification, severe acute pancreatitis is defined by:
+A) Presence of pancreatic necrosis
+B) Organ failure persisting for more than 48 hours
+C) Serum amylase above 1000 IU/L
+D) Presence of a pseudocyst
+ANS: B
+TAGS: PQ, Classification
+EX: **Mild**: no organ failure or complications. **Moderately severe**: transient organ failure (under 48 hours) or local or systemic complications. **Severe**: **persistent organ failure beyond 48 hours** (modified Marshall score).
+PEARL: Collections: acute peripancreatic fluid collection (under 4 weeks, interstitial pancreatitis) becomes a **pseudocyst** (after 4 weeks); acute necrotic collection becomes **walled-off necrosis** (after 4 weeks).
+
+Q: A patient with acute necrotising pancreatitis develops fever in the third week, and CT shows gas within the necrotic collection. The recommended management is:
+A) Immediate open necrosectomy
+B) Step-up approach: antibiotics and percutaneous or endoscopic drainage first
+C) Continue conservative treatment without antibiotics
+D) Total pancreatectomy
+ANS: B
+TAGS: PQ, Management
+EX: Gas in the collection indicates **infected necrosis**. The **step-up approach** (PANTER trial) uses antibiotics, then percutaneous or endoscopic drainage, and minimally invasive necrosectomy only if needed, ideally delayed beyond 4 weeks when the necrosis is walled off.
+PEARL: Prophylactic antibiotics are not recommended in acute pancreatitis. Early enteral feeding is preferred over parenteral nutrition.
+
+Q: Bluish discolouration around the umbilicus in acute haemorrhagic pancreatitis is called:
+A) Grey Turner's sign
+B) Cullen's sign
+C) Fox's sign
+D) Kehr's sign
+ANS: B
+TAGS: Eponym
+EX: **Cullen's sign**: periumbilical. **Grey Turner's sign**: flanks. **Fox's sign**: below the inguinal ligament. All reflect retroperitoneal haemorrhage and indicate severe disease.
+
+Q: Six weeks after an attack of acute pancreatitis, a patient has early satiety and an 8 cm fluid collection behind the stomach with a well-defined wall. The treatment of choice is:
+A) Observation
+B) Percutaneous external drainage
+C) Internal drainage by cystogastrostomy
+D) Distal pancreatectomy
+ANS: C
+TAGS: PQ, Management
+EX: A **pseudocyst** has a wall of fibrous and granulation tissue with **no epithelial lining**. Symptomatic or enlarging mature cysts are treated by **internal drainage**: endoscopic (EUS-guided) or surgical cystogastrostomy, or cystojejunostomy. Asymptomatic cysts are observed regardless of size.
+
+Q: A chronic alcoholic has recurrent epigastric pain radiating to the back, steatorrhoea and diabetes. MRCP shows a 9 mm main pancreatic duct with a 'chain of lakes' appearance and no head mass. The appropriate operation is:
+A) Whipple's pancreaticoduodenectomy
+B) Lateral pancreaticojejunostomy
+C) Distal pancreatectomy
+D) Coeliac plexus block only
+ANS: B
+TAGS: Management
+EX: For a dilated duct (over 7 mm) without an inflammatory head mass, drainage by **lateral pancreaticojejunostomy (modified Puestow, Partington-Rochelle)** is done. With an inflammatory head mass, Frey's procedure (head coring with lateral pancreaticojejunostomy) or Beger's procedure is preferred.
+
+Q: The most common genetic mutation in pancreatic ductal adenocarcinoma is:
+A) TP53
+B) KRAS
+C) CDKN2A
+D) SMAD4
+ANS: B
+TAGS: One-liner
+EX: **KRAS** is mutated in over 90%, followed by CDKN2A (p16), TP53 and SMAD4 (DPC4). The head is the most common site; the tumour marker is **CA 19-9**. Imaging shows the 'double duct' sign. Investigation of choice is pancreatic-protocol CECT.
+PEARL: Trousseau's sign of malignancy is migratory superficial thrombophlebitis.
+
+Q: The most common complication after Whipple's pancreaticoduodenectomy is:
+A) Pancreatic fistula
+B) Delayed gastric emptying
+C) Bile leak
+D) Post-pancreatectomy haemorrhage
+ANS: B
+TAGS: One-liner
+EX: **Delayed gastric emptying** is the most common complication. **Pancreatic fistula** is the most serious and the leading cause of mortality; the risk is highest with a soft gland and a small duct.
+
+Q: A newborn has bilious vomiting and a 'double bubble' sign. At surgery, a ring of pancreatic tissue encircles the second part of the duodenum. The operation of choice is:
+A) Division of the pancreatic ring
+B) Duodenoduodenostomy
+C) Gastrojejunostomy
+D) Whipple's procedure
+ANS: B
+TAGS: Management
+EX: **Annular pancreas** results from abnormal rotation of the ventral pancreatic bud. The ring is never divided (risk of fistula and duct injury); bypass by **duodenoduodenostomy** is done.
+PEARL: Pancreas divisum (failure of fusion of dorsal and ventral ducts) is the most common congenital anomaly of the pancreas; most of the gland drains through the minor papilla.
+
+Q: A 70-year-old woman has an incidental pancreatic head cyst with a honeycomb (microcystic) appearance and a central stellate scar with calcification. The likely diagnosis is:
+A) Mucinous cystic neoplasm
+B) Serous cystadenoma
+C) Solid pseudopapillary neoplasm
+D) Intraductal papillary mucinous neoplasm
+ANS: B
+TAGS: Clinical
+EX: **Serous cystadenoma**: elderly women ('grandmother'), glycogen-rich cuboidal cells, central scar, benign. **Mucinous cystic neoplasm**: middle-aged women ('mother'), body and tail, ovarian-type stroma, premalignant. **Solid pseudopapillary neoplasm**: young women ('daughter'). **IPMN**: communicates with the duct, mucin extruding from a 'fish-mouth' papilla; main-duct type has the highest malignant risk.
+
+@topic Spleen
+Q: Which of the following is seen in the peripheral blood after splenectomy?
+A) Howell-Jolly bodies
+B) Thrombocytopenia
+C) Leucopenia
+D) Reticulocytopenia
+ANS: A
+TAGS: One-liner
+EX: Post-splenectomy smear: **Howell-Jolly bodies**, Heinz bodies, Pappenheimer bodies, target cells, with thrombocytosis and leucocytosis. Absence of Howell-Jolly bodies after splenectomy suggests an accessory spleen.
+PEARL: The most common site of an accessory spleen (splenunculus) is the splenic hilum, followed by the tail of the pancreas.
+
+Q: The most common organism causing overwhelming post-splenectomy infection is:
+A) Haemophilus influenzae
+B) Streptococcus pneumoniae
+C) Neisseria meningitidis
+D) Staphylococcus aureus
+ANS: B
+TAGS: PQ, One-liner
+EX: OPSI is caused by encapsulated organisms, most commonly **pneumococcus**. Risk is highest in children and in the first 2 years after splenectomy. Vaccines are given 2 weeks before elective splenectomy or 2 weeks after emergency splenectomy.
+
+Q: A patient with chronic pancreatitis presents with haematemesis from isolated gastric fundal varices; liver function and portal pressure are normal. The treatment of choice is:
+A) TIPS
+B) Splenectomy
+C) Distal splenorenal shunt
+D) Liver transplantation
+ANS: B
+TAGS: Clinical
+EX: **Splenic vein thrombosis** causes left-sided (sinistral) portal hypertension with isolated gastric varices via the short gastric veins. **Splenectomy** is curative.
+
+Q: The most common visceral artery aneurysm is of the:
+A) Hepatic artery
+B) Splenic artery
+C) Superior mesenteric artery
+D) Coeliac artery
+ANS: B
+TAGS: One-liner
+EX: **Splenic artery aneurysm** is the most common, seen more in women, with a high risk of rupture in pregnancy. Treat if symptomatic, over 2 cm, or in women of child-bearing age.
+
+Q: The most common indication for elective splenectomy is:
+A) Hereditary spherocytosis
+B) Immune thrombocytopenic purpura
+C) Thalassaemia major
+D) Splenic abscess
+ANS: B
+TAGS: One-liner
+EX: **ITP** refractory to medical treatment is the most common elective indication; the spleen is of normal size, so the laparoscopic approach is ideal. Overall, the most common indication is trauma. In hereditary spherocytosis, splenectomy is deferred until after 6 years of age, with cholecystectomy if stones are present.

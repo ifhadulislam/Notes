@@ -1,0 +1,435 @@
+@topic Breast
+Q: A 22-year-old woman has a 2 cm firm, smooth, highly mobile, painless lump in the breast. The most likely diagnosis is:
+A) Fibroadenoma
+B) Breast cyst
+C) Phyllodes tumour
+D) Carcinoma of the breast
+ANS: A
+TAGS: PQ, Clinical
+EX: **Fibroadenoma** is the most common benign breast tumour in women aged 15 to 25. It slips under the examining finger ('breast mouse'). It is an aberration of normal development and involution (ANDI) arising from a lobule.
+OTH: B: Cysts occur in perimenopausal women (40 to 50 years). | C: Phyllodes tumour occurs around 40 years, is larger and grows rapidly. | D: Carcinoma is hard, irregular and less mobile.
+PEARL: Excise a fibroadenoma if it is larger than 3 to 5 cm (giant), growing, atypical on core biopsy, or on patient request.
+
+Q: A 45-year-old woman has a rapidly growing 12 cm bosselated breast mass with stretched shiny skin and dilated veins; the axilla is normal. Core biopsy shows leaf-like stromal projections. The treatment of choice is:
+A) Enucleation
+B) Wide local excision with a 1 cm margin
+C) Modified radical mastectomy
+D) Neoadjuvant chemotherapy
+ANS: B
+TAGS: PQ, Clinical
+EX: **Phyllodes tumour** (cystosarcoma phyllodes) is a fibroepithelial tumour with a hypercellular stroma. Treatment is **wide excision with at least a 1 cm margin** (simple mastectomy for very large or recurrent tumours).
+OTH: A: Enucleation leads to local recurrence. | C: Axillary dissection is not needed because spread is haematogenous (lungs), not lymphatic. | D: Chemotherapy has no routine role.
+
+Q: A 40-year-old woman has spontaneous blood-stained discharge from a single duct of one nipple with no palpable lump. The most common cause is:
+A) Duct ectasia
+B) Intraductal papilloma
+C) Ductal carcinoma in situ
+D) Fibrocystic disease
+ANS: B
+TAGS: Clinical
+EX: **Intraductal papilloma** is the most common cause of bloody single-duct nipple discharge. Treatment is **microdochectomy**.
+OTH: A: Duct ectasia gives multi-duct, thick, green or creamy discharge with slit-like nipple retraction; it is associated with smoking. | C: Carcinoma accounts for a minority but must be excluded by imaging. | D: Fibrocystic disease gives serous or greenish multi-duct discharge.
+PEARL: Operation for duct ectasia is total duct excision (Hadfield's operation).
+
+Q: A screening mammogram is reported as BI-RADS 4. The next step is:
+A) Routine annual screening
+B) Repeat mammography in 6 months
+C) Tissue biopsy
+D) Mastectomy
+ANS: C
+TAGS: PQ, Classification
+EX: BI-RADS 0: incomplete, needs more imaging. 1: negative. 2: benign. 3: probably benign (under 2% risk), short-interval follow-up at 6 months. **4: suspicious, biopsy.** 5: highly suggestive of malignancy (over 95%), biopsy. 6: biopsy-proven malignancy.
+
+Q: Peau d'orange appearance in carcinoma of the breast is due to:
+A) Infiltration of Cooper's ligaments
+B) Obstruction of sub-dermal lymphatics
+C) Infiltration of lactiferous ducts
+D) Venous thrombosis
+ANS: B
+TAGS: One-liner
+EX: **Peau d'orange** results from blockage of sub-dermal lymphatics causing cutaneous oedema, with pits at the tethered hair follicles. It stages the tumour as **T4b**.
+OTH: A: Infiltration of Cooper's ligaments causes skin dimpling and tethering. | C: Infiltration and fibrosis of lactiferous ducts causes recent nipple retraction.
+
+Q: A woman has a 3 cm breast carcinoma with mobile ipsilateral axillary lymph nodes and no distant metastasis. The TNM stage is:
+A) T1 N1 M0
+B) T2 N1 M0
+C) T2 N2 M0
+D) T3 N1 M0
+ANS: B
+TAGS: PQ, Staging
+EX: T1: 2 cm or less. **T2: more than 2 cm up to 5 cm.** T3: more than 5 cm. T4a: chest wall; T4b: skin ulceration, satellite nodules or peau d'orange; T4c: both; T4d: inflammatory carcinoma. **N1: mobile ipsilateral level I and II axillary nodes.** N2: fixed or matted axillary nodes, or internal mammary nodes alone. N3: infraclavicular (N3a), internal mammary with axillary (N3b), supraclavicular (N3c).
+PEARL: Ipsilateral supraclavicular nodes are N3c (stage IIIC), not metastatic disease. The pectoralis major is not part of the chest wall for T4a.
+
+Q: Sentinel lymph node biopsy in carcinoma of the breast is indicated in:
+A) Clinically node-negative early breast cancer
+B) Biopsy-proven axillary nodal metastasis
+C) Inflammatory breast cancer
+D) Metastatic breast cancer
+ANS: A
+TAGS: PQ, Management
+EX: The sentinel node is the first node draining the tumour. Biopsy is done in **clinically and radiologically node-negative** early breast cancer using blue dye (isosulfan blue or methylene blue) and technetium-99m labelled colloid; the combination gives the best identification rate.
+PEARL: Isosulfan blue can cause anaphylaxis and a spurious fall in pulse oximeter reading.
+
+Q: Which statement about BRCA mutations is correct?
+A) BRCA1 is located on chromosome 13
+B) BRCA2 is more strongly associated with male breast cancer
+C) BRCA2 tumours are usually triple negative
+D) BRCA1 carries no risk of ovarian cancer
+ANS: B
+TAGS: PQ, One-liner
+EX: **BRCA1**: chromosome **17q**; triple-negative, basal-like and medullary tumours; higher ovarian cancer risk. **BRCA2**: chromosome **13q**; **male breast cancer**, prostate and pancreatic cancer; tumours are usually hormone-receptor positive.
+PEARL: Screening for BRCA carriers is annual MRI from 25 to 30 years; risk-reducing options are bilateral mastectomy and salpingo-oophorectomy.
+
+Q: A 55-year-old woman has a unilateral, eczematous, crusted lesion that has destroyed the nipple and does not respond to topical steroids. The next step is:
+A) Antifungal cream
+B) Full-thickness biopsy of the nipple with mammography
+C) Reassurance
+D) Systemic antibiotics
+ANS: B
+TAGS: Clinical
+EX: **Paget's disease of the nipple** is associated with underlying DCIS or invasive carcinoma in almost all cases. Biopsy shows large clear Paget cells in the epidermis. It begins on the nipple and destroys it, is unilateral and does not itch much; eczema is usually bilateral, starts on the areola and spares the nipple.
+
+Q: Before starting trastuzumab in HER2-positive breast cancer, which investigation is essential?
+A) Pulmonary function tests
+B) Echocardiography
+C) Audiometry
+D) Nerve conduction study
+ANS: B
+TAGS: Pharmacology
+EX: **Trastuzumab** is a monoclonal antibody against HER2/neu (ERBB2). It causes cardiomyopathy that is usually reversible and not dose dependent, so left ventricular ejection fraction is checked before and during treatment. It is not combined concurrently with anthracyclines.
+
+Q: A post-menopausal woman on adjuvant hormonal therapy for ER-positive breast cancer develops osteoporosis and joint pains. The drug most likely responsible is:
+A) Tamoxifen
+B) Letrozole
+C) Trastuzumab
+D) Fulvestrant
+ANS: B
+TAGS: Pharmacology
+EX: **Aromatase inhibitors** (letrozole, anastrozole, exemestane) are preferred in post-menopausal women and cause **osteoporosis and arthralgia**. Tamoxifen (a selective oestrogen receptor modulator) is used in pre-menopausal women; it protects bone but increases the risk of endometrial carcinoma and venous thromboembolism.
+
+Q: Loss of E-cadherin expression is characteristic of:
+A) Invasive ductal carcinoma
+B) Invasive lobular carcinoma
+C) Medullary carcinoma
+D) Mucinous carcinoma
+ANS: B
+TAGS: One-liner
+EX: **Invasive lobular carcinoma** shows loss of E-cadherin (CDH1), single-file ('Indian file') infiltration, and tends to be multicentric and bilateral. It is often occult on mammography, so MRI is useful. It metastasises to unusual sites such as peritoneum, ovary and meninges.
+
+Q: The correct sequence of treatment in inflammatory carcinoma of the breast is:
+A) Mastectomy, chemotherapy, radiotherapy
+B) Neoadjuvant chemotherapy, modified radical mastectomy, radiotherapy
+C) Breast conservation surgery, radiotherapy
+D) Radiotherapy alone
+ANS: B
+TAGS: PQ, Management
+EX: Inflammatory carcinoma (**T4d**) is caused by tumour emboli in dermal lymphatics and presents with erythema and oedema over more than one-third of the breast. Treatment is **neoadjuvant chemotherapy, then modified radical mastectomy, then radiotherapy**. Breast conservation and sentinel node biopsy are contraindicated.
+
+Q: After modified radical mastectomy a patient complains of numbness over the upper medial aspect of the arm. The nerve injured is:
+A) Long thoracic nerve
+B) Thoracodorsal nerve
+C) Intercostobrachial nerve
+D) Medial pectoral nerve
+ANS: C
+TAGS: PQ, Applied anatomy
+EX: The **intercostobrachial nerve** (lateral cutaneous branch of the 2nd intercostal nerve) is the most commonly injured nerve in axillary dissection.
+OTH: A: Long thoracic nerve (of Bell) injury causes winging of the scapula (serratus anterior). | B: Thoracodorsal nerve injury weakens latissimus dorsi (adduction and internal rotation). | D: Medial pectoral nerve injury causes wasting of pectoralis major.
+PEARL: Patey's operation removes pectoralis minor; Auchincloss' modification preserves both pectoral muscles; Halsted's radical mastectomy removed both.
+
+Q: Which is an absolute contraindication to breast conservation surgery?
+A) Tumour size of 3 cm
+B) Age above 60 years
+C) Multicentric disease with diffuse malignant microcalcifications
+D) Mobile axillary lymph node
+ANS: C
+TAGS: PQ, Management
+EX: Contraindications to breast conservation: **multicentric disease, diffuse malignant-appearing microcalcifications**, previous chest wall radiotherapy, persistently positive margins, inflammatory carcinoma, and early pregnancy (radiotherapy cannot be given). A large tumour-to-breast ratio is a relative contraindication.
+PEARL: Breast conservation = wide local excision + axillary staging + whole-breast radiotherapy. The accepted margin for invasive cancer is 'no ink on tumour'; for DCIS it is 2 mm.
+
+Q: A lactating woman has a 4 cm fluctuant, tender breast swelling with fever. The current first-line management is:
+A) Incision and drainage under general anaesthesia and stop breastfeeding
+B) Ultrasound-guided needle aspiration with antibiotics and continued breastfeeding
+C) Antibiotics alone
+D) Bromocriptine to suppress lactation
+ANS: B
+TAGS: Management
+EX: Lactational breast abscess is usually due to **Staphylococcus aureus**. First-line treatment is **repeated ultrasound-guided needle aspiration with antibiotics**; feeding or expression continues. Incision and drainage is reserved for failed aspiration or necrotic overlying skin.
+
+Q: A woman presents with a tender, cord-like subcutaneous band on the lateral chest wall and breast that becomes prominent on raising the arm. The diagnosis is:
+A) Tietze syndrome
+B) Mondor's disease
+C) Duct ectasia
+D) Lymphangitis carcinomatosa
+ANS: B
+TAGS: Eponym
+EX: **Mondor's disease** is superficial thrombophlebitis of the thoracoepigastric (or lateral thoracic) vein. It is self-limiting and treated with NSAIDs; imaging is done to exclude an underlying carcinoma.
+
+Q: The imaging modality of choice for evaluating a breast lump in a 25-year-old woman is:
+A) Mammography
+B) Ultrasonography
+C) MRI
+D) PET-CT
+ANS: B
+TAGS: Investigation
+EX: Below about 35 to 40 years the breast is dense and mammography is less sensitive, so **ultrasound** is preferred. MRI is used for BRCA carriers, implants, lobular carcinoma, occult primary with axillary nodes, and to distinguish scar from recurrence.
+PEARL: Triple assessment = clinical examination + imaging + pathology (core needle biopsy preferred over FNAC).
+
+Q: The Van Nuys prognostic index for ductal carcinoma in situ includes all of the following EXCEPT:
+A) Tumour size
+B) Margin width
+C) Hormone receptor status
+D) Age of the patient
+ANS: C
+TAGS: One-liner
+EX: The (USC) Van Nuys prognostic index scores **size, margin width, pathological grade with necrosis, and age**. It guides the choice between excision alone, excision with radiotherapy, and mastectomy.
+
+Q: The axillary lymph nodes are divided into levels based on their relation to:
+A) Pectoralis major
+B) Pectoralis minor
+C) Axillary vein
+D) Clavipectoral fascia
+ANS: B
+TAGS: Applied anatomy
+EX: Level I: lateral to (below) **pectoralis minor**. Level II: behind it. Level III: medial to (above) it. Rotter's nodes lie between the pectoral muscles. A standard axillary dissection removes levels I and II.
+
+Q: The most common site of distant metastasis from carcinoma of the breast is:
+A) Lung
+B) Liver
+C) Bone
+D) Brain
+ANS: C
+TAGS: One-liner
+EX: **Bone** is the most common site (lumbar vertebrae, femur, thoracic vertebrae, ribs, skull), via the Batson paravertebral venous plexus. Metastases are usually osteolytic, sometimes mixed.
+
+Q: The most common cause of gynaecomastia in an elderly man on treatment for heart failure is:
+A) Furosemide
+B) Spironolactone
+C) Ramipril
+D) Metoprolol
+ANS: B
+TAGS: Pharmacology
+EX: Drugs causing gynaecomastia: **spironolactone**, digoxin, cimetidine, ketoconazole, oestrogens, anti-androgens. Physiological gynaecomastia occurs in neonates, at puberty and in old age. The strongest risk factor for male breast cancer is Klinefelter syndrome, with BRCA2 mutation.
+
+@topic Thyroid & Parathyroid
+Q: FNAC of a solitary thyroid nodule cannot reliably distinguish between:
+A) Papillary carcinoma and colloid nodule
+B) Follicular adenoma and follicular carcinoma
+C) Medullary carcinoma and anaplastic carcinoma
+D) Hashimoto's thyroiditis and lymphoma
+ANS: B
+TAGS: PQ, One-liner
+EX: The diagnosis of **follicular carcinoma requires capsular or vascular invasion**, which is a histological (not cytological) feature. A 'follicular neoplasm' on FNAC (Bethesda IV) therefore needs **diagnostic hemithyroidectomy**.
+PEARL: Work-up of a thyroid nodule: TSH and ultrasound first, then FNAC. If TSH is suppressed, a radionuclide scan is done; a hot nodule rarely needs FNAC.
+
+Q: A thyroid FNAC is reported as Bethesda category VI. This means:
+A) Non-diagnostic
+B) Benign
+C) Suspicious for malignancy
+D) Malignant
+ANS: D
+TAGS: Classification
+EX: Bethesda system: I non-diagnostic (repeat FNAC). II benign (follow up). III atypia of undetermined significance (repeat FNAC or molecular testing). IV follicular neoplasm (lobectomy). V suspicious for malignancy. **VI malignant** (surgery).
+
+Q: Which feature is characteristic of papillary carcinoma of the thyroid?
+A) Spread predominantly by blood to bone
+B) Amyloid stroma
+C) Orphan Annie eye nuclei and psammoma bodies
+D) Arises from parafollicular C cells
+ANS: C
+TAGS: One-liner
+EX: **Papillary carcinoma** is the most common thyroid cancer (about 80%), is associated with prior radiation exposure, spreads by **lymphatics**, is often multifocal, and has the best prognosis. Diagnosis rests on nuclear features: ground-glass (Orphan Annie) nuclei, nuclear grooves and intranuclear inclusions; psammoma bodies are common.
+OTH: A: Haematogenous spread to bone and lung is typical of follicular carcinoma. | B: Amyloid stroma is seen in medullary carcinoma. | D: Parafollicular cells give rise to medullary carcinoma.
+
+Q: A 30-year-old has a thyroid mass, raised serum calcitonin and a family history of thyroid cancer. Before thyroidectomy, which investigation is mandatory?
+A) Serum thyroglobulin
+B) Plasma or urinary metanephrines
+C) Radioiodine uptake scan
+D) Serum TSH receptor antibodies
+ANS: B
+TAGS: PQ, Clinical
+EX: This is **medullary thyroid carcinoma**, which may be part of MEN 2. A **phaeochromocytoma must be excluded** (and operated first if present) to avoid an intra-operative hypertensive crisis. Serum calcium is also checked for hyperparathyroidism.
+PEARL: Medullary carcinoma arises from parafollicular C cells, secretes calcitonin and CEA, shows amyloid stroma, has RET mutations, and does not take up radioiodine. Treatment is total thyroidectomy with central neck dissection.
+
+Q: Mucosal neuromas, marfanoid habitus, medullary thyroid carcinoma and phaeochromocytoma are features of:
+A) MEN 1
+B) MEN 2A
+C) MEN 2B
+D) Carney complex
+ANS: C
+TAGS: PQ, One-liner
+EX: **MEN 2B**: medullary carcinoma, phaeochromocytoma, mucosal neuromas, intestinal ganglioneuromatosis and marfanoid habitus (no hyperparathyroidism). **MEN 2A** (Sipple): medullary carcinoma, phaeochromocytoma, parathyroid hyperplasia. **MEN 1** (Wermer): parathyroid, pancreatic islet and pituitary tumours (MEN1 gene, menin, chromosome 11q13).
+PEARL: Prophylactic thyroidectomy for RET carriers: within the first year of life for MEN 2B (codon 918), and by 5 years for high-risk MEN 2A (codon 634).
+
+Q: After total thyroidectomy a singer notices early voice fatigue and inability to reach high notes, although the vocal cords move normally on laryngoscopy. The nerve injured is:
+A) Recurrent laryngeal nerve
+B) External branch of the superior laryngeal nerve
+C) Internal branch of the superior laryngeal nerve
+D) Hypoglossal nerve
+ANS: B
+TAGS: PQ, Applied anatomy
+EX: The **external laryngeal nerve** supplies the **cricothyroid** (tensor of the vocal cord). It runs close to the **superior thyroid artery**, so the artery is ligated close to the gland. Injury causes loss of pitch and voice fatigue.
+OTH: A: Unilateral recurrent laryngeal nerve injury causes hoarseness with a paramedian cord; bilateral injury causes stridor. | C: The internal branch is sensory above the cords; injury causes aspiration.
+PEARL: The recurrent laryngeal nerve is related to the inferior thyroid artery, which is ligated away from the gland (or its branches on the capsule). It is most vulnerable at the ligament of Berry.
+
+Q: Six hours after thyroidectomy a patient develops a tense neck swelling with stridor and respiratory distress. The immediate step is:
+A) Shift to the operating theatre for exploration
+B) Open the wound at the bedside by removing skin and deep sutures
+C) Endotracheal intubation
+D) Intravenous hydrocortisone
+ANS: B
+TAGS: PQ, Management
+EX: A **tension haematoma** deep to the strap muscles causes laryngeal oedema by venous and lymphatic obstruction. The wound, including the deep fascial layer, must be **opened immediately at the bedside** to evacuate the clot; the patient is then taken to theatre for haemostasis.
+
+Q: On the second day after total thyroidectomy a patient has perioral numbness and carpopedal spasm. The treatment is:
+A) Oral calcium carbonate
+B) Intravenous 10% calcium gluconate
+C) Intravenous magnesium sulphate
+D) Oral vitamin D alone
+ANS: B
+TAGS: PQ, Clinical
+EX: Symptomatic hypocalcaemia from parathyroid injury or devascularisation is treated with **10 mL of 10% calcium gluconate IV slowly** under cardiac monitoring, followed by oral calcium and calcitriol. Transient hypocalcaemia is the most common complication of total thyroidectomy.
+PEARL: Chvostek's sign: facial twitching on tapping the facial nerve. Trousseau's sign: carpal spasm on inflating a BP cuff above systolic pressure for 3 minutes (more specific).
+
+Q: In thyroid storm, Lugol's iodine should be given:
+A) Before propylthiouracil
+B) At least one hour after propylthiouracil
+C) Instead of beta blockers
+D) Only after the fever settles
+ANS: B
+TAGS: Management
+EX: Iodine given alone provides substrate for new hormone synthesis, so it is given **after a thionamide** has blocked organification. Treatment of storm: propranolol, propylthiouracil (also blocks peripheral T4 to T3 conversion), iodine, hydrocortisone, cooling and fluids. Aspirin is avoided because it displaces T4 from binding proteins.
+
+Q: Lugol's iodine is given for 10 days before thyroidectomy in Graves' disease in order to:
+A) Make the patient euthyroid
+B) Reduce the vascularity of the gland
+C) Prevent hypocalcaemia
+D) Prevent recurrent laryngeal nerve palsy
+ANS: B
+TAGS: One-liner
+EX: Pre-operative iodine **reduces gland vascularity and makes it firm** (Wolff-Chaikoff effect also reduces hormone release). Euthyroidism is achieved first with antithyroid drugs and beta blockers.
+
+Q: A patient with long-standing Hashimoto's thyroiditis develops a rapidly enlarging thyroid. The most likely diagnosis is:
+A) Papillary carcinoma
+B) Primary thyroid lymphoma
+C) Medullary carcinoma
+D) Riedel's thyroiditis
+ANS: B
+TAGS: Clinical
+EX: Hashimoto's thyroiditis increases the risk of **primary thyroid lymphoma** (B-cell non-Hodgkin type, MALT or diffuse large B-cell). Diagnosis needs a core biopsy; treatment is chemoradiation, not thyroidectomy.
+PEARL: Hashimoto's shows Hürthle (Askanazy) cells, lymphoid follicles with germinal centres and anti-TPO antibodies.
+
+Q: A 35-year-old woman has a painful, tender thyroid after a viral illness, with raised ESR and low radioiodine uptake. The diagnosis is:
+A) Graves' disease
+B) Subacute granulomatous (de Quervain's) thyroiditis
+C) Hashimoto's thyroiditis
+D) Acute suppurative thyroiditis
+ANS: B
+TAGS: Clinical
+EX: **De Quervain's thyroiditis**: post-viral, painful, transient thyrotoxicosis from follicular destruction, **high ESR and low uptake**. It is self-limiting; treat with NSAIDs, or steroids if severe, and beta blockers for symptoms. Antithyroid drugs are of no use.
+
+Q: The operation for a thyroglossal cyst includes removal of:
+A) The cyst alone
+B) The cyst, the tract and the central part of the hyoid bone
+C) The cyst with the thyroid isthmus
+D) The cyst with the submandibular gland
+ANS: B
+TAGS: One-liner
+EX: **Sistrunk's operation** removes the cyst, the tract up to the foramen caecum and the **body (central part) of the hyoid**, reducing recurrence. The cyst is midline, and moves with deglutition and with protrusion of the tongue. The most common malignancy arising in it is papillary carcinoma.
+
+Q: The most common cause of primary hyperparathyroidism is:
+A) Parathyroid hyperplasia
+B) Solitary parathyroid adenoma
+C) Parathyroid carcinoma
+D) Multiple adenomas
+ANS: B
+TAGS: One-liner
+EX: **Single adenoma (about 85%)**, hyperplasia (10 to 15%), carcinoma (under 1%). Biochemistry: high calcium, low phosphate, raised or inappropriately normal PTH. The best pre-operative localisation is a **Tc-99m sestamibi scan** combined with ultrasound.
+PEARL: Intra-operative PTH (Miami criterion): a fall of more than 50% at 10 minutes after excision confirms cure.
+
+Q: After parathyroidectomy for severe hyperparathyroid bone disease, a patient has profound hypocalcaemia with hypophosphataemia and hypomagnesaemia. This is:
+A) Permanent hypoparathyroidism
+B) Hungry bone syndrome
+C) Vitamin D toxicity
+D) Tumour lysis syndrome
+ANS: B
+TAGS: Clinical
+EX: In **hungry bone syndrome** the demineralised skeleton avidly takes up calcium, phosphate and magnesium once the PTH excess is removed. In hypoparathyroidism, by contrast, phosphate is high.
+
+Q: The follow-up tumour marker after total thyroidectomy and radioiodine ablation for papillary carcinoma is:
+A) Calcitonin
+B) Thyroglobulin
+C) CEA
+D) TSH receptor antibody
+ANS: B
+TAGS: One-liner
+EX: **Thyroglobulin** (with anti-thyroglobulin antibody) is the marker for differentiated thyroid cancer after total thyroidectomy. Calcitonin and CEA are used for medullary carcinoma.
+PEARL: After surgery, TSH is kept suppressed with thyroxine in high-risk differentiated cancer.
+
+Q: Facial flushing and distension of neck veins on raising both arms above the head in a patient with goitre is called:
+A) Berry's sign
+B) Pemberton's sign
+C) Kocher's sign
+D) Joffroy's sign
+ANS: B
+TAGS: Eponym
+EX: **Pemberton's sign** indicates thoracic inlet obstruction by a **retrosternal goitre**. Most retrosternal goitres can be removed through a cervical incision because their blood supply comes from the neck.
+OTH: A: Berry's sign is an impalpable carotid pulse due to encasement by malignant thyroid. | C: Kocher's test is stridor on lateral compression of the lobes.
+
+Q: A non-recurrent laryngeal nerve is most often found:
+A) On the left, with a right-sided aortic arch
+B) On the right, with an aberrant right subclavian artery
+C) Bilaterally in thyroid agenesis
+D) On the left, with a patent ductus arteriosus
+ANS: B
+TAGS: Applied anatomy
+EX: A **non-recurrent right laryngeal nerve** (under 1%) is associated with an aberrant retro-oesophageal right subclavian artery (arteria lusoria). The nerve passes directly from the vagus to the larynx and is at risk during thyroidectomy.
+
+@topic Adrenal & Endocrine
+Q: The correct sequence of pre-operative preparation for phaeochromocytoma is:
+A) Beta blocker followed by alpha blocker
+B) Alpha blocker followed by beta blocker
+C) Beta blocker alone
+D) Calcium channel blocker followed by diuretics
+ANS: B
+TAGS: PQ, Management
+EX: **Alpha blockade first** (phenoxybenzamine, or prazosin or doxazosin) for 10 to 14 days with liberal salt and fluids, then a beta blocker for tachycardia. Beta blockade first leaves alpha-mediated vasoconstriction unopposed and can precipitate a hypertensive crisis.
+PEARL: Best screening test: plasma free metanephrines (or 24-hour urinary fractionated metanephrines). Localise with CT or MRI; MIBG scan for extra-adrenal or metastatic disease. The most common extra-adrenal site is the organ of Zuckerkandl.
+
+Q: A 40-year-old has resistant hypertension with hypokalaemia. The best initial screening test is:
+A) 24-hour urinary cortisol
+B) Plasma aldosterone to renin ratio
+C) CT of the adrenals
+D) Plasma metanephrines
+ANS: B
+TAGS: PQ, Investigation
+EX: **Conn's syndrome** (primary hyperaldosteronism) is screened by a raised **aldosterone-renin ratio** and confirmed by a saline suppression test. CT then localises; **adrenal vein sampling** is the gold standard to distinguish a unilateral adenoma (laparoscopic adrenalectomy) from bilateral hyperplasia (spironolactone).
+
+Q: A non-functioning adrenal incidentaloma should be excised when its size exceeds:
+A) 1 cm
+B) 2 cm
+C) 4 cm
+D) 8 cm
+ANS: C
+TAGS: One-liner
+EX: All incidentalomas need a functional work-up (dexamethasone suppression test, metanephrines, and aldosterone-renin ratio if hypertensive). Surgery is advised for functioning lesions, **size above 4 cm**, or suspicious imaging (density over 10 HU on plain CT, poor contrast washout, irregular margins).
+PEARL: Never biopsy an adrenal mass before excluding phaeochromocytoma.
+
+Q: The most common cause of endogenous Cushing's syndrome is:
+A) Adrenal adenoma
+B) Pituitary adenoma
+C) Ectopic ACTH from small cell lung cancer
+D) Adrenal carcinoma
+ANS: B
+TAGS: One-liner
+EX: Overall the most common cause is **iatrogenic steroid use**. Among endogenous causes, **pituitary adenoma (Cushing's disease)** accounts for about 70%. Screening tests: overnight 1 mg dexamethasone suppression, 24-hour urinary free cortisol, or late-night salivary cortisol.
+PEARL: Bilateral adrenalectomy for Cushing's disease can be followed by Nelson's syndrome (enlarging pituitary tumour with hyperpigmentation).
+
+Q: A patient has episodes of confusion and sweating in the early morning, a blood glucose of 38 mg/dL during an episode, and relief with glucose. The most likely tumour is:
+A) Gastrinoma
+B) Insulinoma
+C) Glucagonoma
+D) VIPoma
+ANS: B
+TAGS: PQ, Clinical
+EX: **Whipple's triad**: symptoms of hypoglycaemia, documented low glucose, and relief with glucose. **Insulinoma** is the most common functioning pancreatic neuroendocrine tumour; about 90% are benign, solitary and small. Diagnosis: supervised 72-hour fast with raised insulin and C-peptide. Treatment is enucleation.
+OTH: A: Gastrinoma causes Zollinger-Ellison syndrome, most often in the gastrinoma (Passaro) triangle; it is the most common pancreatic tumour in MEN 1. | C: Glucagonoma gives necrolytic migratory erythema, diabetes and weight loss. | D: VIPoma gives watery diarrhoea, hypokalaemia and achlorhydria (WDHA).
