@@ -259,6 +259,14 @@ Complement activation (plasmin, kallikrein)
 - ==Epithelioid cells== : activated macrophages with abundant pink cytoplasm, ==slipper/shoe-sole shaped nuclei==.
 - Key mediators : ==IFN-γ (Th1)== converts macrophages to epithelioid cells; ==TNF-α== maintains granuloma (==anti-TNF therapy → TB reactivation==).
 
+:::figs
+gen/granuloma.svg | Anatomy of a caseating granuloma (labelled)
+:::
+
+:::figs
+gen/giant-cells.svg | Giant cells — distinguishing nuclear arrangement (labelled)
+:::
+
 ### Types of giant cells :
 
 | Giant cell | Features | Seen in |

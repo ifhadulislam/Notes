@@ -382,5 +382,17 @@
    "Peripheral Nerve",
    "Skeletal Muscle"
   ]
+ },
+ {
+  "id": "24-spotters",
+  "title": "Practical Spotters & Rapid Review",
+  "front": false,
+  "num": 24,
+  "h2": [
+   "Microscopy Buzzwords",
+   "Special Stains \u2014 Quick Table",
+   "Gross Specimen Spotters",
+   "\"Most Common\" \u2014 One-Liners"
+  ]
  }
 ]
