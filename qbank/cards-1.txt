@@ -1,0 +1,166 @@
+@ch 01
+Earliest change in reversible cell injury :: Cellular swelling (hydropic change) from failure of the Na⁺/K⁺ ATPase
+Two features that define irreversible injury :: Inability to restore mitochondrial function + profound membrane damage
+Large flocculent mitochondrial densities :: Irreversible injury (ischaemic myocardium)
+Most reactive free radical :: Hydroxyl radical (OH•), from the Fenton reaction
+Enzyme converting superoxide to H₂O₂ :: Superoxide dismutase (Mn-SOD in mitochondria, Cu/Zn-SOD in cytosol)
+Most characteristic feature of apoptosis :: Chromatin condensation (pyknosis)
+DNA ladder pattern :: Apoptosis (internucleosomal cleavage, 180–200 bp); necrosis gives a smear
+Eat-me signal in apoptosis :: Phosphatidylserine flips to the outer leaflet (binds annexin V)
+Initiator caspase — intrinsic / extrinsic :: Caspase-9 / caspase-8 (and -10)
+Apoptosome :: Cytochrome c + APAF-1 + caspase-9
+Necroptosis mediators :: RIPK1, RIPK3 → MLKL (caspase-independent)
+Pyroptosis mediators :: Inflammasome → caspase-1 → gasdermin D pores; IL-1β, IL-18
+Ferroptosis :: Iron-dependent lipid peroxidation; loss of GPX4; inhibited by ferrostatin
+Caseous necrosis :: TB (also histoplasmosis, coccidioidomycosis); outlines lost
+Liquefactive necrosis in infarct :: Brain
+Fibrinoid necrosis :: Malignant HTN, vasculitis (PAN), Aschoff body, immune complexes
+Fat necrosis — chalky white :: Acute pancreatitis (saponification); traumatic fat necrosis of breast
+Microvesicular steatosis causes :: Reye syndrome, acute fatty liver of pregnancy, valproate, tetracycline
+Tigered (thrush-breast) heart :: Fatty change of myocardium in severe anaemia/hypoxia
+Brown atrophy pigment :: Lipofuscin
+Metaplasia in Barrett oesophagus :: Squamous → intestinal columnar (goblet cells)
+Vitamin A deficiency metaplasia :: Squamous metaplasia (respiratory, urinary epithelium)
+Pure hyperplasia example :: Liver regeneration after partial hepatectomy
+Werner syndrome gene :: WRN — RecQ DNA helicase
+Hutchinson–Gilford progeria gene :: LMNA (lamin A) → progerin
+Most vulnerable neurons to ischaemia :: CA1 hippocampus (Sommer sector)
+Contraction band necrosis :: Reperfusion injury (Ca²⁺ overload)
+
+@ch 02
+Dystrophic vs metastatic calcification :: Dystrophic — dead tissue, normal Ca; metastatic — normal tissue, hypercalcaemia
+Sites of metastatic calcification :: Gastric mucosa, kidneys, lungs, systemic arteries, pulmonary veins (acid-excreting tissues)
+Calcium stains :: von Kossa (black), Alizarin red S
+Psammoma bodies :: Papillary thyroid Ca, serous ovarian, meningioma, mesothelioma, papillary RCC, prolactinoma
+Michaelis–Gutmann bodies :: Malakoplakia (bladder)
+Amyloid fibril structure :: Non-branching 7.5–10 nm fibrils with cross-β-pleated sheet
+Congo red under polarized light :: Apple-green birefringence
+AL amyloid precursor :: Ig light chains (λ > κ); plasma cell dyscrasias
+AA amyloid precursor :: Serum amyloid A (acute-phase, IL-6)
+Commonest cause of AA amyloid in India :: Tuberculosis
+Dialysis-associated amyloid :: β2-microglobulin (carpal tunnel)
+ATTR :: Transthyretin — familial polyneuropathy, senile cardiac amyloid
+Amyloid in T2DM islets :: Amylin (IAPP)
+Amyloid in medullary Ca thyroid :: Procalcitonin (ACal)
+Sago vs lardaceous spleen :: Sago — follicles; lardaceous — red pulp
+Preferred screening biopsy for amyloid :: Abdominal fat pad aspirate
+Commonest cause of death in AL amyloid :: Cardiac (restrictive cardiomyopathy)
+Permanganate-sensitive amyloid :: AA (loses Congo red affinity); AL is resistant
+Familial Mediterranean fever :: AR, MEFV (pyrin), AA amyloid
+
+@ch 03
+Cardinal signs (Celsus) + Virchow :: Rubor, calor, tumor, dolor + functio laesa
+Hallmark of acute inflammation :: Increased vascular permeability
+Commonest mechanism of ↑ permeability :: Endothelial contraction in post-capillary venules (histamine) — immediate transient
+Rolling :: Selectins (P, E, L) ↔ sialyl-Lewis X
+Firm adhesion :: Integrins (LFA-1, Mac-1, VLA-4) ↔ ICAM-1, VCAM-1
+Transmigration :: PECAM-1 (CD31)
+Chemoattractants :: C5a, LTB4, IL-8, bacterial fMLP
+LAD-1 :: CD18 (β2 integrin) — delayed cord separation, no pus
+LAD-2 :: Sialyl-Lewis X (fucosylation) — Bombay phenotype
+CGD :: NADPH oxidase; catalase-positive infections; DHR/NBT test
+Chédiak–Higashi :: LYST — giant granules, albinism, neuropathy
+Most potent bactericidal system :: H₂O₂–MPO–halide → HOCl
+Exudate protein / specific gravity :: > 3 g/dL; > 1.020
+Steroids inhibit :: Phospholipase A2 (via lipocortin/annexin A1)
+Anti-inflammatory eicosanoids :: Lipoxins, resolvins, protectins
+Bradykinin actions :: ↑ permeability, pain; degraded by ACE (ACEi → cough, angioedema)
+C1-INH deficiency :: Hereditary angioedema
+C5–C9 deficiency :: Recurrent Neisseria
+DAF/CD59 deficiency :: PNH
+Pseudomembranous inflammation :: C. difficile colitis, diphtheria
+Epithelioid cell is :: Activated macrophage (IFN-γ)
+Langhans giant cell :: Horseshoe peripheral nuclei — TB
+Touton giant cell :: Ring of nuclei + foamy rim — xanthoma
+Stellate granuloma :: Cat-scratch, LGV, tularaemia
+Fibrin-ring granuloma :: Q fever
+Negative acute phase proteins :: Albumin, transferrin, transthyretin
+Hepcidin ↑ in inflammation causes :: Anaemia of chronic disease
+
+@ch 04
+Labile / stable / permanent cells :: Epithelia & marrow / liver, kidney, fibroblasts / neurons, cardiac muscle
+Most important angiogenic factor :: VEGF (HIF-1α)
+Most important fibrogenic factor :: TGF-β
+Granulation tissue :: New capillaries + fibroblasts + macrophages in oedematous ECM (type III collagen)
+Wound contraction cells :: Myofibroblasts (α-SMA)
+Tensile strength :: 10% at 1 week; 70–80% at 3 months (max)
+Collagen bridging incision :: Day 5
+Neutrophils / macrophages at wound :: 24 h / day 3
+Keloid vs hypertrophic scar :: Keloid exceeds margins, doesn't regress, recurs
+Marjolin ulcer :: SCC in chronic scar/burn
+Collagen type I / II / III / IV :: Bone-skin-tendon / cartilage / granulation & vessels / basement membrane
+Lysyl oxidase cofactor :: Copper (Menkes)
+Scurvy defect :: Proline/lysine hydroxylation (vitamin C)
+Desmoid tumour gene :: β-catenin / APC (Gardner)
+Fracture healing stages :: Haematoma → soft callus (1 wk) → hard callus (2–3 wk) → remodelling
+CNS repair :: Gliosis (astrocytes), not fibrosis
+Axonal regeneration rate :: 1–3 mm/day (bands of Büngner)
+iPSC factors :: Oct3/4, Sox2, KLF4, c-MYC (Yamanaka)
+Liver stem cell niche :: Canals of Hering (oval cells)
+
+@ch 05
+Edema in nephrotic syndrome :: ↓ oncotic pressure; periorbital first
+Heart failure cells :: Hemosiderin-laden alveolar macrophages (LVF, mitral stenosis)
+Nutmeg liver :: Chronic passive congestion (RHF) — zone 3 congestion
+Gamna–Gandy bodies :: Siderofibrotic nodules — congestive splenomegaly
+Petechiae / purpura / ecchymoses :: 1–2 mm / ≥ 3 mm / > 1–2 cm
+Virchow triad :: Endothelial injury, abnormal flow, hypercoagulability
+Most important component of Virchow triad :: Endothelial injury
+Commonest inherited thrombophilia :: Factor V Leiden (APC resistance)
+APS antibodies :: Lupus anticoagulant, anticardiolipin, anti-β2GPI
+HIT :: Antibodies to heparin–PF4; day 5–14; thrombosis
+Lines of Zahn :: Antemortem thrombus (flowing blood)
+Postmortem clot appearance :: Currant jelly + chicken fat; not attached
+Commonest source of pulmonary embolism :: Deep veins of leg above the knee
+Saddle embolus :: At bifurcation of pulmonary trunk
+Fat embolism timing & stain :: 1–3 days after long-bone fracture; Oil Red O
+Amniotic fluid embolism findings :: Fetal squames, lanugo, mucin in maternal lung; DIC
+Caisson disease late effect :: Aseptic necrosis of femoral head
+Red infarct organs :: Lung, small intestine, testis/ovary torsion, liver
+White infarct organs :: Heart, spleen, kidney
+Dry vs wet gangrene :: Arterial occlusion, clear line / venous + infection, poor line
+Commonest cause of DIC :: Gram-negative sepsis
+Best lab test in DIC :: D-dimer
+Kidney in shock :: Acute tubular necrosis
+Lung in septic shock :: Diffuse alveolar damage (ARDS)
+Normal anion gap acidosis causes :: HARDASS — hyperalimentation, acetazolamide, RTA, diarrhoea, Addison, spironolactone, saline
+
+@ch 06
+Hamartoma vs choristoma :: Disorganized native tissue / normal tissue at wrong site
+Most definitive feature of malignancy :: Metastasis
+N:C ratio in anaplasia :: Up to 1:1 (normal 1:4–1:6)
+Carcinoma in situ :: Full-thickness dysplasia, basement membrane intact
+Sarcomas spread by :: Blood (except rhabdo, synovial, epithelioid, clear cell, angiosarcoma → lymph)
+Carcinomas spreading by blood :: RCC, HCC, follicular thyroid, choriocarcinoma
+Krukenberg tumour :: Signet-ring metastasis to ovaries (stomach)
+E-cadherin loss :: Diffuse gastric, lobular breast carcinoma
+Gatekeeper of genome :: TP53 (17p13)
+RB function :: Holds E2F → blocks G1→S
+Li–Fraumeni :: Germline TP53
+HPV E6 / E7 :: Degrades p53 / inactivates RB
+EBV LMP-1 :: Mimics CD40 → NF-κB
+HTLV-1 oncoprotein :: Tax → ATLL
+t(9;22) :: BCR-ABL — CML
+t(8;14) :: MYC — Burkitt
+t(14;18) :: BCL-2 — follicular lymphoma
+t(11;14) :: Cyclin D1 — mantle cell lymphoma
+N-MYC / L-MYC :: Neuroblastoma / small cell lung Ca
+VHL :: Clear cell RCC, hemangioblastoma, pheochromocytoma
+APC :: FAP (5q21) — WNT/β-catenin
+Lynch syndrome :: MMR genes (MSH2, MLH1); right colon, endometrium
+Aflatoxin :: HCC (TP53 codon 249)
+Vinyl chloride :: Hepatic angiosarcoma
+β-naphthylamine :: Bladder carcinoma
+DES in utero :: Clear cell adenocarcinoma of vagina
+Warburg effect :: Aerobic glycolysis (basis of FDG-PET)
+SCLC paraneoplastics :: ACTH (Cushing), ADH (SIADH), Lambert–Eaton, anti-Hu
+Squamous lung Ca paraneoplastic :: PTHrP → hypercalcaemia
+Polycythaemia (EPO) tumours :: RCC, cerebellar hemangioblastoma, HCC, leiomyoma
+CK7−/CK20+ :: Colorectal carcinoma
+Mesothelioma markers :: Calretinin, WT1, D2-40, CK5/6
+GIST markers :: CD117 (KIT), DOG-1
+Ewing marker :: CD99 (MIC2), FLI-1
+Rhabdomyosarcoma most specific marker :: Myogenin / MyoD1
+AFP elevated :: HCC, yolk sac tumour
+CA-125 / CA 19-9 :: Serous ovarian / pancreatic
+Grading vs staging :: Differentiation / extent (TNM) — staging is more prognostic

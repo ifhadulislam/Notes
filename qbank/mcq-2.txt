@@ -1,0 +1,739 @@
+@ch 07
+Q: MHC class I molecules present antigen to:
+A) CD4+ T cells
+B) CD8+ T cells
+C) B cells
+D) NK cells (activating)
+ANS: B
+EX: Class I (HLA-A, B, C) presents cytosolic peptides to CD8+ T cells. Class II presents to CD4+ T cells. NK cells are inhibited by MHC-I.
+
+Q: Goodpasture syndrome is an example of which hypersensitivity?
+A) Type I
+B) Type II
+C) Type III
+D) Type IV
+ANS: B
+EX: Anti-GBM antibodies against the α3 chain of type IV collagen produce linear IgG deposits. This is antibody against a fixed tissue antigen, i.e., type II.
+
+Q: Arthus reaction is a:
+A) Type I hypersensitivity
+B) Localized type III reaction
+C) Type IV reaction
+D) Type II reaction
+ANS: B
+EX: The Arthus reaction is a local immune-complex vasculitis with fibrinoid necrosis at the injection site.
+
+Q: Tuberculin test is an example of:
+A) Type I
+B) Type II
+C) Type III
+D) Type IV
+ANS: D
+EX: The tuberculin test is CD4+ Th1 delayed-type hypersensitivity, read at 48–72 h.
+
+Q: Anti-histone antibodies are characteristic of:
+A) SLE
+B) Drug-induced lupus
+C) Scleroderma
+D) MCTD
+ANS: B
+EX: Hydralazine, procainamide and isoniazid cause drug-induced lupus with anti-histone antibodies. Renal and CNS involvement is rare.
+
+Q: The most common and most severe form of lupus nephritis is:
+A) Class II
+B) Class III
+C) Class IV
+D) Class V
+ANS: C
+EX: Diffuse proliferative (class IV) shows wire-loop subendothelial deposits and full-house immunofluorescence.
+
+Q: Anti-centromere antibodies are characteristic of:
+A) Diffuse systemic sclerosis
+B) Limited scleroderma (CREST)
+C) Sjögren syndrome
+D) Polymyositis
+ANS: B
+EX: Anti-centromere antibodies are seen in CREST. Anti-Scl-70 (topoisomerase I) is seen in diffuse SSc with lung fibrosis.
+
+Q: Hyperacute rejection is mediated by:
+A) CD8+ T cells
+B) Pre-formed antibodies
+C) NK cells
+D) Macrophages
+ANS: B
+EX: Pre-formed anti-ABO or anti-HLA antibodies cause thrombosis within minutes. A pre-transplant cross-match prevents it.
+
+Q: C4d deposition in peritubular capillaries is a marker of:
+A) Acute cellular rejection
+B) Antibody-mediated rejection
+C) Calcineurin toxicity
+D) CMV infection
+ANS: B
+EX: C4d is a complement split product that marks humoral (antibody-mediated) rejection.
+
+Q: A 9-month-old boy has recurrent pyogenic infections, absent tonsils and very low levels of all immunoglobulins with no circulating B cells. The defect is in:
+A) CD40 ligand
+B) BTK
+C) ADA
+D) WAS
+ANS: B
+EX: X-linked agammaglobulinaemia (Bruton) is a BTK defect causing arrest at the pre-B stage. Symptoms start after 6 months, once maternal IgG wanes.
+
+Q: The most common primary immunodeficiency is:
+A) CVID
+B) Selective IgA deficiency
+C) DiGeorge syndrome
+D) SCID
+ANS: B
+EX: Selective IgA deficiency occurs in about 1:700. Patients risk anaphylaxis with transfusion because of anti-IgA antibodies.
+
+Q: Thrombocytopenia, eczema and recurrent infections in a boy suggest:
+A) Ataxia telangiectasia
+B) Wiskott–Aldrich syndrome
+C) Chédiak–Higashi
+D) DiGeorge
+ANS: B
+EX: Wiskott–Aldrich is an X-linked WAS defect with small platelets, low IgM, high IgA/IgE and lymphoma risk.
+
+Q: HIV uses which co-receptor during early infection (macrophage-tropic strains)?
+A) CXCR4
+B) CCR5
+C) CD8
+D) CD21
+ANS: B
+EX: R5 strains use CCR5 early and are transmitted. X4 strains (CXCR4) emerge late. A homozygous CCR5Δ32 confers resistance.
+
+Q: Earliest marker of HIV infection detectable in blood is:
+A) Anti-gp41 antibody
+B) p24 antigen / HIV RNA
+C) CD4 decline
+D) Western blot
+ANS: B
+EX: HIV RNA (by NAT) and p24 antigen appear before antibodies. Fourth-generation ELISA detects p24, which shortens the window period.
+
+Q: CMV retinitis in AIDS typically occurs when CD4 count falls below:
+A) 500/µL
+B) 200/µL
+C) 100/µL
+D) 50/µL
+ANS: D
+EX: CMV retinitis and MAC occur below 50/µL, toxoplasmosis and cryptococcus below 100/µL, and PCP below 200/µL.
+
+Q: Post-exposure prophylaxis for HIV should ideally be started within:
+A) 2 hours (up to 72 h)
+B) 1 week
+C) 2 weeks
+D) 1 month
+ANS: A
+EX: Start PEP as early as possible, ideally within 2 hours and no later than 72 hours. Give TDF + 3TC + DTG for 28 days.
+
+Q: FOXP3 mutation causes:
+A) ALPS
+B) IPEX
+C) APECED
+D) Hyper-IgE syndrome
+ANS: B
+EX: Loss of Treg cells (FOXP3) causes immune dysregulation, polyendocrinopathy and enteropathy (X-linked IPEX). AIRE defects cause APS-1 (APECED).
+
+@ch 08
+Q: Ghon complex consists of:
+A) Apical lesion and cavity
+B) Subpleural parenchymal focus and hilar lymph node
+C) Miliary lesions and pleural effusion
+D) Simon focus and Assmann focus
+ANS: B
+EX: The Ghon focus is the subpleural lesion of primary TB. Together with the involved hilar node it forms the Ghon complex; once calcified it is the Ranke complex.
+
+Q: Secondary pulmonary tuberculosis usually involves:
+A) Lower lobe base
+B) Apex of upper lobe
+C) Middle lobe
+D) Hilum
+ANS: B
+EX: Reactivation TB favours the apices, where oxygen tension is high, and leads to cavitation.
+
+Q: The cytokine pathway defect predisposing to disseminated BCG/NTM infections is:
+A) IL-4/STAT6
+B) IL-12/IFN-γ
+C) IL-17/IL-23
+D) TNF/NF-κB only
+ANS: B
+EX: Mendelian susceptibility to mycobacterial disease involves IFN-γ receptor, IL-12/IL-12R or STAT1 defects.
+
+Q: Lepromin test is negative in:
+A) Tuberculoid leprosy
+B) Lepromatous leprosy
+C) Indeterminate (always positive)
+D) Borderline tuberculoid
+ANS: B
+EX: Lepromatous leprosy has weak Th1 (cell-mediated) immunity, so lepromin is negative. Tuberculoid leprosy is lepromin positive.
+
+Q: Erythema nodosum leprosum (type 2 lepra reaction) is:
+A) Type I hypersensitivity
+B) Type III (immune-complex) reaction
+C) Type IV reaction
+D) Reversal reaction
+ANS: B
+EX: ENL is an immune-complex reaction in LL/BL leprosy and is treated with thalidomide. Type 1 (reversal) reaction is type IV.
+
+Q: Ulcers in typhoid are:
+A) Transverse
+B) Longitudinal along Peyer patches
+C) Flask-shaped
+D) Aphthous in colon
+ANS: B
+EX: Typhoid ulcers lie along the long axis of the ileum over Peyer patches. TB ulcers are transverse (girdle); amoebic ulcers are flask-shaped.
+
+Q: The best investigation in the first week of typhoid fever is:
+A) Widal test
+B) Blood culture
+C) Stool culture
+D) Urine culture
+ANS: B
+EX: Blood culture is best in week 1 (bone marrow culture is the most sensitive). Widal from week 2, stool in week 3 and urine in week 4.
+
+Q: Negri bodies are found in:
+A) Anterior horn cells
+B) Purkinje cells and hippocampal pyramidal neurons
+C) Oligodendrocytes
+D) Astrocytes
+ANS: B
+EX: Rabies causes eosinophilic cytoplasmic inclusions in Purkinje cells and pyramidal neurons of Ammon's horn.
+
+Q: Owl-eye intranuclear inclusions with cytomegaly are characteristic of:
+A) HSV
+B) CMV
+C) Adenovirus
+D) HPV
+ANS: B
+EX: CMV produces cytomegaly with owl-eye intranuclear inclusions plus cytoplasmic inclusions.
+
+Q: Broad, ribbon-like aseptate hyphae branching at right angles in a diabetic with ketoacidosis indicate:
+A) Aspergillus
+B) Mucor
+C) Candida
+D) Cryptococcus
+ANS: B
+EX: Mucormycosis (Rhizopus/Mucor) is angioinvasive and causes rhino-orbito-cerebral disease in DKA. Aspergillus has narrow septate hyphae at acute angles.
+
+Q: The most common cause of acquired epilepsy in India is:
+A) Tuberculoma
+B) Neurocysticercosis
+C) Brain abscess
+D) Toxoplasmosis
+ANS: B
+EX: Taenia solium cysticercosis (cysts with scolex, starry-sky CT) is the leading cause.
+
+Q: Flask-shaped ulcers with trophozoites containing ingested RBCs are seen in:
+A) Shigellosis
+B) Amoebic colitis
+C) Typhoid
+D) Ulcerative colitis
+ANS: B
+EX: Entamoeba histolytica causes flask-shaped ulcers in the caecum and ascending colon. Erythrophagocytosis by trophozoites is diagnostic.
+
+Q: Laminated, acellular, PAS-positive membrane with an inner germinal layer and brood capsules is seen in:
+A) Cysticercus
+B) Hydatid cyst
+C) Amoebic abscess
+D) Toxoplasma cyst
+ANS: B
+EX: The Echinococcus granulosus hydatid cyst has an outer laminated layer, an inner germinal layer and protoscolices ("hydatid sand").
+
+Q: Hutchinson triad in congenital syphilis includes all EXCEPT:
+A) Notched incisors
+B) Interstitial keratitis
+C) 8th nerve deafness
+D) Saddle nose
+ANS: D
+EX: The Hutchinson triad is notched incisors, interstitial keratitis and deafness. Saddle nose is another late sign but is not part of the triad.
+
+Q: Which is a cytoplasmic viral inclusion?
+A) Cowdry A (HSV)
+B) Guarnieri body
+C) Smudge cell (adenovirus)
+D) Owl-eye nuclear (CMV)
+ANS: B
+EX: Guarnieri bodies (poxvirus), Negri bodies and molluscum bodies are cytoplasmic. Herpes and adenovirus inclusions are nuclear.
+
+@ch 09
+Q: Which disorder is NOT autosomal recessive?
+A) Cystic fibrosis
+B) Marfan syndrome
+C) Wilson disease
+D) PKU
+ANS: B
+EX: Marfan syndrome is autosomal dominant (FBN1). Most enzyme defects are autosomal recessive.
+
+Q: Lens dislocation downward and inward is characteristic of:
+A) Marfan syndrome
+B) Homocystinuria
+C) Ehlers–Danlos
+D) Weill–Marchesani
+ANS: B
+EX: Homocystinuria gives downward and inward subluxation. Marfan gives upward and outward.
+
+Q: Gaucher cells show:
+A) Zebra bodies
+B) Crumpled tissue-paper cytoplasm
+C) Foamy vacuolated cytoplasm with cherry red spot
+D) Globoid cells
+ANS: B
+EX: Glucocerebroside fills macrophages and gives a "wrinkled silk" look. Gaucher disease is the commonest lysosomal storage disease.
+
+Q: Hunter syndrome differs from Hurler syndrome by:
+A) Corneal clouding present
+B) X-linked inheritance and absent corneal clouding
+C) Absent hepatosplenomegaly
+D) Normal intelligence always
+ANS: B
+EX: Remember "Hunters aim for the X and see clearly". Hunter (MPS II) is X-linked and has no corneal clouding.
+
+Q: McArdle disease is due to deficiency of:
+A) Glucose-6-phosphatase
+B) Muscle glycogen phosphorylase
+C) Acid maltase
+D) Debranching enzyme
+ANS: B
+EX: GSD V causes exercise cramps and myoglobinuria. Lactate does not rise on the ischaemic forearm test.
+
+Q: Anticipation in fragile X syndrome occurs during transmission from:
+A) Father
+B) Mother
+C) Both equally
+D) Neither
+ANS: B
+EX: CGG expansion occurs during maternal transmission (fragile X). In Huntington disease, anticipation is paternal.
+
+Q: The most common cause of Down syndrome is:
+A) Robertsonian translocation
+B) Meiotic non-disjunction
+C) Mosaicism
+D) Isochromosome 21
+ANS: B
+EX: About 95% is meiotic non-disjunction (maternal, age-related). Around 4% is due to Robertsonian translocation, with higher recurrence risk.
+
+Q: Prader–Willi syndrome results from loss of the:
+A) Maternal 15q11–13
+B) Paternal 15q11–13
+C) Maternal 11p15
+D) Paternal 7q11
+ANS: B
+EX: Paternal deletion (or maternal UPD) causes Prader–Willi. Maternal loss (UBE3A) causes Angelman.
+
+Q: Flag sign and flaky paint dermatosis are features of:
+A) Marasmus
+B) Kwashiorkor
+C) Pellagra
+D) Scurvy
+ANS: B
+EX: Kwashiorkor (protein deficiency) causes oedema, fatty liver, flaky paint dermatosis and the flag sign of the hair.
+
+Q: Earliest sign of vitamin A deficiency is:
+A) Bitot spots
+B) Night blindness
+C) Keratomalacia
+D) Xerophthalmia
+ANS: B
+EX: Night blindness (nyctalopia) appears first. Bitot spots and keratomalacia come later.
+
+Q: Most radiosensitive cells among the following are:
+A) Neurons
+B) Lymphocytes
+C) Muscle
+D) Bone
+ANS: B
+EX: Lymphocytes are the most radiosensitive. Absolute lymphocyte count at 48 h predicts prognosis.
+
+Q: Perls Prussian blue stain is positive for:
+A) Lipofuscin
+B) Melanin
+C) Hemosiderin
+D) Bilirubin
+ANS: C
+EX: Hemosiderin contains ferric iron, which turns blue with Perls stain. Melanin bleaches with H₂O₂; lipofuscin stains with Sudan black.
+
+Q: Basophilic stippling with microcytic anaemia and wrist drop suggests:
+A) Thalassemia
+B) Lead poisoning
+C) Iron deficiency
+D) Arsenic poisoning
+ANS: B
+EX: Lead inhibits ALA dehydratase and ferrochelatase, giving coarse basophilic stippling, raised ZPP, Burton lines and neuropathy.
+
+@ch 10
+Q: The earliest lesion of atherosclerosis is:
+A) Fibrous plaque
+B) Fatty streak
+C) Complicated plaque
+D) Calcified plaque
+ANS: B
+EX: Fatty streaks (lipid-filled foam cells) are seen even in children under 1 year. They do not obstruct flow.
+
+Q: The key cell responsible for fibrous cap formation in atherosclerosis is:
+A) Macrophage
+B) Smooth muscle cell
+C) Endothelial cell
+D) T lymphocyte
+ANS: B
+EX: SMCs migrate from the media into the intima under PDGF, then proliferate and lay down collagen to form the cap. Foam cells are mostly macrophages.
+
+Q: The plaque in the diagram has a thin fibrous cap over a large necrotic core. Which enzymes from cap macrophages make it likely to rupture?
+A) Lipoprotein lipases
+B) Matrix metalloproteinases
+C) Caspases
+D) Lysyl oxidases
+ANS: B
+EX: Macrophage MMPs break down cap collagen and make the plaque "vulnerable". Statins help stabilise plaques partly by damping this inflammation.
+IMG: gen/plaque.svg
+
+Q: Onion-skin hyperplastic arteriolosclerosis with fibrinoid necrosis is seen in:
+A) Benign hypertension
+B) Malignant hypertension
+C) Diabetes
+D) Aging
+ANS: B
+EX: Malignant hypertension (> 180/120 mmHg) causes necrotizing arteriolitis and a flea-bitten kidney.
+
+Q: The highest risk of free-wall rupture after MI is during:
+A) First 24 hours
+B) 3–7 days
+C) 2–3 weeks
+D) 2 months
+ANS: B
+EX: At 3–7 days, macrophages remove necrotic tissue and the wall is softest, so rupture risk peaks.
+
+Q: Earliest light-microscopic change in myocardial infarction is:
+A) Neutrophil infiltration
+B) Wavy fibres
+C) Granulation tissue
+D) Loss of nuclei
+ANS: B
+EX: Wavy fibres at the border appear within hours. Coagulative necrosis follows at 4–12 h and neutrophils at 12–24 h.
+
+Q: Best marker for diagnosis of re-infarction is:
+A) Troponin I
+B) CK-MB
+C) Myoglobin
+D) LDH
+ANS: B
+EX: CK-MB returns to normal in 48–72 h, so a new rise signals re-infarction. Troponins stay raised for 7–14 days.
+
+Q: Anitschkow (caterpillar) cells are seen in:
+A) Infective endocarditis
+B) Rheumatic carditis
+C) Viral myocarditis
+D) Sarcoidosis
+ANS: B
+EX: Aschoff bodies contain fibrinoid necrosis, T cells and activated macrophages (Anitschkow cells) with wavy ribbon-like chromatin.
+
+Q: Libman–Sacks endocarditis shows vegetations that are:
+A) Large and destructive
+B) Small, sterile, on both surfaces of valve leaflets
+C) Along lines of closure only, warty
+D) Bland, loosely attached, in cancer patients
+ANS: B
+EX: Libman–Sacks (SLE) vegetations are small, sterile and seen on both surfaces. Rheumatic vegetations are warty along closure lines; NBTE are bland vegetations in cancer.
+
+Q: Streptococcus gallolyticus (bovis) endocarditis warrants evaluation for:
+A) Gastric carcinoma
+B) Colon carcinoma
+C) Pancreatic carcinoma
+D) Lymphoma
+ANS: B
+EX: S. gallolyticus bacteraemia is strongly associated with colorectal neoplasia, so colonoscopy is needed.
+
+Q: Most common genetic cause of hypertrophic cardiomyopathy is mutation in:
+A) Titin
+B) β-myosin heavy chain
+C) Dystrophin
+D) Lamin A/C
+ANS: B
+EX: Sarcomeric MYH7 and MYBPC3 mutations cause HCM, which shows myocyte disarray. Titin is the commonest genetic cause of DCM.
+
+Q: Most common primary tumour of heart in adults is:
+A) Rhabdomyoma
+B) Myxoma
+C) Angiosarcoma
+D) Lipoma
+ANS: B
+EX: Myxoma is usually in the left atrium at the fossa ovalis and can cause ball-valve obstruction. Rhabdomyoma is the commonest in children (tuberous sclerosis).
+
+Q: Pulseless disease in a young Asian woman is:
+A) Giant cell arteritis
+B) Takayasu arteritis
+C) Buerger disease
+D) PAN
+ANS: B
+EX: Takayasu arteritis is granulomatous inflammation of the aortic arch and its branches in women under 40.
+
+Q: Polyarteritis nodosa is characteristically associated with:
+A) HCV
+B) HBV
+C) c-ANCA
+D) Lung involvement
+ANS: B
+EX: About 30% of PAN is HBV-related. It is ANCA-negative, spares the lungs and shows lesions of different ages.
+
+Q: Coronary artery aneurysm in a 3-year-old with fever, conjunctival injection and strawberry tongue is due to:
+A) Takayasu arteritis
+B) Kawasaki disease
+C) PAN
+D) HSP
+ANS: B
+EX: Kawasaki disease (mucocutaneous lymph node syndrome) causes coronary aneurysms. Treat with IVIG and aspirin.
+
+Q: Boot-shaped heart is seen in:
+A) TGA
+B) Tetralogy of Fallot
+C) ASD
+D) Coarctation
+ANS: B
+EX: In TOF, RVH plus a small pulmonary trunk gives the coeur en sabot appearance.
+
+@ch 11
+Q: The acinus of the lung consists of all EXCEPT:
+A) Respiratory bronchiole
+B) Alveolar duct
+C) Terminal bronchiole
+D) Alveolar sac
+ANS: C
+EX: The acinus is distal to the terminal bronchiole: respiratory bronchioles, alveolar ducts and alveolar sacs.
+IMG: resp/lung-tree.png
+
+Q: Panacinar emphysema is associated with:
+A) Smoking
+B) α1-antitrypsin deficiency
+C) Spontaneous pneumothorax
+D) Scarring
+ANS: B
+EX: Panacinar emphysema involves the lower lobes and is linked to α1-AT deficiency (PiZZ). Centriacinar emphysema involves the upper lobes and is linked to smoking.
+IMG: resp/emph-pan.png
+
+Q: The type of emphysema shown (respiratory bronchiole dilated, distal alveoli spared) is:
+A) Panacinar
+B) Centriacinar
+C) Paraseptal
+D) Irregular
+ANS: B
+EX: In centriacinar (centrilobular) emphysema the central part of the acinus is involved and the distal part spared. It is the commonest type, linked to smoking, upper lobes.
+IMG: resp/emph-centri.png
+
+Q: Reid index is increased in:
+A) Emphysema
+B) Chronic bronchitis
+C) Asthma
+D) Bronchiectasis
+ANS: B
+EX: Reid index = gland layer / wall thickness (normally 0.4). It rises in chronic bronchitis because of submucosal gland hyperplasia.
+IMG: resp/reid.png
+
+Q: Curschmann spirals are seen in:
+A) Bronchiectasis
+B) Bronchial asthma
+C) Lung abscess
+D) Tuberculosis
+ANS: B
+EX: In asthma, Curschmann spirals (mucus plugs with shed epithelium), Charcot–Leyden crystals and Creola bodies are seen in sputum.
+
+Q: Kartagener syndrome is due to defect in:
+A) CFTR
+B) Dynein arms of cilia
+C) α1-antitrypsin
+D) Surfactant protein
+ANS: B
+EX: Primary ciliary dyskinesia combines situs inversus, sinusitis, bronchiectasis and infertility.
+
+Q: Red hepatization in lobar pneumonia is characterised by:
+A) Vascular congestion with bacteria
+B) Exudate of neutrophils, RBCs and fibrin filling alveoli
+C) Disintegrating RBCs with fibrinosuppurative exudate
+D) Enzymatic digestion of exudate
+ANS: B
+EX: Red hepatization (days 2–4) fills alveoli with neutrophils, RBCs and fibrin. Grey hepatization (days 4–8) shows disintegrating RBCs.
+
+Q: The most common site of aspiration lung abscess is:
+A) Left lower lobe
+B) Posterior segment of right upper lobe / apical segment of right lower lobe
+C) Lingula
+D) Right middle lobe
+ANS: B
+EX: The right main bronchus is more vertical. A supine patient aspirates into the posterior segment of the upper lobe or the superior segment of the lower lobe.
+
+Q: Hyaline membranes in neonatal RDS are composed of:
+A) Surfactant
+B) Fibrin and necrotic epithelial cells
+C) Collagen
+D) Mucin
+ANS: B
+EX: Surfactant deficiency injures alveoli. The eosinophilic membranes consist of fibrin plus necrotic epithelium.
+
+Q: Ferruginous bodies are characteristic of:
+A) Silicosis
+B) Asbestosis
+C) Coal worker's pneumoconiosis
+D) Berylliosis
+ANS: B
+EX: Golden-brown beaded asbestos fibres coated with iron-protein are Prussian blue positive. Pleural plaques are the commonest lesion.
+
+Q: Increased susceptibility to tuberculosis is seen in:
+A) Asbestosis
+B) Silicosis
+C) Byssinosis
+D) Siderosis
+ANS: B
+EX: Silica kills macrophages (via the inflammasome) and impairs mycobacterial killing.
+
+Q: Most common type of lung cancer in non-smokers and women is:
+A) Squamous cell carcinoma
+B) Adenocarcinoma
+C) Small cell carcinoma
+D) Large cell carcinoma
+ANS: B
+EX: Adenocarcinoma is peripheral and TTF-1 positive, often with EGFR mutations in Asian non-smoking women.
+
+Q: Small round blue cells with nuclear molding, salt-and-pepper chromatin and crush artefact in a smoker's central lung mass indicate:
+A) Carcinoid
+B) Small cell carcinoma
+C) Lymphoma
+D) Squamous cell carcinoma
+ANS: B
+EX: SCLC is a high-grade neuroendocrine tumour with RB1 and TP53 loss. It is linked to ectopic ACTH, SIADH and Lambert–Eaton.
+
+Q: Pancoast tumour causes all EXCEPT:
+A) Horner syndrome
+B) Ulnar nerve pain
+C) Rib destruction
+D) SIADH
+ANS: D
+EX: An apical tumour invades the sympathetic chain (Horner), the C8–T1 plexus and ribs. SIADH is a paraneoplastic syndrome of SCLC.
+
+Q: Marker panel favouring mesothelioma over adenocarcinoma is:
+A) CEA+, TTF-1+
+B) Calretinin+, WT1+, D2-40+
+C) CK20+, CDX2+
+D) S100+, HMB-45+
+ANS: B
+EX: Mesothelioma is calretinin, WT1, D2-40 and CK5/6 positive, and CEA, TTF-1 and Ber-EP4 negative.
+
+@ch 12
+Q: Muddy brown granular casts in urine indicate:
+A) Glomerulonephritis
+B) Acute tubular necrosis
+C) Pyelonephritis
+D) Nephrotic syndrome
+ANS: B
+EX: Muddy brown casts mean ATN. RBC casts point to GN, WBC casts to pyelonephritis or AIN, and fatty casts to nephrotic syndrome.
+
+Q: Minimal change disease shows on electron microscopy:
+A) Subepithelial humps
+B) Diffuse effacement of podocyte foot processes
+C) Spike and dome
+D) Mesangial deposits
+ANS: B
+EX: Light microscopy and IF are normal. EM shows foot process effacement. It is the commonest cause of nephrotic syndrome in children and is steroid-responsive.
+
+Q: Antibody against phospholipase A2 receptor is associated with:
+A) FSGS
+B) Membranous nephropathy
+C) IgA nephropathy
+D) MPGN
+ANS: B
+EX: Primary membranous nephropathy is anti-PLA2R positive in 70–80%. It shows subepithelial deposits with spikes.
+IMG: gen/glomerulus.svg
+
+Q: Subepithelial humps on EM with low C3 three weeks after pharyngitis indicate:
+A) IgA nephropathy
+B) Post-streptococcal GN
+C) MPGN
+D) Membranous nephropathy
+ANS: B
+EX: PSGN follows group A strep pharyngitis by 1–4 weeks. It shows humps, granular IgG/C3 and low C3. IgA nephropathy follows infection within 1–2 days with normal C3.
+
+Q: The most common glomerulonephritis worldwide is:
+A) Membranous
+B) IgA nephropathy
+C) FSGS
+D) PSGN
+ANS: B
+EX: Berger disease (IgA nephropathy) presents with recurrent haematuria after mucosal infection. Mesangial IgA is diagnostic.
+
+Q: Linear IgG deposits along the GBM indicate:
+A) Lupus nephritis
+B) Anti-GBM disease
+C) PSGN
+D) IgA nephropathy
+ANS: B
+EX: Anti-GBM (type I RPGN, Goodpasture) gives a linear pattern. Immune complexes give a granular pattern; pauci-immune RPGN shows minimal staining.
+
+Q: Kimmelstiel–Wilson nodules are characteristic of:
+A) Amyloidosis
+B) Diabetic nephropathy
+C) Light chain deposition
+D) MPGN
+ANS: B
+EX: Nodular PAS-positive glomerulosclerosis is specific for diabetes. The earliest change is GBM thickening.
+
+Q: Thyroidization of tubules is seen in:
+A) Acute pyelonephritis
+B) Chronic pyelonephritis
+C) ATN
+D) Amyloidosis
+ANS: B
+EX: In chronic pyelonephritis, dilated tubules contain colloid-like casts, alongside coarse corticomedullary scars over blunted calyces.
+
+Q: The most common renal tumour in adults has which genetic alteration?
+A) MET mutation
+B) VHL loss on 3p
+C) Trisomy 7 and 17
+D) Hypodiploidy
+ANS: B
+EX: Clear cell RCC (65–70%) shows VHL loss on 3p, which raises HIF and VEGF. MET and trisomy 7/17 point to papillary RCC; hypodiploidy to chromophobe RCC.
+
+Q: WAGR syndrome includes all EXCEPT:
+A) Wilms tumour
+B) Aniridia
+C) Hemihypertrophy
+D) Mental retardation
+ANS: C
+EX: WAGR = Wilms, Aniridia, Genitourinary anomalies and mental Retardation (WT1 deletion, 11p13). Hemihypertrophy belongs to Beckwith–Wiedemann.
+
+Q: Berry aneurysms are most associated with:
+A) ARPKD
+B) ADPKD
+C) Medullary sponge kidney
+D) Nephronophthisis
+ANS: B
+EX: About 10% of ADPKD patients have berry aneurysms with SAH risk. Hepatic cysts are the commonest extrarenal finding.
+
+Q: Staghorn calculi are most commonly composed of:
+A) Calcium oxalate
+B) Struvite
+C) Uric acid
+D) Cystine
+ANS: B
+EX: Urease-producing Proteus alkalinizes urine and leads to magnesium ammonium phosphate (struvite) staghorn stones.
+
+Q: Most important risk factor for urothelial carcinoma of bladder is:
+A) Schistosomiasis
+B) Cigarette smoking
+C) Cyclophosphamide
+D) Analgesic abuse
+ANS: B
+EX: Smoking is the most important risk factor. Aromatic amines, cyclophosphamide and phenacetin also contribute; Schistosoma causes SCC.
+
+Q: Sterile pyuria with acidic urine and a "thimble bladder" suggests:
+A) Chronic pyelonephritis
+B) Genitourinary tuberculosis
+C) Interstitial cystitis
+D) Malakoplakia
+ANS: B
+EX: Renal TB spreads downward and causes ureteric strictures, a contracted bladder and a golf-hole ureteric orifice. Send early-morning urine for AFB culture.
+
+Q: Acute cortical necrosis is most commonly associated with:
+A) Septic shock
+B) Abruptio placentae
+C) HUS
+D) Snake bite
+ANS: B
+EX: Obstetric emergencies, especially abruptio placentae, are the commonest cause. It causes anuria and is irreversible.

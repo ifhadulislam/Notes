@@ -7,7 +7,7 @@
   --fs: 12.7px;
   --lh: 1.47;
 }
-@page { size: A4; margin: 13mm 13mm 13mm 16mm; }
+@page { size: A4; margin: 13mm 13mm 13mm 16mm; background: #FFFEF2; }
 
 body.book { background: var(--paper); padding: 0; font-size: var(--fs); line-height: var(--lh); }
 html { background: var(--paper); }
@@ -89,7 +89,7 @@ td .k, td em { color: var(--pink); }
 .col > :first-child { margin-top: 0; }
 .figs { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-end; margin: 8px 0 12px; break-inside: avoid; }
 .figs figure { flex: 1 1 0; margin: 0; min-width: 0; }
-.figs.n1 figure { flex: 0 1 auto; max-width: 78%; }
+.figs.n1 figure { flex: 0 1 82%; max-width: 82%; }
 figure img, .svgwrap svg { max-width: 100%; height: auto; max-height: 300px; display: block; margin: 0 auto; border-radius: 3px; }
 .svgwrap svg { width: 100%; max-height: 330px; }
 figcaption { font-size: 12px; color: var(--black); }

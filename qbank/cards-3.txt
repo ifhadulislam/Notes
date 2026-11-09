@@ -1,0 +1,177 @@
+@ch 13
+Leukoplakia definition :: White patch not scrapable, not another disease
+Erythroplakia risk :: > 50% dysplasia/carcinoma
+Oral submucous fibrosis :: Areca nut (arecoline); trismus
+Hairy leukoplakia :: EBV in HIV; lateral tongue; not premalignant
+Commonest salivary tumour :: Pleomorphic adenoma (PLAG1)
+Warthin tumour :: Parotid; smokers; oncocytic bilayer + lymphoid stroma; hot on Tc scan
+Commonest malignant salivary tumour :: Mucoepidermoid carcinoma
+Adenoid cystic carcinoma :: Cribriform, perineural invasion; MYB-NFIB
+Achalasia :: Loss of myenteric inhibitory neurons; bird's beak
+Plummer–Vinson :: Web + iron deficiency + glossitis → postcricoid SCC
+Mallory–Weiss vs Boerhaave :: Mucosal tear vs transmural rupture
+Barrett :: Intestinal metaplasia with goblet cells → adenocarcinoma
+Eosinophilic oesophagitis :: > 15 eos/HPF; feline oesophagus
+Oesophageal SCC vs adenoCa site :: Middle third vs lower third
+Curling vs Cushing ulcer :: Burns vs intracranial lesions
+H. pylori gastritis site :: Antrum (→ duodenal ulcer)
+Autoimmune gastritis :: Body/fundus; pernicious anaemia; ECL carcinoids
+Ménétrier :: Giant rugae; TGF-α; protein loss
+Duodenal ulcer site :: First part; anterior wall perforates; posterior bleeds (GDA)
+Commonest PUD complication :: Bleeding
+Intestinal vs diffuse gastric Ca :: Glandular, metaplasia / signet ring, CDH1, linitis plastica
+Virchow node :: Left supraclavicular — gastric Ca
+Sister Mary Joseph nodule :: Umbilical metastasis
+GIST :: Interstitial cells of Cajal; KIT/DOG-1; imatinib
+Gastric MALT lymphoma :: H. pylori; t(11;18) resistant to eradication
+Coeliac screening :: Anti-tTG IgA
+Coeliac histology :: ↑ IEL, crypt hyperplasia, villous atrophy
+Whipple disease :: PAS + foamy macrophages; Tropheryma
+Abetalipoproteinaemia :: MTTP; acanthocytes; lipid-laden enterocytes
+TB vs typhoid ulcers :: Transverse vs longitudinal
+Crohn :: Transmural, skip, granulomas, fistulae, NOD2; smoking worsens
+UC :: Continuous from rectum; crypt abscesses; PSC; smoking protects
+Toxic megacolon :: UC (also C. difficile)
+Pseudomembranous colitis :: C. difficile; volcano lesions
+Hirschsprung :: Absent ganglia (RET); narrow distal segment
+Commonest polyp :: Hyperplastic (rectosigmoid)
+Sessile serrated lesion :: Right colon; BRAF; MSI
+Peutz–Jeghers :: STK11; arborizing smooth muscle; lip pigmentation
+Juvenile polyposis :: SMAD4 / BMPR1A
+Villous adenoma :: Highest malignant risk; hypokalaemia
+FAP :: APC; > 100 adenomas; CHRPE
+Gardner :: FAP + osteomas, epidermoid cysts, desmoids
+Lynch :: MMR; right colon + endometrium; MSI
+Adenoma–carcinoma sequence :: APC → KRAS → SMAD4 → TP53
+Right vs left colon Ca :: Anaemia, polypoid / obstruction, napkin-ring
+Carcinoid syndrome :: Liver mets; 5-HIAA; right heart valves
+Commonest cause acute pancreatitis :: Gallstones (alcohol second)
+Pancreatitis enzymes :: Trypsin → phospholipase A2, elastase, lipase
+Pseudocyst :: No epithelial lining; > 4 weeks
+Tropical pancreatitis :: SPINK1; Kerala; fibrocalculous diabetes
+Autoimmune pancreatitis :: IgG4; storiform fibrosis
+Pancreatic Ca gene :: KRAS (> 90%)
+Courvoisier sign :: Palpable non-tender gallbladder — head of pancreas Ca
+Insulinoma :: Commonest pancreatic NET; Whipple triad
+Gastrinoma triangle :: Duodenum commonest site
+Solid pseudopapillary neoplasm :: Young women; β-catenin
+Serous cystadenoma :: VHL; central stellate scar
+
+@ch 14
+Fetal haematopoiesis order :: Yolk sac → liver (main) → marrow
+Normal MCV :: 80–100 fL
+↑ MCHC :: Hereditary spherocytosis
+Ferritin :: First to fall in iron deficiency; ↑ in inflammation
+TIBC :: ↑ iron deficiency; ↓ ACD
+Mentzer index :: < 13 thal trait; > 13 iron deficiency
+Pencil cells :: Iron deficiency
+Hepcidin :: ↓ ferroportin; ↑ in inflammation (IL-6)
+B12 absorption site :: Terminal ileum with intrinsic factor
+Folate stores :: 3–4 months (B12: years)
+MMA :: ↑ only in B12 deficiency
+Earliest megaloblastic sign :: Hypersegmented neutrophils
+Pernicious anaemia antibodies :: Anti-parietal cell (sensitive), anti-IF (specific)
+Subacute combined degeneration :: Posterior + lateral columns (B12)
+Extravascular vs intravascular haemolysis :: Splenomegaly vs haemoglobinuria, absent haptoglobin
+HS defect :: Ankyrin (commonest), band 3, spectrin
+HS best test :: EMA binding flow cytometry
+G6PD :: X-linked; bite cells, Heinz bodies; primaquine, fava beans
+PK deficiency :: Echinocytes; ↑ 2,3-BPG
+Sickle mutation :: β6 Glu → Val
+HbC mutation :: β6 Glu → Lys
+Adult SCD death :: Acute chest syndrome
+SCD osteomyelitis :: Salmonella
+Hand-foot syndrome :: Dactylitis — earliest SCD crisis in infants
+Thal major onset :: 6–9 months; crew-cut skull; ↑ HbF
+Thal trait marker :: HbA2 > 3.5%
+Commonest β-thal mutation in India :: IVS 1-5 (G→C)
+HbH disease :: 3 α-gene deletion; golf-ball inclusions
+Hb Barts :: 4 α-gene deletion; hydrops
+Warm AIHA :: IgG; spherocytes; SLE, CLL, methyldopa
+Cold agglutinin :: IgM anti-I (Mycoplasma), anti-i (EBV)
+PCH :: Donath–Landsteiner IgG anti-P
+Direct vs indirect Coombs :: Antibody on RBC vs in serum
+PNH gene / test :: PIGA / flow cytometry CD55, CD59, FLAER
+PNH death :: Venous thrombosis (Budd–Chiari)
+Commonest cause aplastic anaemia :: Idiopathic (autoimmune T cell)
+Fanconi anaemia :: DNA crosslink repair; absent radii/thumbs; chromosomal breakage
+Diamond–Blackfan :: Congenital PRCA; RPS19; macrocytosis
+MDS dysplasia :: Ringed sideroblasts, pseudo-Pelger–Huët, micromegakaryocytes
+5q− syndrome :: Elderly women; lenalidomide
+Ringed sideroblast :: Iron-laden mitochondria around nucleus (Perls)
+
+@ch 15
+Platelet vs factor bleeding :: Mucocutaneous petechiae vs haemarthroses
+PT measures :: Extrinsic + common (VII, X, V, II, I)
+aPTT measures :: Intrinsic + common (XII, XI, IX, VIII)
+Mixing study corrects :: Factor deficiency (not inhibitor)
+Factor XII deficiency :: ↑ aPTT, no bleeding
+Factor XIII deficiency :: Normal screens; umbilical bleeding; urea solubility
+ITP in children :: Acute post-viral, self-limited
+ITP target :: GpIIb/IIIa or GpIb-IX antibodies
+HIT test :: Serotonin release assay (gold); anti-PF4 ELISA
+TTP pentad :: MAHA, thrombocytopenia, neuro, renal, fever
+TTP cause :: ADAMTS13 deficiency
+Typical HUS :: E. coli O157:H7 Shiga toxin — children
+Bernard–Soulier :: GpIb; giant platelets; no ristocetin aggregation
+Glanzmann :: GpIIb/IIIa; normal ristocetin; no ADP aggregation
+vWD commonest type :: Type 1 (AD, quantitative)
+vWD 2B :: Gain of function → thrombocytopenia
+Desmopressin releases vWF from :: Weibel–Palade bodies
+Haemophilia A commonest mutation :: Intron 22 inversion
+Severe haemophilia :: < 1% factor
+Emicizumab :: Bispecific antibody mimicking factor VIIIa
+Vitamin K-dependent factors :: II, VII, IX, X, protein C, S
+Warfarin skin necrosis :: Protein C deficiency early in therapy
+Liver disease vs vitamin K deficiency :: Factor VIII normal/↑ in liver disease
+Commonest blood group (India) :: O (B commonest in North India)
+Universal RBC donor :: O negative
+Bombay phenotype :: No H antigen (FUT1)
+Packed RBC storage :: 2–6 °C; 35 (CPDA-1) / 42 (SAGM) days
+Platelet storage :: 20–24 °C with agitation; 5 days
+FFP storage :: ≤ −18 °C; 1 year
+Cryoprecipitate content :: Fibrinogen, VIII, vWF, XIII, fibronectin
+Commonest transfusion reaction :: Febrile non-haemolytic
+Acute haemolytic reaction cause :: ABO mismatch (clerical error)
+Delayed haemolytic reaction antibodies :: Kidd, Rh, Kell, Duffy
+TRALI :: Donor anti-HLA/HNA; within 6 h; leading cause of death
+Post-transfusion purpura :: Anti-HPA-1a; 7–10 days
+Yersinia contamination :: Stored RBCs (grows at 4 °C)
+Massive transfusion :: Hypocalcaemia (citrate), hyperkalaemia, hypothermia
+Commonest TTI in India :: Hepatitis B
+
+@ch 16
+Leukaemoid vs CML :: LAP high vs low; no basophilia vs basophilia
+Toxic granules / Döhle bodies :: Severe infection (leukaemoid)
+Atypical lymphocytes :: Infectious mononucleosis (CD8 T cells)
+AML marker :: MPO, Sudan black; CD13, CD33, CD117
+ALL marker :: TdT; PAS block; CD19/CD10 (B) or CD3/CD7 (T)
+Monocytic AML :: NSE (fluoride-sensitive); gum hypertrophy
+APL :: t(15;17) PML-RARA; faggot cells; DIC; ATRA + ATO
+Good-risk AML :: t(8;21), inv(16), NPM1 without FLT3-ITD, CEBPA
+Poor-risk AML :: FLT3-ITD, complex karyotype, −5/−7, TP53
+AML-M7 :: Down syndrome < 3 y; GATA1
+Good-prognosis childhood ALL :: Age 2–10, hyperdiploidy, t(12;21)
+Poor-prognosis ALL :: Infant (KMT2A), Ph+, hypodiploid, high WBC
+CML translocation :: t(9;22) BCR-ABL p210
+CML phases :: Chronic → accelerated → blast crisis (2/3 myeloid)
+PV mutation :: JAK2 V617F (> 95%)
+ET / PMF mutations :: JAK2, CALR, MPL
+PMF smear :: Teardrop cells, leukoerythroblastic; dry tap
+PV vs secondary polycythaemia :: Low EPO + splenomegaly + panmyelosis in PV
+CLL phenotype :: CD5+, CD23+, dim CD20 & sIg
+CLL proliferation centres :: Pathognomonic in lymph node (SLL)
+Richter transformation :: CLL → DLBCL
+CLL worst cytogenetics :: del 17p / TP53
+Hairy cell markers :: TRAP, CD11c, CD25, CD103, annexin A1, BRAF V600E
+Hairy cell treatment :: Cladribine
+ATLL :: HTLV-1; flower cells; hypercalcaemia
+Sézary syndrome :: Erythroderma + circulating cerebriform CD4 cells
+Myeloma CRAB :: Calcium, renal failure, anaemia, bone lesions
+Myeloma commonest translocation :: t(11;14)
+Myeloma kidney :: Light-chain casts with giant cells
+Bence Jones protein heat behaviour :: Precipitates 40–60 °C, redissolves at 100 °C
+Rouleaux :: Myeloma (↑ ESR)
+MGUS criteria :: M-protein < 3 g/dL, plasma cells < 10%, no CRAB
+Waldenström :: IgM; hyperviscosity; MYD88 L265P
+POEMS :: Polyneuropathy, organomegaly, endocrinopathy, M-protein, skin

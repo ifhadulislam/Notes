@@ -1,0 +1,515 @@
+@ch 13
+Q: Leukoplakia is best defined as:
+A) Any white lesion of oral mucosa
+B) A white patch that cannot be scraped off or characterized as any other disease
+C) Candidal infection of mouth
+D) Carcinoma in situ
+ANS: B
+EX: Leukoplakia is a clinical term of exclusion; 3–25% become malignant. Erythroplakia carries a much higher risk.
+
+Q: The most common salivary gland tumour is:
+A) Warthin tumour
+B) Pleomorphic adenoma
+C) Mucoepidermoid carcinoma
+D) Adenoid cystic carcinoma
+ANS: B
+EX: Pleomorphic adenoma is a mixed tumour with chondromyxoid stroma (PLAG1). It recurs after enucleation because of finger-like projections.
+
+Q: Perineural invasion with a cribriform "Swiss-cheese" pattern in a palatal tumour suggests:
+A) Pleomorphic adenoma
+B) Adenoid cystic carcinoma
+C) Acinic cell carcinoma
+D) Warthin tumour
+ANS: B
+EX: Adenoid cystic carcinoma (MYB-NFIB) invades nerves, recurs relentlessly and causes late lung metastases.
+
+Q: Barrett oesophagus is diagnosed histologically by:
+A) Squamous hyperplasia
+B) Intestinal metaplasia with goblet cells
+C) Eosinophils > 15/HPF
+D) Gastric cardiac mucosa alone
+ANS: B
+EX: Goblet cells within columnar mucosa above the GE junction confirm Barrett. It is premalignant for adenocarcinoma.
+
+Q: Most common site of oesophageal squamous cell carcinoma is:
+A) Upper third
+B) Middle third
+C) Lower third
+D) GE junction
+ANS: B
+EX: SCC arises mostly in the middle third. Adenocarcinoma arises in the lower third from Barrett oesophagus.
+
+Q: Autoimmune gastritis characteristically involves:
+A) Antrum
+B) Body and fundus
+C) Duodenum
+D) Whole stomach equally
+ANS: B
+EX: Antibodies against parietal cells and intrinsic factor damage the oxyntic mucosa. This causes achlorhydria, hypergastrinaemia, pernicious anaemia and ECL-cell carcinoids.
+
+Q: Linitis plastica is characteristic of:
+A) Intestinal-type gastric carcinoma
+B) Diffuse (signet-ring) gastric carcinoma
+C) Gastric lymphoma
+D) GIST
+ANS: B
+EX: Diffuse-type carcinoma with CDH1 (E-cadherin) loss infiltrates the wall and gives a rigid "leather bottle" stomach.
+
+Q: GIST arises from:
+A) Smooth muscle cells
+B) Interstitial cells of Cajal
+C) Schwann cells
+D) Enterochromaffin cells
+ANS: B
+EX: GIST is CD117 (KIT) and DOG-1 positive with KIT/PDGFRA mutations, and responds to imatinib. The stomach is the commonest site.
+
+Q: Gastric MALT lymphoma that does NOT regress after H. pylori eradication typically carries:
+A) t(14;18)
+B) t(11;18) API2-MALT1
+C) t(8;14)
+D) t(11;14)
+ANS: B
+EX: t(11;18) MALT lymphomas are resistant to eradication therapy.
+
+Q: The best screening test for coeliac disease is:
+A) Anti-gliadin IgG
+B) Anti-tissue transglutaminase IgA
+C) Anti-endomysial IgG
+D) Small bowel biopsy
+ANS: B
+EX: Anti-tTG IgA is the best screening test. Anti-endomysial is the most specific; biopsy shows increased IELs, crypt hyperplasia and villous atrophy.
+
+Q: PAS-positive foamy macrophages in the lamina propria of small intestine with arthritis suggest:
+A) Coeliac disease
+B) Whipple disease
+C) MAC infection
+D) Abetalipoproteinaemia
+ANS: B
+EX: Tropheryma whipplei produces PAS-positive macrophages that distend the villi. MAC is also PAS positive but is AFB positive.
+
+Q: Transmural inflammation, skip lesions and non-caseating granulomas suggest:
+A) Ulcerative colitis
+B) Crohn disease
+C) Intestinal TB
+D) Ischaemic colitis
+ANS: B
+EX: Crohn disease (NOD2) is transmural with cobblestoning, fistulae and strictures. Smoking worsens it.
+
+Q: Primary sclerosing cholangitis is most associated with:
+A) Crohn disease
+B) Ulcerative colitis
+C) Coeliac disease
+D) Whipple disease
+ANS: B
+EX: About 70% of PSC patients have UC. PSC is p-ANCA positive and carries a risk of cholangiocarcinoma.
+
+Q: The first gene mutated in the adenoma–carcinoma sequence is:
+A) KRAS
+B) APC
+C) TP53
+D) SMAD4
+ANS: B
+EX: APC is the "gatekeeper" (WNT/β-catenin). KRAS, SMAD4/DCC and then TP53 follow.
+
+Q: Hirschsprung disease shows:
+A) Hypertrophied ganglion cells
+B) Absence of ganglion cells in the narrow distal segment
+C) Absence of ganglion cells in the dilated segment
+D) Mucosal ulceration
+ANS: B
+EX: The aganglionic rectal segment is narrow, and the proximal normal colon dilates. RET mutation; Down syndrome association.
+
+Q: Carcinoid syndrome usually requires:
+A) Appendiceal primary
+B) Hepatic metastases
+C) Gastric primary
+D) Rectal primary
+ANS: B
+EX: Serotonin from GI carcinoids is inactivated by the liver. Liver metastases (or a non-portal primary) allow systemic effects with right-sided valve fibrosis.
+
+Q: The most common cause of acute pancreatitis is:
+A) Alcohol
+B) Gallstones
+C) Hypertriglyceridaemia
+D) Drugs
+ANS: B
+EX: Gallstones are commonest overall (alcohol in Indian men). Inappropriate trypsin activation leads to autodigestion and fat necrosis.
+
+Q: The earliest and most frequent mutation in pancreatic ductal adenocarcinoma is:
+A) TP53
+B) KRAS
+C) SMAD4
+D) CDKN2A
+ANS: B
+EX: KRAS is mutated in > 90%, early in PanIN. CDKN2A (95%), SMAD4 and TP53 follow.
+
+Q: Lesion with a central stellate scar and glycogen-rich clear cuboidal cells in the pancreas of an elderly woman is:
+A) Mucinous cystic neoplasm
+B) Serous cystadenoma
+C) Solid pseudopapillary neoplasm
+D) IPMN
+ANS: B
+EX: Serous cystadenoma (VHL-associated) shows sunburst calcification and is benign.
+
+@ch 14
+Q: The most sensitive and specific test for iron deficiency is:
+A) Serum iron
+B) TIBC
+C) Serum ferritin
+D) Transferrin saturation
+ANS: C
+EX: Ferritin is the first to fall and reflects iron stores, although it is raised in inflammation. Marrow iron is the gold standard.
+
+Q: Raised ferritin with low TIBC in a patient with rheumatoid arthritis suggests:
+A) Iron deficiency
+B) Anaemia of chronic disease
+C) Thalassaemia trait
+D) Sideroblastic anaemia
+ANS: B
+EX: IL-6 raises hepcidin, which traps iron in macrophages. Ferritin is high, TIBC low and serum iron low.
+
+Q: Mentzer index < 13 suggests:
+A) Iron deficiency
+B) β-thalassaemia trait
+C) Anaemia of chronic disease
+D) Sideroblastic anaemia
+ANS: B
+EX: In thal trait, MCV is low with a relatively high RBC count. The diagnosis is confirmed by HbA2 > 3.5%.
+
+Q: Earliest peripheral smear finding in megaloblastic anaemia is:
+A) Macro-ovalocytes
+B) Hypersegmented neutrophils
+C) Pancytopenia
+D) Howell–Jolly bodies
+ANS: B
+EX: Neutrophils with 5 or more lobes appear early and are specific.
+
+Q: Neurological manifestations are seen in deficiency of:
+A) Folate
+B) Vitamin B12
+C) Iron
+D) Vitamin B6 only
+ANS: B
+EX: B12 deficiency raises methylmalonic acid, causing subacute combined degeneration of the posterior and lateral columns. Folate deficiency does not.
+
+Q: Increased MCHC is characteristic of:
+A) Iron deficiency
+B) Hereditary spherocytosis
+C) Thalassaemia
+D) Megaloblastic anaemia
+ANS: B
+EX: Membrane loss with dehydration of spherocytes makes HS the main cause of a raised MCHC.
+
+Q: The most sensitive and specific test for hereditary spherocytosis is:
+A) Osmotic fragility
+B) EMA-binding flow cytometry
+C) Coombs test
+D) Autohemolysis
+ANS: B
+EX: Eosin-5-maleimide binding (to band 3) is reduced in HS. Osmotic fragility is the classic test.
+
+Q: Bite cells and Heinz bodies are seen in:
+A) Pyruvate kinase deficiency
+B) G6PD deficiency
+C) HS
+D) PNH
+ANS: B
+EX: Oxidant stress denatures Hb into Heinz bodies, which splenic macrophages "bite" off. G6PD deficiency is X-linked.
+
+Q: The mutation in sickle cell anaemia is:
+A) Glu→Lys at β6
+B) Glu→Val at β6
+C) Val→Glu at β6
+D) Deletion of α genes
+ANS: B
+EX: HbS is β6 Glu→Val; HbC is Glu→Lys. Deoxygenated HbS polymerises.
+
+Q: Most common cause of death in adults with sickle cell disease is:
+A) Stroke
+B) Acute chest syndrome
+C) Splenic sequestration
+D) Renal failure
+ANS: B
+EX: Acute chest syndrome is the leading cause in adults. Sequestration crisis is a danger in young children before autosplenectomy.
+
+Q: HbH inclusions (golf-ball) are seen with deletion of:
+A) 1 α gene
+B) 2 α genes
+C) 3 α genes
+D) 4 α genes
+ANS: C
+EX: Three-gene deletion produces HbH (β4). Four-gene deletion produces Hb Barts and hydrops fetalis.
+
+Q: PNH is due to mutation in:
+A) CD55 gene
+B) PIGA gene
+C) CD59 gene
+D) Ankyrin
+ANS: B
+EX: Acquired PIGA mutation prevents GPI-anchor synthesis, so CD55, CD59 and other anchored proteins are lost. Flow cytometry with FLAER is diagnostic.
+
+Q: Cold agglutinin disease associated with Mycoplasma involves antibody against:
+A) Rh antigens
+B) I antigen (IgM)
+C) P antigen (IgG)
+D) i antigen (IgG)
+ANS: B
+EX: Mycoplasma induces anti-I IgM; EBV induces anti-i. The P antigen is the target of the Donath–Landsteiner antibody in PCH.
+
+Q: Idiosyncratic aplastic anaemia is classically caused by:
+A) Busulfan
+B) Chloramphenicol
+C) Benzene
+D) Methotrexate
+ANS: B
+EX: Chloramphenicol causes dose-independent aplasia (plus dose-dependent suppression). Busulfan and benzene are dose-related causes.
+
+Q: Pure red cell aplasia is associated with:
+A) Thymoma
+B) Hodgkin lymphoma
+C) Myeloma
+D) Seminoma
+ANS: A
+EX: Thymoma, parvovirus B19, Diamond–Blackfan anaemia and LGL leukaemia cause PRCA.
+
+Q: 5q– syndrome is characterised by:
+A) Microcytic anaemia, low platelets, poor prognosis
+B) Macrocytic anaemia, normal/high platelets, good response to lenalidomide
+C) Pancytopenia with Auer rods
+D) Ringed sideroblasts and SF3B1
+ANS: B
+EX: 5q– MDS occurs in elderly women with hypolobated megakaryocytes. It responds to lenalidomide.
+
+@ch 15
+Q: Bleeding into joints suggests a defect in:
+A) Platelets
+B) Coagulation factors
+C) Vessel wall
+D) vWF only
+ANS: B
+EX: Coagulation factor defects (haemophilia) cause deep bleeding: haemarthroses and haematomas. Platelet or vessel defects cause mucocutaneous petechiae.
+
+Q: Isolated prolonged aPTT that corrects with mixing, in a boy with haemarthrosis, suggests:
+A) vWD type 1
+B) Haemophilia A
+C) Lupus anticoagulant
+D) Factor VII deficiency
+ANS: B
+EX: Factor VIII deficiency is X-linked. Mixing corrects a factor deficiency but not an inhibitor.
+
+Q: Prolonged aPTT with thrombosis (rather than bleeding) suggests:
+A) Haemophilia
+B) Antiphospholipid antibodies (lupus anticoagulant)
+C) Factor XIII deficiency
+D) Vitamin K deficiency
+ANS: B
+EX: Lupus anticoagulant prolongs aPTT in vitro but causes thrombosis and recurrent miscarriage in vivo.
+
+Q: The most common inherited bleeding disorder is:
+A) Haemophilia A
+B) von Willebrand disease
+C) Glanzmann
+D) Bernard–Soulier
+ANS: B
+EX: vWD affects about 1% of people and is mostly AD type 1. It is treated with desmopressin.
+
+Q: Giant platelets with absent ristocetin-induced aggregation not corrected by normal plasma indicates:
+A) vWD
+B) Bernard–Soulier syndrome
+C) Glanzmann thrombasthenia
+D) Storage pool disease
+ANS: B
+EX: Bernard–Soulier is a GpIb defect. In vWD, ristocetin aggregation corrects with normal plasma. Glanzmann has normal ristocetin but no aggregation with ADP or collagen.
+
+Q: Normal PT, aPTT, platelet count and bleeding time with delayed umbilical stump bleeding suggests:
+A) Factor XII deficiency
+B) Factor XIII deficiency
+C) vWD
+D) Haemophilia B
+ANS: B
+EX: Factor XIII cross-links fibrin and screening tests are normal. Diagnose with the urea clot solubility test.
+
+Q: TTP is due to deficiency of:
+A) Factor H
+B) ADAMTS13
+C) Protein C
+D) Antithrombin
+ANS: B
+EX: Without ADAMTS13, ultra-large vWF multimers accumulate. This gives the pentad of MAHA, thrombocytopenia, neurological signs, renal involvement and fever. Treat with plasma exchange.
+
+Q: HIT is caused by antibodies against:
+A) Heparin alone
+B) Heparin–platelet factor 4 complex
+C) GpIIb/IIIa
+D) Antithrombin
+ANS: B
+EX: IgG against heparin–PF4 activates platelets, causing thrombocytopenia with thrombosis at day 5–14. Switch to argatroban.
+
+Q: Storage temperature of platelet concentrates is:
+A) 2–6 °C
+B) 20–24 °C with agitation
+C) −30 °C
+D) −80 °C
+ANS: B
+EX: Platelets are stored at room temperature with agitation for 5 days. This carries the highest risk of bacterial contamination.
+
+Q: Cryoprecipitate is the richest source of:
+A) Factor IX
+B) Fibrinogen
+C) Factor VII
+D) Protein C
+ANS: B
+EX: Cryoprecipitate contains fibrinogen, factor VIII, vWF, factor XIII and fibronectin. It is used in DIC with low fibrinogen.
+
+Q: The leading cause of transfusion-related mortality is:
+A) Febrile non-haemolytic reaction
+B) TRALI
+C) Allergic reaction
+D) Delayed haemolytic reaction
+ANS: B
+EX: TRALI is caused by donor anti-HLA/HNA antibodies, often from multiparous women. It gives non-cardiogenic pulmonary oedema within 6 h.
+
+Q: Irradiation of blood products is done to prevent:
+A) Febrile reactions
+B) Transfusion-associated GVHD
+C) CMV transmission
+D) TRALI
+ANS: B
+EX: Irradiation (25 Gy) inactivates donor T cells. Leukoreduction prevents febrile reactions and CMV transmission.
+
+Q: Bombay blood group lacks:
+A) A antigen only
+B) H antigen
+C) Rh D
+D) Kell
+ANS: B
+EX: Absence of FUT1 means no H substance, so anti-H is present and only Bombay blood can be given.
+
+Q: Anaphylaxis during transfusion in a patient with recurrent sinopulmonary infections suggests:
+A) ABO incompatibility
+B) IgA deficiency with anti-IgA antibodies
+C) TRALI
+D) Bacterial contamination
+ANS: B
+EX: Use washed products or blood from IgA-deficient donors.
+
+@ch 16
+Q: Leukaemoid reaction differs from CML by having:
+A) Low LAP score
+B) High LAP score
+C) Philadelphia chromosome
+D) Basophilia
+ANS: B
+EX: LAP (NAP) is high in leukaemoid reaction and low in CML. CML also shows basophilia and BCR-ABL.
+
+Q: Auer rods are seen in:
+A) ALL
+B) AML
+C) CLL
+D) Hairy cell leukaemia
+ANS: B
+EX: Auer rods are MPO-positive needle-like inclusions in myeloblasts. Multiple Auer rods (faggot cells) are seen in APL.
+
+Q: t(15;17) PML-RARA leukaemia is treated with:
+A) Imatinib
+B) ATRA + arsenic trioxide
+C) Rituximab
+D) Cladribine
+ANS: B
+EX: APL presents with DIC and responds to differentiation therapy (ATRA + ATO), giving an excellent prognosis.
+
+Q: Most common translocation in childhood B-ALL with good prognosis is:
+A) t(9;22)
+B) t(12;21) ETV6-RUNX1
+C) t(4;11)
+D) t(8;14)
+ANS: B
+EX: ETV6-RUNX1 and hyperdiploidy are favourable. Ph+ disease, KMT2A rearrangement, hypodiploidy and infancy are unfavourable.
+
+Q: TdT positivity is characteristic of:
+A) AML
+B) Lymphoblasts (ALL)
+C) CLL
+D) Myeloma
+ANS: B
+EX: Terminal deoxynucleotidyl transferase marks precursor B and T lymphoblasts.
+
+Q: Smudge cells and CD5+, CD23+ B cells indicate:
+A) Mantle cell lymphoma
+B) CLL
+C) Hairy cell leukaemia
+D) Follicular lymphoma
+ANS: B
+EX: CLL is CD5+ and CD23+. Mantle cell lymphoma is CD5+, CD23− and cyclin D1+.
+
+Q: Worst prognostic cytogenetic abnormality in CLL is:
+A) del 13q
+B) Trisomy 12
+C) del 17p (TP53)
+D) Normal karyotype
+ANS: C
+EX: del 17p/TP53 is worst and del 11q (ATM) is poor. Isolated del 13q is favourable.
+
+Q: Hairy cell leukaemia is characterized by all EXCEPT:
+A) TRAP positivity
+B) BRAF V600E
+C) Massive lymphadenopathy
+D) Pancytopenia with splenomegaly
+ANS: C
+EX: Lymphadenopathy is unusual in HCL. Typical features are massive splenomegaly, dry tap, CD11c/CD25/CD103 and cladribine response.
+
+Q: JAK2 V617F is found in over 95% of:
+A) CML
+B) Polycythaemia vera
+C) Essential thrombocythaemia
+D) Primary myelofibrosis
+ANS: B
+EX: PV is almost always JAK2-mutated. ET and PMF carry JAK2 in about 50%, CALR or MPL in the rest.
+
+Q: Teardrop cells with leukoerythroblastic picture and dry tap suggest:
+A) CML
+B) Primary myelofibrosis
+C) Aplastic anaemia
+D) PV
+ANS: B
+EX: Marrow fibrosis forces extramedullary haematopoiesis, giving massive splenomegaly and dacrocytes.
+
+Q: Aquagenic pruritus is classically seen in:
+A) CML
+B) Polycythaemia vera
+C) Hodgkin lymphoma
+D) Mastocytosis
+ANS: B
+EX: Histamine from basophils after warm bathing causes pruritus in PV. Erythromelalgia and thrombosis also occur.
+
+Q: The most common translocation in multiple myeloma is:
+A) t(4;14)
+B) t(11;14)
+C) t(14;16)
+D) t(8;14)
+ANS: B
+EX: t(11;14) (cyclin D1) is the commonest IgH translocation in myeloma. t(4;14) and t(14;16) are high-risk.
+
+Q: Bone scan is often negative in multiple myeloma because:
+A) Lesions are too small
+B) Lesions are purely lytic with little osteoblastic activity
+C) Myeloma spares bones
+D) Calcium is low
+ANS: B
+EX: RANKL up and DKK1 (osteoblast inhibitor) up produce lytic lesions without osteoblastic activity. Use a skeletal survey, MRI or PET.
+
+Q: Hyperviscosity syndrome is most typical of:
+A) Multiple myeloma IgG
+B) Waldenström macroglobulinaemia
+C) MGUS
+D) Plasmacytoma
+ANS: B
+EX: Pentameric IgM causes hyperviscosity. MYD88 L265P; lytic lesions are absent.
+
+Q: MGUS progresses to myeloma at about:
+A) 1% per year
+B) 10% per year
+C) 25% per year
+D) Never
+ANS: A
+EX: MGUS has an M-protein < 3 g/dL, fewer than 10% marrow plasma cells and no CRAB. About 1% progress each year.

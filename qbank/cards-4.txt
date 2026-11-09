@@ -1,0 +1,323 @@
+@ch 17
+Zone 3 injury causes :: Ischaemia, RHF, acetaminophen, CCl₄, halothane, alcohol
+Zone 1 injury :: Phosphorus, eclampsia
+Zone 2 injury :: Yellow fever
+AST:ALT > 2 :: Alcoholic liver disease
+Gilbert :: ↓ UGT1A1 (promoter); fasting jaundice
+Crigler–Najjar I vs II :: Absent vs reduced UGT1A1; II responds to phenobarbital
+Dubin–Johnson :: MRP2; black liver; conjugated
+Rotor :: OATP1B1/1B3; normal liver colour
+Biliary atresia :: Commonest surgical neonatal cholestasis; Kasai before 60 days
+HEV in pregnancy :: 20% mortality (3rd trimester)
+HCV chronicity :: > 80%
+HBV window period :: IgM anti-HBc only
+Infectivity marker HBV :: HBeAg / HBV DNA
+Ground-glass hepatocytes :: HBsAg (HBV)
+Councilman bodies :: Apoptotic hepatocytes (acute hepatitis)
+Interface hepatitis :: Chronic hepatitis
+Autoimmune hepatitis type 1 / 2 :: ANA, anti-SMA / anti-LKM1
+Mallory–Denk bodies :: CK8/18 aggregates — alcoholic hepatitis, NASH
+Hepatic stellate (Ito) cell :: Main collagen producer in fibrosis
+Micronodular cirrhosis :: Alcohol (< 3 mm nodules)
+Macronodular cirrhosis :: Post-viral
+Wilson disease :: ATP7B (chr 13); ↓ ceruloplasmin; KF rings; hepatic Cu > 250 µg/g
+Haemochromatosis screening :: Transferrin saturation > 45%
+Hepatorenal syndrome :: Functional AKI with normal kidney histology
+Spider naevi & palmar erythema :: Hyperoestrogenism
+Commonest cause portal HTN :: Cirrhosis
+NCPF :: Young Indian adults; massive spleen; normal LFT; obliterative portal venopathy
+EHPVO :: Commonest portal HTN in Indian children
+Budd–Chiari causes :: PV, PNH, OCPs, IVC web
+SAAG ≥ 1.1 :: Portal hypertension ascites
+PBC :: Middle-aged women; AMA-M2; florid duct lesion
+PSC :: Young men; UC; onion-skin fibrosis; beaded ducts; cholangiocarcinoma
+Commonest malignant liver tumour :: Metastasis
+Commonest benign liver tumour :: Haemangioma
+FNH :: Central stellate scar; polyclonal
+Hepatic adenoma :: OCPs; β-catenin type → HCC
+Hepatoblastoma :: < 3 y; FAP, BWS; AFP
+HCC risk factors :: HBV, HCV, alcohol, NASH, aflatoxin, haemochromatosis
+Bile production :: Pathognomonic of hepatocellular origin
+Fibrolamellar HCC :: Young; no cirrhosis; DNAJB1-PRKACA
+Klatskin tumour :: Hilar cholangiocarcinoma
+Cholesterol stone 5 Fs :: Female, fat, fertile, forty, fair
+Black pigment stones :: Chronic haemolysis
+Brown pigment stones :: Infected ducts (Asia)
+Rokitansky–Aschoff sinuses :: Chronic cholecystitis
+Strawberry gallbladder :: Cholesterolosis
+Porcelain gallbladder :: ↑ carcinoma risk
+Gallbladder Ca India :: Gangetic belt; gallstones; women
+
+@ch 18
+Follicular hyperplasia causes :: RA, toxoplasmosis, early HIV, syphilis
+Paracortical hyperplasia :: Viral (EBV), phenytoin
+Piringer–Kuchinka :: Toxoplasma lymphadenitis
+Kikuchi :: Necrotizing lymphadenitis without neutrophils; young Asian women
+Castleman (plasma cell type) :: HHV-8, IL-6
+Reactive vs follicular lymphoma :: Tingible-body macrophages, BCL-2 − vs BCL-2 +
+RS cell markers :: CD15 +, CD30 +, CD45 −
+Commonest HL :: Nodular sclerosis (India — mixed cellularity)
+Lacunar cells :: Nodular sclerosis HL
+Popcorn cells :: NLPHL (CD20 +)
+HL with worst prognosis :: Lymphocyte-depleted
+Commonest NHL :: DLBCL
+Follicular lymphoma :: t(14;18) BCL2; CD10 +
+Burkitt :: t(8;14) MYC; starry sky; Ki-67 ~100%
+Endemic Burkitt :: Africa; jaw; EBV
+Mantle cell :: t(11;14); CD5 +, CD23 −, cyclin D1 +
+MALT lymphoma sites :: Stomach (H. pylori), salivary (Sjögren), thyroid (Hashimoto)
+ALCL :: CD30 +; hallmark cells; t(2;5) NPM-ALK
+NK/T nasal lymphoma :: EBV; destructive midline lesion
+LCH markers :: CD1a, langerin (CD207), S100; Birbeck granules
+Hand–Schüller–Christian :: Skull lesions, DI, exophthalmos
+Letterer–Siwe :: < 2 y; multisystem; aggressive
+HLH :: Fever, cytopenias, ↑↑ ferritin, hemophagocytosis
+Massive splenomegaly :: Kala-azar, CML, malaria, myelofibrosis, thalassaemia
+Post-splenectomy smear :: Howell–Jolly, target cells, Pappenheimer, thrombocytosis
+OPSI organisms :: S. pneumoniae, H. influenzae, N. meningitidis
+Thymoma associations :: Myasthenia, PRCA, hypogammaglobulinaemia (Good)
+4 Ts of anterior mediastinum :: Thymoma, teratoma, thyroid, terrible lymphoma
+
+@ch 19
+High-risk HPV :: 16 (SCC), 18 (adenocarcinoma)
+Transformation zone :: Site of > 90% cervical neoplasia
+Koilocyte :: Perinuclear halo + raisinoid nucleus
+p16 block positivity :: High-risk HPV / HSIL
+Commonest cervical cancer :: Squamous cell carcinoma
+Commonest cause of death cervical Ca :: Uraemia (ureteric obstruction)
+VIA :: Acetowhite areas
+Lugol (VILI) abnormal area :: Iodine-negative (mustard yellow)
+Ovulation evidence :: Subnuclear vacuoles (day 16–17)
+Arias-Stella :: Pregnancy hormonal effect
+Chronic endometritis :: Plasma cells in stroma
+Adenomyosis :: Endometrium in myometrium; globular uterus
+Endometriosis commonest site :: Ovary (chocolate cyst)
+Atypical hyperplasia progression :: 25–40% to carcinoma
+Type I endometrial Ca :: Endometrioid; estrogen; PTEN
+Type II endometrial Ca :: Serous; TP53; elderly
+POLE ultramutated :: Best-prognosis endometrial Ca
+Leiomyoma gene :: MED12
+Red degeneration :: Fibroid in pregnancy
+Leiomyosarcoma criteria :: Atypia, ≥ 10 mitoses/10 HPF, tumour necrosis
+Complete mole :: 46,XX androgenetic; no fetus; p57 −
+Partial mole :: Triploid; fetal parts; p57 +
+Choriocarcinoma :: Trophoblast without villi; lungs; methotrexate cures
+PSTT :: Intermediate trophoblast; hPL +; chemoresistant
+PCOS criteria :: Hyperandrogenism, anovulation, polycystic ovaries (2 of 3)
+Commonest ovarian tumour :: Mature cystic teratoma
+Commonest ovarian cancer :: High-grade serous carcinoma (TP53, BRCA)
+STIC :: Fallopian tube precursor of HGSC
+Mucinous tumour key point :: Huge, unilateral; exclude GI metastasis
+Endometriosis-associated ovarian Ca :: Endometrioid & clear cell (ARID1A)
+Dysgerminoma :: Seminoma counterpart; LDH; radiosensitive
+Yolk sac tumour :: Schiller–Duval bodies; AFP
+Granulosa cell tumour :: FOXL2; Call–Exner; estrogen; inhibin
+Meigs syndrome :: Fibroma + ascites + right hydrothorax
+Sertoli–Leydig :: Virilization; DICER1
+Krukenberg :: Bilateral signet-ring metastasis (stomach)
+Struma ovarii :: Thyroid tissue teratoma
+PID commonest organisms :: Chlamydia, gonococcus
+Genital TB :: Tubes ~100%; infertility; tobacco-pouch tubes
+Sarcoma botryoides :: Girls < 5 y; cambium layer
+Lichen sclerosus :: Parchment-like vulva; homogenized collagen
+Breast abscess (lactation) :: S. aureus
+Periductal mastitis :: Smokers; squamous metaplasia of ducts
+Fat necrosis breast :: Trauma; mimics carcinoma
+ADH/ALH risk :: 4–5×
+Intraductal papilloma :: Bloody nipple discharge
+Fibroadenoma vs phyllodes :: Young, bland stroma vs older, cellular stroma, leaf-like
+DCIS vs LCIS :: E-cadherin + vs −; calcifications vs incidental
+Comedo DCIS :: Central necrosis; calcification; high grade
+Paget nipple :: Underlying DCIS ~100%
+Commonest breast Ca :: Invasive carcinoma NST (ductal)
+Lobular carcinoma :: Indian file; E-cadherin −; bilateral
+Medullary pattern :: BRCA1; triple-negative; lymphoid stroma
+Inflammatory carcinoma :: Dermal lymphatic emboli; peau d'orange
+Luminal A :: ER/PR +, HER2 −, low Ki-67 — best
+HER2 equivocal (IHC 2+) :: Confirm by FISH
+Most important breast prognostic factor :: Axillary nodes
+BRCA1 vs BRCA2 :: Triple-negative, ovary vs male breast, pancreas, prostate
+
+@ch 20
+Bowen vs erythroplasia of Queyrat :: SCC in situ of shaft vs glans
+Bowenoid papulosis :: Young; HPV 16; regresses
+Carcinoma penis risk :: Lack of circumcision
+Cryptorchidism :: Inguinal canal; infertility; ↑ GCT (both sides)
+Mumps orchitis :: Post-pubertal; unilateral
+Torsion :: Bell-clapper; absent cremasteric reflex
+Commonest scrotal swelling :: Hydrocele
+GCT precursor :: GCNIS
+Universal GCT cytogenetics :: i(12p)
+Commonest GCT :: Seminoma
+Seminoma markers :: PLAP, OCT3/4, CD117; no AFP
+Spermatocytic tumour :: Elderly; three cell sizes; no GCNIS
+Yolk sac tumour in children :: Commonest testicular tumour < 3 y; AFP
+Choriocarcinoma (testis) :: hCG; early lung/brain metastases; gynaecomastia
+Postpubertal teratoma :: Malignant regardless of maturity
+Elderly testicular tumour :: Lymphoma (DLBCL)
+Leydig tumour :: Reinke crystals; precocious puberty/gynaecomastia
+Testicular lymphatic drainage :: Para-aortic nodes
+BPH zone :: Transition / periurethral
+BPH hormone :: DHT (5α-reductase type 2)
+Prostate Ca zone :: Peripheral (posterior)
+Prostate Ca diagnosis :: Absent basal cells (p63 −), AMACR +, prominent nucleoli
+Diagnostic of prostate malignancy :: Perineural invasion
+Gleason grade groups :: ≤6 GG1; 3+4 GG2; 4+3 GG3; 8 GG4; 9–10 GG5
+TMPRSS2-ERG :: Prostate Ca fusion (~50%)
+Prostate bone metastases :: Osteoblastic (↑ ALP)
+
+@ch 21
+RANKL source :: Osteoblasts / stromal cells; OPG is the decoy
+Achondroplasia :: FGFR3 gain of function
+Osteogenesis imperfecta :: Type I collagen; blue sclerae, fractures
+Osteopetrosis :: Osteoclast failure (CA II, CLCN7); marble bone; pancytopenia
+Osteomyelitis commonest organism :: S. aureus
+Osteomyelitis sickle cell :: Salmonella
+Sequestrum / involucrum :: Dead bone / reactive new bone
+Brodie abscess :: Chronic intraosseous abscess (distal tibia)
+Pott disease :: Thoracolumbar TB; disc destroyed; gibbus; psoas abscess
+Mycetoma grains :: Black — eumycetoma; others — actinomycetoma
+Osteoporosis labs :: Normal Ca, PO₄, ALP
+Osteomalacia :: Excess osteoid; Looser zones; ↑ ALP
+Osteitis fibrosa cystica :: Hyperparathyroidism; brown tumours
+Most specific HPT radiograph sign :: Subperiosteal resorption of phalanges (radial side)
+Paget disease :: Mosaic bone; ↑↑ ALP alone; osteosarcoma risk
+Avascular necrosis commonest non-traumatic cause :: Steroids
+Commonest benign bone tumour :: Osteochondroma
+Osteoid osteoma :: < 2 cm nidus; night pain relieved by aspirin
+Osteosarcoma :: Metaphysis around knee; Codman triangle; sunburst
+Osteosarcoma genetic risks :: RB, TP53, Paget, radiation
+Enchondroma syndromes :: Ollier; Maffucci (+ haemangiomas)
+Chondroblastoma :: Epiphysis before fusion; chicken-wire calcification
+Chondrosarcoma :: Pelvis/axial; adults; popcorn calcification
+GCT bone :: Epiphysis after fusion; soap bubble; H3F3A; denosumab
+Fibrous dysplasia :: Chinese letters; GNAS; McCune–Albright
+Ewing :: Diaphysis; onion skin; t(11;22); CD99
+Commonest malignant bone tumour overall :: Metastasis
+Osteoblastic metastases :: Prostate, breast (mixed), carcinoid, SCLC
+OA vs RA :: Cartilage, DIP/PIP, < 30 min stiffness vs synovium, MCP/PIP, > 1 h
+Heberden / Bouchard nodes :: DIP / PIP osteophytes (OA)
+Rheumatoid nodule :: Palisading granuloma around fibrinoid necrosis
+Most specific RA test :: Anti-CCP
+Felty syndrome :: RA + splenomegaly + neutropenia
+Gout crystals :: Needle-shaped, strongly negative birefringence
+Pseudogout crystals :: Rhomboid, weakly positive birefringence
+Podagra :: Gout of 1st MTP
+Synovial sarcoma :: t(X;18) SS18-SSX; TLE1; around knee
+Myxoid liposarcoma :: t(12;16) FUS-DDIT3
+Well-differentiated liposarcoma :: MDM2 amplification
+Alveolar rhabdomyosarcoma :: t(2;13) PAX3-FOXO1
+Commonest soft-tissue sarcoma of childhood :: Rhabdomyosarcoma
+Chordoma :: Sacrum/clivus; physaliferous cells; brachyury
+
+@ch 22
+Commonest pituitary adenoma :: Prolactinoma
+Acromegaly diagnosis :: Failure of GH suppression on OGTT; ↑ IGF-1
+Order of hormone loss :: GH → FSH/LH → TSH → ACTH → PRL
+Sheehan syndrome first sign :: Failure of lactation
+Craniopharyngioma :: Rathke pouch; calcified; machinery-oil fluid
+SIADH commonest cause :: Small cell lung carcinoma
+Most sensitive thyroid screen :: TSH
+Graves antibody :: TSI (TSH receptor stimulating)
+Graves histology :: Tall hyperplastic cells, scalloped colloid
+Hashimoto :: Anti-TPO; Hürthle cells; germinal centres; MALT lymphoma risk
+De Quervain :: Painful; post-viral; giant cells; ↓ uptake
+Riedel :: Woody fibrosis; IgG4
+Commonest thyroid cancer :: Papillary (BRAF V600E)
+PTC nuclear features :: Orphan Annie, grooves, pseudo-inclusions
+Follicular Ca diagnosis :: Capsular / vascular invasion
+Follicular Ca spread :: Haematogenous (bone, lung)
+Medullary Ca :: C cells; calcitonin; amyloid; RET (MEN2)
+Anaplastic Ca :: Elderly; TP53; uniformly fatal
+NIFTP :: Non-invasive follicular neoplasm with papillary-like nuclei (not carcinoma)
+Commonest primary HPT cause :: Single adenoma
+HPT commonest symptom :: Nephrolithiasis
+Secondary HPT cause :: CKD
+Pseudohypoparathyroidism :: GNAS; ↑ PTH, ↓ Ca; Albright osteodystrophy
+Hypercalcaemia inpatients vs outpatients :: Malignancy vs primary HPT
+DM diagnosis :: FPG ≥ 126; 2-h ≥ 200; HbA1c ≥ 6.5%
+T1DM HLA :: DR3/DR4 (DQ8)
+T1DM islet lesion :: Insulitis (CD8 T cells)
+T2DM islet lesion :: Amyloid (amylin)
+Commonest MODY :: HNF1α (MODY 3)
+Polyol pathway target :: Lens, nerves, retina (sorbitol)
+Most consistent diabetic microvascular lesion :: Basement membrane thickening
+Commonest cause of death in DM :: Myocardial infarction
+Commonest Cushing overall :: Exogenous steroids
+Commonest endogenous Cushing :: Pituitary adenoma (Cushing disease)
+Ectopic ACTH :: SCLC; no dexamethasone suppression
+Conn syndrome :: HTN + hypokalaemia; ↓ renin; KCNJ5 adenoma
+21-hydroxylase deficiency :: Salt wasting + virilization; ↑ 17-OHP
+11β-hydroxylase deficiency :: HTN + virilization
+Waterhouse–Friderichsen :: Meningococcal adrenal haemorrhage
+Addison India :: Tuberculosis
+Addison pigmentation :: ↑ ACTH/MSH
+Pheochromocytoma :: Zellballen; S100 sustentacular cells; metanephrines
+Neuroblastoma poor prognosis :: N-MYC amplification
+Neuroblastoma markers :: VMA, HVA; Homer Wright rosettes
+MEN 1 :: Parathyroid, pancreas, pituitary (menin)
+MEN 2A :: MTC, pheochromocytoma, parathyroid (RET)
+MEN 2B :: MTC, pheo, mucosal neuromas, marfanoid (RET M918T)
+
+@ch 23
+Red neurons :: Acute neuronal injury 12–24 h after hypoxia
+Gemistocytes :: Reactive astrocytes (gliosis)
+Rosenthal fibres :: Pilocytic astrocytoma, Alexander disease
+Alzheimer type II astrocytes :: Hyperammonaemia
+Vasogenic vs cytotoxic oedema :: BBB breakdown (tumours) vs cell injury (ischaemia)
+Uncal herniation :: CN III palsy, PCA infarct, Duret haemorrhages, Kernohan notch
+Tonsillar herniation :: Brainstem compression — death
+NPH triad :: Incontinence, gait apraxia, dementia
+Bacterial meningitis CSF :: Neutrophils, ↑↑ protein, ↓↓ glucose
+TB meningitis CSF :: Lymphocytes, very high protein, low glucose, ↑ ADA, cobweb
+GBS CSF :: Albuminocytologic dissociation
+Neonatal meningitis organisms :: GBS, E. coli, Listeria
+Adult meningitis commonest :: S. pneumoniae
+TB meningitis site :: Basal meninges; Rich focus; endarteritis
+Brain abscess commonest organism :: Streptococci
+HSV encephalitis :: Temporal lobes; haemorrhagic necrosis
+JE vector :: Culex mosquito; pigs amplify
+PML :: JC virus; oligodendrocyte inclusions; demyelination
+SSPE :: Measles; high CSF measles antibodies
+Prion disease :: Spongiform change; no inflammation; 14-3-3, RT-QuIC
+Global ischaemia vulnerable areas :: CA1, Purkinje, cortical layers 3, 5, 6
+Infarct macrophages :: Gitter cells (day 2–3 onward)
+Lacunar infarcts :: HTN; lipohyalinosis; deep nuclei
+HTN haemorrhage commonest site :: Putamen
+Lobar haemorrhage in elderly :: Cerebral amyloid angiopathy
+SAH commonest cause :: Ruptured berry aneurysm (ACom)
+Extradural haematoma :: Middle meningeal artery; lucid interval; biconvex
+Subdural haematoma :: Bridging veins; crescent; elderly, alcoholics
+Diffuse axonal injury :: Rotational; β-APP axonal swellings
+MS plaques :: Periventricular (Dawson fingers); oligoclonal bands
+NMO :: Anti-aquaporin-4
+Central pontine myelinolysis :: Rapid correction of hyponatraemia
+Alzheimer lesions :: Aβ plaques + tau tangles; hippocampus first
+Early-onset familial Alzheimer gene :: PSEN1 (chr 14)
+Pick disease :: Knife-edge frontotemporal atrophy; Pick bodies
+Parkinson :: Substantia nigra loss; Lewy bodies (α-synuclein)
+MSA inclusions :: Glial cytoplasmic (oligodendroglial) α-synuclein
+Huntington :: Caudate atrophy; CAG
+ALS :: UMN + LMN; TDP-43; spares eye & bladder
+Commonest adult CNS tumour :: Metastasis (lung)
+Commonest primary intracranial tumour :: Meningioma
+Glioblastoma :: Pseudopalisading necrosis; EGFR; MGMT methylation predicts response
+Oligodendroglioma :: Fried egg; 1p/19q; IDH-mutant
+Pilocytic astrocytoma :: Cerebellum; cyst + mural nodule; BRAF fusion
+Medulloblastoma :: Vermis; Homer Wright; WNT best, group 3 worst
+Ependymoma :: 4th ventricle; perivascular pseudorosettes
+Meningioma :: EMA, PR +; NF2; psammoma; dural tail
+Schwannoma :: Antoni A/B; Verocay; S100; NF2 bilateral vestibular
+Plexiform neurofibroma :: NF1
+Tuberous sclerosis :: TSC1/2; tubers, SEGA, angiofibromas, rhabdomyoma, AML
+VHL CNS tumour :: Haemangioblastoma
+Sturge–Weber :: GNAQ; port-wine stain; tram-track calcification
+GBS commonest trigger :: Campylobacter jejuni
+Onion bulbs :: Repeated demyelination (CMT1, CIDP)
+Duchenne :: Dystrophin frameshift; Gowers sign; calf pseudohypertrophy
+Becker :: In-frame deletion; milder
+Myotonic dystrophy :: CTG; myotonia, cataract, frontal balding
+Myasthenia :: Anti-AChR; decremental response; thymic hyperplasia
+Lambert–Eaton :: Anti-VGCC; incremental response; SCLC
+Dermatomyositis :: Perifascicular atrophy; malignancy
+Ragged red fibres :: Mitochondrial myopathy

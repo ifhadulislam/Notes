@@ -1,0 +1,239 @@
+@ch 07
+MHC I vs II presentation :: Class I → CD8 (cytosolic, all nucleated cells); class II → CD4 (APCs)
+HLA-B27 :: Ankylosing spondylitis, reactive & psoriatic arthritis, IBD arthritis
+HLA-DR4 :: Rheumatoid arthritis, T1DM, pemphigus vulgaris
+HLA-DQ2/DQ8 :: Coeliac disease
+HLA-B*57:01 :: Abacavir hypersensitivity
+Type I hypersensitivity :: IgE on mast cells — anaphylaxis, atopic asthma
+Type II examples :: AIHA, Goodpasture, Graves, MG, pemphigus, ARF, HDN
+Type III examples :: SLE, PSGN, PAN, serum sickness, Arthus
+Type IV examples :: Tuberculin, contact dermatitis, granulomas, T1DM, MS
+Serum sickness timing :: 5–10 days after foreign protein; ↓ C3
+Most specific SLE antibodies :: Anti-dsDNA, anti-Sm
+Drug-induced lupus antibody :: Anti-histone
+Neonatal heart block :: Maternal anti-Ro/SSA
+Anti-Scl-70 vs anti-centromere :: Diffuse SSc vs CREST
+Anti-Jo-1 :: Polymyositis/dermatomyositis (antisynthetase)
+Lupus nephritis class IV :: Diffuse proliferative, wire loops, full-house IF
+Hyperacute rejection :: Pre-formed antibodies — minutes
+Acute cellular rejection :: T cells — tubulitis, endotheliitis
+Chronic rejection :: Graft arteriosclerosis, fibrosis
+C4d :: Antibody-mediated rejection
+Prevent TA-GVHD :: Irradiation of blood products
+Bruton XLA :: BTK; no B cells; after 6 months; enterovirus, Giardia
+Commonest PID :: Selective IgA deficiency
+Hyper-IgM :: CD40L defect (X-linked); PCP, Cryptosporidium
+DiGeorge :: 22q11; thymic & parathyroid aplasia; conotruncal defects
+SCID commonest form :: X-linked IL-2Rγ (common γ chain); ADA deficiency (AR)
+Wiskott–Aldrich triad :: Thrombocytopenia (small platelets), eczema, infections
+Ataxia telangiectasia :: ATM; ataxia, telangiectasia, IgA ↓, ↑ AFP
+IPEX :: FOXP3 (Treg)
+ALPS :: Fas/FasL; double-negative T cells
+HIV receptor & co-receptors :: CD4 + CCR5 (early) / CXCR4 (late)
+Commonest OI in Indian AIDS :: Tuberculosis
+PCP prophylaxis threshold :: CD4 < 200/µL
+CMV retinitis, MAC threshold :: CD4 < 50/µL
+Diagnosis of HIV in infants :: HIV DNA/RNA PCR (antibody unreliable < 18 months)
+PEP regimen :: TDF + 3TC + DTG × 28 days, within 72 h
+
+@ch 08
+Ghon complex :: Subpleural Ghon focus + hilar node
+Secondary TB site :: Lung apex (Simon/Assmann focus) — cavitation
+Rasmussen aneurysm :: Pulmonary artery in TB cavity → haemoptysis
+Commonest extrapulmonary TB :: Lymph node (cervical)
+CBNAAT detects :: M. tuberculosis + rpoB (rifampicin resistance)
+IGRA advantage :: ESAT-6/CFP-10 — unaffected by BCG
+Lepromatous vs tuberculoid :: Th2, lepromin −, globi / Th1, lepromin +, granulomas
+Grenz zone :: Lepromatous leprosy
+ENL :: Type 2 lepra reaction (immune complex); thalidomide
+Typhoid ulcers :: Longitudinal over Peyer patches; perforate in week 3
+Typhoid test per week :: Blood → Widal → stool → urine (BASU)
+Diphtheria toxin :: ADP-ribosylates EF-2; myocarditis kills
+Shigella colitis :: Rectosigmoid, superficial ulcers, HUS
+Syphilis tertiary aorta :: Tree-bark aorta; obliterative endarteritis of vasa vasorum
+Hutchinson triad :: Notched incisors, interstitial keratitis, 8th nerve deafness
+Negri bodies :: Rabies — Purkinje & hippocampal neurons (cytoplasmic)
+Owl-eye inclusions :: CMV
+Warthin–Finkeldey cells :: Measles
+Tzanck 3 Ms :: Multinucleation, moulding, margination — HSV/VZV
+Koilocytes :: HPV
+Molluscum bodies :: Molluscum contagiosum (cytoplasmic)
+Parvovirus B19 :: Giant pronormoblasts; aplastic crisis; hydrops
+Scrub typhus :: Orientia tsutsugamushi; eschar; Weil–Felix OX-K
+LGV :: C. trachomatis L1–L3; stellate granulomas; groove sign
+Aspergillus :: Septate, acute-angle (45°) branching
+Mucor :: Aseptate ribbon-like, 90° branching; DKA
+Cryptococcus :: India ink capsule; mucicarmine +
+Pneumocystis :: Foamy alveolar exudate; GMS cups
+Rhinosporidiosis :: Sporangia with endospores; nasal polyps
+Mycetoma triad :: Swelling, sinuses, grains
+Cerebral malaria mechanism :: PfEMP1 cytoadherence to ICAM-1 → sequestration
+Amoebic ulcer :: Flask-shaped; caecum; RBC-ingesting trophozoites
+LD bodies :: Leishmania amastigotes in macrophages (kala-azar)
+Hydatid cyst layers :: Pericyst, laminated membrane, germinal layer + protoscolices
+Schistosoma haematobium :: Bladder SCC
+
+@ch 09
+AD vs AR :: AD structural / receptor proteins; AR enzymes
+X-linked dominant examples :: Hypophosphataemic rickets, Rett, (fragile X), Alport
+Mitochondrial disorders :: LHON, MELAS, MERRF, Kearns–Sayre (maternal)
+Marfan gene & death :: FBN1; aortic dissection
+Familial hypercholesterolaemia :: LDL receptor defect (AD)
+Cystic fibrosis commonest mutation :: ΔF508 (misfolding, class 2)
+Tay–Sachs :: Hexosaminidase A; cherry-red spot, no organomegaly
+Niemann–Pick :: Sphingomyelinase; cherry-red spot + hepatosplenomegaly
+Gaucher :: Glucocerebrosidase; crumpled tissue-paper cells
+Fabry :: α-galactosidase A (X-linked); angiokeratomas
+Hurler vs Hunter :: AR, corneal clouding vs X-linked, no clouding
+Von Gierke :: Glucose-6-phosphatase; severe fasting hypoglycaemia
+Pompe :: Lysosomal acid maltase; cardiomegaly
+McArdle :: Muscle phosphorylase; no lactate rise
+Fragile X :: CGG (FMR1); macro-orchidism; maternal anticipation
+Huntington :: CAG; paternal anticipation
+Myotonic dystrophy :: CTG (DMPK)
+Friedreich ataxia :: GAA (frataxin), AR
+Down syndrome commonest cause :: Maternal meiotic non-disjunction
+Down screening (2nd trimester) :: ↑ hCG, ↑ inhibin A, ↓ AFP, ↓ estriol
+Edwards :: Trisomy 18 — rocker-bottom feet, clenched fists
+Patau :: Trisomy 13 — cleft lip, holoprosencephaly, polydactyly
+Klinefelter :: 47,XXY; ↑ FSH/LH, ↓ testosterone; Barr body +
+Turner :: 45,X; coarctation, bicuspid AV, streak ovaries, horseshoe kidney
+Prader–Willi vs Angelman :: Paternal vs maternal 15q11–13 loss
+Marasmus vs kwashiorkor :: Calorie vs protein; no oedema vs oedema + fatty liver
+Earliest vitamin A deficiency sign :: Night blindness
+Rickets earliest sign :: Craniotabes
+Scurvy :: Perifollicular haemorrhages, corkscrew hairs, bleeding gums
+Wernicke encephalopathy :: Thiamine; mammillary body haemorrhage
+Pellagra 3 Ds :: Dermatitis, diarrhoea, dementia (niacin)
+Most radiosensitive cell :: Lymphocyte
+Radiosensitive tumours :: Seminoma, dysgerminoma, lymphoma, Ewing
+Hemosiderin stain :: Perls Prussian blue
+Melanin bleaching :: H₂O₂ / KMnO₄; Masson-Fontana stains black
+Ochronosis :: Alkaptonuria (homogentisate oxidase)
+Hereditary haemochromatosis :: HFE C282Y; bronze diabetes; ↑ transferrin saturation
+Lead poisoning :: Basophilic stippling, ↑ ZPP, Burton line, wrist drop
+
+@ch 10
+Earliest atherosclerotic lesion :: Fatty streak
+Commonest site of atherosclerosis :: Abdominal aorta (infrarenal)
+Vulnerable plaque :: Thin cap, large lipid core, many macrophages
+Mönckeberg sclerosis :: Medial calcification; lumen not narrowed
+Hyaline arteriolosclerosis :: Benign HTN, diabetes
+Hyperplastic (onion-skin) arteriolosclerosis :: Malignant HTN
+Cystic medial degeneration :: Marfan, HTN → dissection
+Stanford type A dissection :: Ascending aorta — surgery
+Berry aneurysm commonest site :: Anterior communicating artery
+Charcot–Bouchard aneurysm :: Lenticulostriate arteries — HTN haemorrhage
+Giant cell arteritis :: Elderly; temporal artery; jaw claudication, blindness; ↑ ESR
+Takayasu :: Young Asian women; pulseless; aortic arch
+PAN :: HBV; medium arteries; spares lungs; lesions of different ages
+Kawasaki :: Children; coronary aneurysms; IVIG + aspirin
+Buerger disease :: Smokers; segmental thrombosing vasculitis incl. veins & nerves
+c-ANCA / p-ANCA :: GPA (PR3) / MPA, EGPA, UC (MPO)
+HSP :: IgA vasculitis; palpable purpura buttocks
+Kaposi sarcoma :: HHV-8; spindle cells, slit-like spaces
+LAD territory :: Anterior LV, anterior 2/3 septum, apex
+RCA territory :: Inferior LV, posterior 1/3 septum, RV; SA/AV nodes
+MI : neutrophils peak :: 1–3 days
+MI : rupture risk peak :: 3–7 days
+MI : granulation tissue :: 7–14 days
+Earliest MI marker :: Myoglobin (1–2 h)
+Best marker for re-infarction :: CK-MB
+Dressler syndrome :: Autoimmune pericarditis 2–10 weeks post-MI
+Jones major criteria :: Joints, carditis, nodules, erythema marginatum, Sydenham chorea
+Aschoff body :: Fibrinoid necrosis + Anitschkow cells (pathognomonic RF)
+MacCallum plaque :: Left atrial subendocardial lesion in RF
+Commonest valve in RHD :: Mitral (fish-mouth stenosis)
+Acute IE organism :: S. aureus (normal valves; tricuspid in IVDU)
+Subacute IE organism :: Viridans streptococci (damaged valves)
+Culture-negative IE :: HACEK, Coxiella, Bartonella
+Libman–Sacks :: SLE; sterile vegetations both surfaces
+NBTE :: Mucin-secreting adenocarcinoma; sterile bland vegetations
+Carcinoid heart :: Right-sided valve plaques
+HCM :: MYH7/MYBPC3; myocyte disarray; sudden death in athletes
+DCM causes :: Genetic (TTN), alcohol, Coxsackie B, doxorubicin, peripartum
+RCM commonest cause :: Amyloidosis
+ARVC :: Desmosomal genes; fibrofatty RV
+Myxoma :: Left atrium; ball-valve; Carney complex
+Commonest CHD :: VSD
+Commonest cyanotic CHD :: Tetralogy of Fallot
+Eisenmenger :: Shunt reversal from pulmonary HTN
+
+@ch 11
+Acinus :: Respiratory bronchiole + alveolar ducts + sacs (distal to terminal bronchiole)
+Type II pneumocyte :: Surfactant (lamellar bodies); stem cell for type I
+Centriacinar emphysema :: Smoking, upper lobes, respiratory bronchioles
+Panacinar emphysema :: α1-AT deficiency, lower lobes
+Paraseptal emphysema :: Spontaneous pneumothorax (young)
+α1-AT genotype :: Normal PiMM; disease PiZZ (chromosome 14)
+α1-AT liver biopsy :: PAS +, diastase-resistant globules (periportal)
+Chronic bronchitis definition :: Productive cough ≥ 3 months in 2 consecutive years
+Reid index normal :: 0.4 (↑ in chronic bronchitis)
+Asthma sputum :: Curschmann spirals, Charcot–Leyden crystals, Creola bodies
+Asthma remodelling :: Thick basement membrane, SMC hypertrophy, gland hyperplasia
+Kartagener :: Dynein defect; situs inversus + bronchiectasis + sinusitis
+ABPA bronchiectasis :: Central/proximal
+Lobar pneumonia stages :: Congestion → red → grey hepatization → resolution
+Commonest atypical pneumonia :: Mycoplasma (cold agglutinins)
+Aspiration abscess site :: Right lung — posterior upper / superior lower segments
+HMD membranes :: Fibrin + necrotic epithelium (surfactant deficiency)
+Lung maturity test :: L/S ratio ≥ 2; phosphatidylglycerol
+UIP pattern :: IPF — temporal heterogeneity, fibroblastic foci, honeycombing
+Masson bodies :: Cryptogenic organizing pneumonia
+Sarcoid bodies :: Asteroid & Schaumann bodies; ↑ ACE
+Silicotic nodule :: Concentric hyalinized collagen; eggshell nodes; ↑ TB
+Asbestos commonest lesion :: Pleural plaques
+Asbestos body :: Golden-brown beaded rods (Prussian blue +)
+Caplan syndrome :: RA + pneumoconiosis
+Commonest lung cancer :: Adenocarcinoma
+Strongest smoking association :: Squamous & small cell carcinoma
+EGFR-mutant lung Ca :: Asian non-smoking women — adenocarcinoma
+SCLC genetics :: RB1 + TP53 loss
+Pancoast tumour :: Horner + C8–T1 pain
+Pulmonary hamartoma :: Popcorn calcification; cartilage
+Mesothelioma :: Asbestos; calretinin, WT1; BAP1 loss
+
+@ch 12
+RBC casts :: Glomerulonephritis
+WBC casts :: Pyelonephritis / interstitial nephritis
+Maltese cross :: Oval fat bodies — nephrotic syndrome
+Muddy brown casts :: ATN
+Nephrotic proteinuria :: > 3.5 g/day
+Minimal change :: Children; foot process effacement; steroid-responsive
+FSGS associations :: HIV (collapsing), heroin, APOL1, obesity
+Membranous nephropathy :: Anti-PLA2R; subepithelial spikes; renal vein thrombosis
+MPGN :: Tram-track GBM; HCV; ↓ C3
+Dense deposit disease :: C3 nephritic factor; ribbon-like deposits
+PSGN :: Subepithelial humps; ↓ C3; 1–4 weeks after pharyngitis
+IgA nephropathy :: Haematuria 1–2 days after URTI; mesangial IgA; normal C3
+Alport :: COL4A5; haematuria + deafness + lenticonus; basket-weave GBM
+RPGN type I/II/III :: Anti-GBM linear / immune complex granular / pauci-immune ANCA
+Crescents composed of :: Parietal epithelium + macrophages + fibrin
+Earliest diabetic renal change :: GBM thickening; microalbuminuria clinically
+Kimmelstiel–Wilson :: Nodular glomerulosclerosis — diabetes
+Armanni–Ebstein :: Glycogen in tubules — diabetes
+ATN most vulnerable segment :: Straight PCT (S3) and thick ascending limb
+Acute cortical necrosis :: Abruptio placentae; bilateral cortical infarction
+Chronic pyelonephritis :: Coarse scars over blunted calyces; thyroidization
+Papillary necrosis causes :: POSTCARDS
+Drug AIN :: Fever, rash, eosinophiluria
+Flea-bitten kidney :: Malignant HTN (also IE)
+Fibromuscular dysplasia :: Young women; string of beads
+ADPKD :: PKD1 (chr 16); berry aneurysm; liver cysts
+ARPKD :: PKHD1; radial cysts; congenital hepatic fibrosis
+Commonest stone :: Calcium oxalate
+Staghorn :: Struvite (Proteus)
+Radiolucent stone :: Uric acid
+Hexagonal crystals :: Cystine
+Clear cell RCC :: VHL (3p); golden yellow; chicken-wire vessels
+Papillary RCC :: MET; trisomy 7, 17
+Chromophobe RCC :: Raisinoid nuclei; Hale colloidal iron +
+Oncocytoma :: Mahogany brown; central scar
+Angiomyolipoma :: Tuberous sclerosis; HMB-45 +
+Wilms triphasic :: Blastema, stroma, epithelium
+WAGR / Denys–Drash / BWS :: WT1 deletion / WT1 point mutation / WT2 (IGF2)
+Bladder Ca commonest risk :: Smoking
+Bladder SCC :: Schistosoma haematobium
+Cyclophosphamide bladder :: Haemorrhagic cystitis (acrolein; MESNA)
+Malakoplakia :: von Hansemann histiocytes + Michaelis–Gutmann bodies
+Renal TB :: Sterile pyuria; putty kidney; thimble bladder

@@ -1,0 +1,846 @@
+@ch 17
+Q: In Dubin–Johnson syndrome, the defect lies in:
+A) UGT1A1
+B) MRP2 canalicular transporter
+C) OATP1B1
+D) Bilirubin uptake
+ANS: B
+EX: Dubin–Johnson (MRP2/ABCC2) causes conjugated hyperbilirubinaemia with a black liver and raised urinary coproporphyrin I.
+
+Q: Gilbert syndrome is due to:
+A) Absent UGT1A1
+B) Reduced UGT1A1 activity (promoter TATA-box polymorphism)
+C) MRP2 defect
+D) Haemolysis
+ANS: B
+EX: Gilbert syndrome is a mild unconjugated hyperbilirubinaemia brought on by fasting or stress. It affects 3–10% and is benign.
+
+Q: The most common cause of acute viral hepatitis and acute liver failure in India is:
+A) HAV
+B) HBV
+C) HEV
+D) HCV
+ANS: C
+EX: HEV is water-borne, causes epidemics and has 20% mortality in pregnant women.
+
+Q: During the window period of acute HBV infection, the only positive marker is:
+A) HBsAg
+B) Anti-HBs
+C) IgM anti-HBc
+D) HBeAg
+ANS: C
+EX: After HBsAg clears and before anti-HBs appears, only IgM anti-HBc is positive.
+
+Q: Ground-glass hepatocytes are seen in:
+A) HCV
+B) HBV
+C) Autoimmune hepatitis
+D) Wilson disease
+ANS: B
+EX: HBsAg accumulating in the smooth ER gives a ground-glass look (orcein/Shikata positive).
+
+Q: Lymphoid aggregates in portal tracts with macrovesicular steatosis are suggestive of:
+A) HBV
+B) HCV
+C) Alcohol
+D) PBC
+ANS: B
+EX: Chronic HCV shows portal lymphoid follicles, bile duct damage and steatosis (genotype 3).
+
+Q: Mallory–Denk bodies are composed of:
+A) Immunoglobulin
+B) Cytokeratin 8 and 18
+C) Apoptotic hepatocytes
+D) Copper
+ANS: B
+EX: They are tangled intermediate filaments seen in alcoholic hepatitis, NASH, Wilson disease and PBC.
+
+Q: Kayser–Fleischer rings are due to copper deposition in:
+A) Bowman membrane
+B) Descemet membrane
+C) Lens
+D) Retina
+ANS: B
+EX: In Wilson disease (ATP7B, chr 13), copper deposits in Descemet membrane. Ceruloplasmin is low and urinary copper high.
+
+Q: The most common cause of portal hypertension in Indian children is:
+A) Cirrhosis
+B) Extrahepatic portal vein obstruction
+C) NCPF
+D) Budd–Chiari
+ANS: B
+EX: EHPVO (portal cavernoma) is the commonest cause in Indian children. NCPF affects young adults.
+
+Q: Antimitochondrial antibodies (M2) are characteristic of:
+A) PSC
+B) Primary biliary cholangitis
+C) Autoimmune hepatitis
+D) Wilson disease
+ANS: B
+EX: PBC affects middle-aged women. It destroys small intrahepatic ducts with florid duct lesions and is treated with UDCA.
+
+Q: Fibrolamellar carcinoma of liver is characterized by:
+A) Cirrhosis background and high AFP
+B) Young adults, no cirrhosis, normal AFP, DNAJB1-PRKACA fusion
+C) Vinyl chloride exposure
+D) Hepatitis B in all cases
+ANS: B
+EX: Fibrolamellar HCC shows large oncocytic cells in lamellar collagen and has a better prognosis.
+
+Q: The most important risk factor for gallbladder carcinoma is:
+A) Porcelain gallbladder
+B) Gallstones
+C) Typhoid carrier
+D) Polyps
+ANS: B
+EX: Gallstones are present in about 95% of cases. India's Gangetic belt has among the highest incidence.
+
+Q: Rokitansky–Aschoff sinuses are seen in:
+A) Acute cholecystitis
+B) Chronic cholecystitis
+C) Cholesterolosis
+D) Gallbladder carcinoma
+ANS: B
+EX: In chronic cholecystitis, mucosa herniates through the thickened muscle wall.
+
+Q: Hepatocellular adenoma with highest risk of malignant transformation is the:
+A) HNF1α-inactivated type
+B) β-catenin-activated type
+C) Inflammatory type
+D) Unclassified
+ANS: B
+EX: β-catenin-activated adenomas carry the highest HCC risk. Adenomas are linked with OCPs and anabolic steroids.
+
+@ch 18
+Q: Reactive follicular hyperplasia differs from follicular lymphoma in having:
+A) BCL-2-positive germinal centres
+B) Tingible-body macrophages and polarized germinal centres
+C) Back-to-back uniform follicles
+D) Monoclonal light chains
+ANS: B
+EX: Reactive follicles vary in size, have mantle zones, tingible-body macrophages and BCL-2-negative germinal centres.
+
+Q: Piringer–Kuchinka lymphadenitis is caused by:
+A) Toxoplasma
+B) Bartonella
+C) TB
+D) EBV
+ANS: A
+EX: The triad is follicular hyperplasia, small epithelioid clusters and monocytoid B-cell hyperplasia.
+
+Q: The most common subtype of Hodgkin lymphoma overall is:
+A) Mixed cellularity
+B) Nodular sclerosis
+C) Lymphocyte depleted
+D) NLPHL
+ANS: B
+EX: Nodular sclerosis has lacunar cells and collagen bands, and affects young women with mediastinal disease. Mixed cellularity is commoner in India and is EBV+.
+
+Q: Reed–Sternberg cells are classically positive for:
+A) CD45 and CD20
+B) CD15 and CD30
+C) CD3 and CD5
+D) CD10 and BCL6
+ANS: B
+EX: Classical RS cells are CD15+, CD30+, PAX5 weak and CD45−. NLPHL popcorn cells are CD20+ and CD45+.
+
+Q: "Popcorn" cells are seen in:
+A) Nodular sclerosis HL
+B) Nodular lymphocyte-predominant HL
+C) Burkitt lymphoma
+D) ALCL
+ANS: B
+EX: LP cells are CD20+, BCL6+, CD15− and CD30−.
+
+Q: t(8;14) with a starry-sky pattern and Ki-67 near 100% indicates:
+A) DLBCL
+B) Burkitt lymphoma
+C) Mantle cell lymphoma
+D) Follicular lymphoma
+ANS: B
+EX: MYC translocation drives the fastest-growing human tumour. The endemic (EBV) form affects the jaw.
+
+Q: Cyclin D1 positivity in a CD5+ lymphoma indicates:
+A) CLL/SLL
+B) Mantle cell lymphoma
+C) Hairy cell leukaemia
+D) Marginal zone lymphoma
+ANS: B
+EX: Mantle cell lymphoma is t(11;14) CCND1, CD5+, CD23− and SOX11+, and can cause lymphomatous polyposis.
+
+Q: ALK-positive anaplastic large cell lymphoma carries:
+A) t(2;5) NPM-ALK
+B) t(11;18)
+C) t(14;18)
+D) t(9;22)
+ANS: A
+EX: Hallmark cells are CD30+. ALK+ ALCL occurs in young patients and has a better prognosis.
+
+Q: Langerhans cell histiocytosis cells show all EXCEPT:
+A) CD1a
+B) Langerin (CD207)
+C) Birbeck granules
+D) CD30 and CD15
+ANS: D
+EX: LCH cells are CD1a+, CD207+ and S100+ with tennis-racket Birbeck granules. BRAF V600E is present in about 50%.
+
+Q: Hand–Schüller–Christian triad includes all EXCEPT:
+A) Calvarial defects
+B) Diabetes insipidus
+C) Exophthalmos
+D) Hepatosplenomegaly
+ANS: D
+EX: The triad is skull lesions, DI and exophthalmos. Hepatosplenomegaly is a feature of Letterer–Siwe disease.
+
+Q: Massive splenomegaly is NOT a feature of:
+A) CML
+B) Kala-azar
+C) Myelofibrosis
+D) Infectious mononucleosis
+ANS: D
+EX: IM causes mild to moderate splenomegaly with risk of rupture. CML, kala-azar, myelofibrosis, malaria, thalassaemia and Gaucher disease give massive spleens.
+
+Q: The most common anterior mediastinal mass in adults is:
+A) Teratoma
+B) Thymoma
+C) Lymphoma
+D) Retrosternal goitre
+ANS: B
+EX: Thymoma is linked with myasthenia gravis, pure red cell aplasia and hypogammaglobulinaemia (Good syndrome).
+
+@ch 19
+Q: HPV E6 protein causes:
+A) RB inactivation
+B) p53 degradation
+C) Telomerase inhibition
+D) EGFR activation
+ANS: B
+EX: E6 (through E6AP) degrades p53, while E7 inactivates RB. p16 overexpression is a surrogate marker for high-risk HPV.
+
+Q: The earliest histological evidence of ovulation in endometrium is:
+A) Supranuclear vacuoles
+B) Subnuclear vacuoles
+C) Predecidual change
+D) Saw-tooth glands
+ANS: B
+EX: Subnuclear vacuoles appear on day 16–17 (48 h after ovulation).
+
+Q: Arias-Stella reaction is seen in:
+A) Endometrial carcinoma
+B) Pregnancy (intrauterine or ectopic)
+C) Endometrial hyperplasia
+D) Endometriosis
+ANS: B
+EX: Hypersecretory glands with large hyperchromatic nuclei are a gestational hormonal effect.
+
+Q: Plasma cells in endometrial stroma are diagnostic of:
+A) Acute endometritis
+B) Chronic endometritis
+C) Endometrial hyperplasia
+D) Adenomyosis
+ANS: B
+EX: Plasma cells are not normally present in the endometrium.
+
+Q: Type II (serous) endometrial carcinoma is characterized by:
+A) PTEN mutation and unopposed estrogen
+B) TP53 mutation in atrophic endometrium of older women
+C) Good prognosis
+D) Atypical hyperplasia precursor
+ANS: B
+EX: Serous carcinoma arises from SEIC, spreads to the peritoneum early and has a poor prognosis.
+
+Q: Most common degeneration in leiomyoma is:
+A) Red degeneration
+B) Hyaline degeneration
+C) Cystic degeneration
+D) Sarcomatous change
+ANS: B
+EX: Hyaline degeneration is the commonest. Red (carneous) degeneration occurs in pregnancy.
+
+Q: Complete hydatidiform mole has karyotype:
+A) 69,XXY
+B) 46,XX (androgenetic)
+C) 47,XXY
+D) 45,X
+ANS: B
+EX: A complete mole is an empty egg fertilized by one sperm that duplicates. It has no fetal parts and is p57-negative. A partial mole is triploid.
+
+Q: Choriocarcinoma is characterized by:
+A) Hydropic villi invading myometrium
+B) Cytotrophoblast and syncytiotrophoblast without villi
+C) Intermediate trophoblast with high hPL
+D) Schiller–Duval bodies
+ANS: B
+EX: Gestational choriocarcinoma spreads haematogenously to the lungs early, has very high hCG and is chemosensitive.
+
+Q: The most common ovarian tumour overall is:
+A) Serous cystadenoma
+B) Mature cystic teratoma
+C) Dysgerminoma
+D) Granulosa cell tumour
+ANS: B
+EX: The dermoid cyst contains hair, sebum and teeth, and torsion is its commonest complication.
+
+Q: Call–Exner bodies are characteristic of:
+A) Yolk sac tumour
+B) Granulosa cell tumour
+C) Sertoli–Leydig tumour
+D) Brenner tumour
+ANS: B
+EX: Adult granulosa cell tumour (FOXL2) has follicle-like spaces and coffee-bean nuclei, produces estrogen and is inhibin+.
+
+Q: Schiller–Duval bodies are seen in:
+A) Dysgerminoma
+B) Yolk sac tumour
+C) Choriocarcinoma
+D) Embryonal carcinoma
+ANS: B
+EX: Glomeruloid structures with a central vessel are seen in yolk sac tumour, which raises AFP and has hyaline globules.
+
+Q: Meigs syndrome includes ovarian fibroma, ascites and:
+A) Left pleural effusion
+B) Right hydrothorax
+C) Pericardial effusion
+D) Hypercalcaemia
+ANS: B
+EX: The effusions resolve after the fibroma is removed.
+
+Q: High-grade serous ovarian carcinoma is thought to originate from:
+A) Ovarian surface inclusion cysts only
+B) Fallopian tube fimbria (STIC)
+C) Endometriosis
+D) Germ cells
+ANS: B
+EX: HGSC has TP53 mutation in about 100% and BRCA association, and responds to PARP inhibitors.
+
+Q: The most common benign breast tumour in young women is:
+A) Intraductal papilloma
+B) Fibroadenoma
+C) Phyllodes tumour
+D) Lipoma
+ANS: B
+EX: Fibroadenoma is a mobile "breast mouse" with MED12 mutations and intra/pericanalicular patterns.
+
+Q: E-cadherin loss with single-file infiltration is characteristic of:
+A) Invasive ductal carcinoma NST
+B) Invasive lobular carcinoma
+C) Medullary carcinoma
+D) Mucinous carcinoma
+ANS: B
+EX: Lobular carcinoma (CDH1) is often bilateral and multicentric, and metastasizes to the peritoneum, GIT and ovaries.
+
+Q: The most important prognostic factor in breast cancer without distant metastasis is:
+A) Tumour size
+B) Axillary lymph node status
+C) ER status
+D) Grade
+ANS: B
+EX: Nodal status is the single most important prognostic factor.
+
+Q: Paget disease of the nipple is almost always associated with:
+A) No underlying lesion
+B) Underlying DCIS or invasive carcinoma
+C) Fibroadenoma
+D) Duct ectasia
+ANS: B
+EX: Malignant cells extend from underlying DCIS into the nipple epidermis. Extramammary (vulval) Paget usually lacks an underlying cancer.
+
+Q: The commonest site of tuberculosis in the female genital tract is:
+A) Ovary
+B) Fallopian tube
+C) Cervix
+D) Endometrium
+ANS: B
+EX: The tubes are involved in nearly 100% of genital TB, causing infertility. The endometrium is involved in 50–60%; biopsy in the premenstrual phase.
+
+@ch 20
+Q: Most important risk factor for carcinoma penis is:
+A) HPV 6
+B) Lack of circumcision
+C) Smoking
+D) Trauma
+ANS: B
+EX: Smegma, phimosis and poor hygiene in uncircumcised men are the key factors. HPV 16/18 is found in about 50%.
+
+Q: Seminoma is NOT associated with:
+A) PLAP and OCT3/4 positivity
+B) Raised AFP
+C) Lymphocytic infiltrate in fibrous septa
+D) Radiosensitivity
+ANS: B
+EX: Pure seminoma never raises AFP. A raised AFP means a non-seminomatous component.
+
+Q: The most common testicular tumour in men over 60 years is:
+A) Seminoma
+B) Spermatocytic tumour
+C) Lymphoma (DLBCL)
+D) Leydig cell tumour
+ANS: C
+EX: Lymphoma (often bilateral) is commonest in the elderly. Spermatocytic tumour also occurs in older men but is rare.
+
+Q: The most important risk factor for testicular germ cell tumours is:
+A) Mumps orchitis
+B) Cryptorchidism
+C) Varicocele
+D) Trauma
+ANS: B
+EX: Cryptorchidism raises risk 3–5×, including in the contralateral testis. Nearly all GCTs carry i(12p).
+
+Q: Diagnosis of prostatic adenocarcinoma is supported by:
+A) Presence of basal cell layer
+B) Absence of basal cells (p63/HMWCK negative) and AMACR positivity
+C) Corpora amylacea
+D) Two-cell-layered glands
+ANS: B
+EX: Malignant glands lack basal cells, have prominent nucleoli and show perineural invasion (diagnostic).
+
+Q: Gleason score 4+3 corresponds to ISUP Grade Group:
+A) 1
+B) 2
+C) 3
+D) 4
+ANS: C
+EX: Grade groups: GG1 ≤ 6; GG2 3+4; GG3 4+3; GG4 8; GG5 9–10.
+
+Q: BPH arises predominantly in the:
+A) Peripheral zone
+B) Transition zone
+C) Central zone
+D) Anterior fibromuscular stroma
+ANS: B
+EX: BPH arises in the transition and periurethral zones. Carcinoma arises mostly in the peripheral zone.
+
+Q: Reinke crystals are seen in:
+A) Sertoli cell tumour
+B) Leydig cell tumour
+C) Seminoma
+D) Yolk sac tumour
+ANS: B
+EX: Leydig cell tumours can produce androgens or estrogens, causing precocious puberty or gynaecomastia.
+
+@ch 21
+Q: Sequestrum in osteomyelitis refers to:
+A) New bone around dead bone
+B) Dead bone
+C) Sinus tract
+D) Brodie abscess
+ANS: B
+EX: The sequestrum is dead bone. The involucrum is reactive new bone around it, and the cloaca is the opening of a sinus tract.
+
+Q: Salmonella osteomyelitis is characteristically associated with:
+A) Diabetes
+B) Sickle cell disease
+C) IV drug use
+D) Neonates
+ANS: B
+EX: Sickle cell disease predisposes to Salmonella osteomyelitis, although S. aureus is still common overall.
+
+Q: Pott disease most commonly involves:
+A) Cervical spine
+B) Thoracolumbar spine
+C) Sacrum
+D) Skull
+ANS: B
+EX: TB of the spine destroys the disc and anterior vertebral bodies, producing gibbus, cold (psoas) abscess and paraplegia.
+
+Q: Isolated markedly raised alkaline phosphatase with normal calcium and phosphate in an elderly man with bone pain suggests:
+A) Osteoporosis
+B) Paget disease
+C) Primary hyperparathyroidism
+D) Osteomalacia
+ANS: B
+EX: Paget disease shows mosaic bone, huge osteoclasts and a risk of osteosarcoma.
+
+Q: Brown tumours are seen in:
+A) Paget disease
+B) Hyperparathyroidism
+C) Fibrous dysplasia
+D) Osteopetrosis
+ANS: B
+EX: Brown tumours are reactive (osteitis fibrosa cystica): osteoclasts with haemorrhage and hemosiderin.
+
+Q: The most common benign bone tumour is:
+A) Osteoid osteoma
+B) Osteochondroma
+C) Enchondroma
+D) Giant cell tumour
+ANS: B
+EX: Osteochondroma has a cartilage cap and continuous medullary cavity and grows away from the joint (EXT1/2).
+IMG: gen/bone-sites.svg
+
+Q: Nocturnal pain relieved by aspirin with a < 2 cm radiolucent nidus suggests:
+A) Osteoblastoma
+B) Osteoid osteoma
+C) Brodie abscess
+D) Ewing sarcoma
+ANS: B
+EX: The PGE₂-producing nidus sits in the diaphyseal cortex. Osteoblastoma is > 2 cm in the vertebrae and is not relieved by aspirin.
+
+Q: Codman triangle and sunburst appearance are typical of:
+A) Ewing sarcoma
+B) Osteosarcoma
+C) Chondrosarcoma
+D) Giant cell tumour
+ANS: B
+EX: Osteosarcoma occurs in the metaphysis around the knee in teenagers. Malignant osteoid is diagnostic.
+
+Q: Giant cell tumour of bone typically occurs in:
+A) Metaphysis of children
+B) Epiphysis of adults 20–40 years
+C) Diaphysis of children
+D) Vertebral bodies of elderly
+ANS: B
+EX: GCT is an epiphyseal soap-bubble lesion with H3F3A G34W. Its stromal cells express RANKL, so denosumab is used.
+
+Q: EWSR1-FLI1 fusion is characteristic of:
+A) Synovial sarcoma
+B) Ewing sarcoma
+C) Clear cell sarcoma
+D) Myxoid liposarcoma
+ANS: B
+EX: Ewing sarcoma has t(11;22); synovial sarcoma t(X;18); clear cell sarcoma EWSR1-ATF1; myxoid liposarcoma FUS-DDIT3.
+
+Q: Negatively birefringent needle-shaped crystals in synovial fluid indicate:
+A) Pseudogout
+B) Gout
+C) Hydroxyapatite deposition
+D) Cholesterol crystals
+ANS: B
+EX: Monosodium urate crystals are needle-shaped and strongly negatively birefringent. CPPD crystals are rhomboid and weakly positive.
+
+Q: Pannus formation is the hallmark of:
+A) Osteoarthritis
+B) Rheumatoid arthritis
+C) Gout
+D) Septic arthritis
+ANS: B
+EX: Proliferating inflamed synovium erodes cartilage and bone. Anti-CCP is the most specific test.
+
+Q: The most specific marker for synovial sarcoma is:
+A) CD99
+B) TLE1 (with SS18-SSX fusion)
+C) S100
+D) Desmin
+ANS: B
+EX: Synovial sarcoma, despite its name, does not arise from synovium. It is often biphasic and keratin/EMA positive.
+
+@ch 22
+Q: The most common pituitary adenoma is:
+A) Somatotroph
+B) Prolactinoma
+C) Corticotroph
+D) Gonadotroph
+ANS: B
+EX: Prolactinoma causes galactorrhoea and amenorrhoea and responds to dopamine agonists.
+
+Q: Failure of lactation after severe postpartum haemorrhage indicates:
+A) Sheehan syndrome
+B) Empty sella
+C) Lymphocytic hypophysitis
+D) Pituitary apoplexy
+ANS: A
+EX: Postpartum ischaemic necrosis of the enlarged pituitary causes Sheehan syndrome.
+
+Q: Hürthle cells with lymphoid follicles in a diffusely enlarged painless goitre suggest:
+A) Graves disease
+B) Hashimoto thyroiditis
+C) De Quervain thyroiditis
+D) Riedel thyroiditis
+ANS: B
+EX: Hashimoto thyroiditis (anti-TPO) is the commonest cause of hypothyroidism in iodine-sufficient areas and raises the risk of MALT lymphoma.
+
+Q: Painful tender thyroid with raised ESR after a viral illness and low radioiodine uptake indicates:
+A) Hashimoto
+B) Subacute granulomatous (de Quervain) thyroiditis
+C) Graves
+D) Riedel
+ANS: B
+EX: Granulomatous inflammation with giant cells engulfing colloid causes transient thyrotoxicosis followed by hypothyroidism.
+
+Q: Diagnosis of papillary thyroid carcinoma rests on:
+A) Capsular invasion
+B) Nuclear features (ground-glass, grooves, pseudo-inclusions)
+C) Amyloid stroma
+D) Raised calcitonin
+ANS: B
+EX: PTC is defined by its nuclear features. It is the commonest thyroid cancer, has BRAF V600E and spreads to lymph nodes.
+
+Q: Follicular carcinoma cannot be diagnosed on FNAC because:
+A) Cells are too few
+B) Diagnosis requires capsular/vascular invasion
+C) Nuclear features are absent
+D) It is always cystic
+ANS: B
+EX: Adenoma and carcinoma look alike cytologically (Bethesda IV), so histology of the capsule is needed.
+
+Q: Medullary thyroid carcinoma is associated with:
+A) MEN 1
+B) MEN 2A and 2B (RET)
+C) Cowden syndrome
+D) FAP
+ANS: B
+EX: C-cell tumour with amyloid stroma; calcitonin is the marker. Prophylactic thyroidectomy is advised in RET carriers.
+
+Q: The most common cause of primary hyperparathyroidism is:
+A) Hyperplasia
+B) Single adenoma
+C) Carcinoma
+D) MEN 2B
+ANS: B
+EX: A single adenoma causes 85–95% of cases. Nephrolithiasis is the commonest symptom.
+
+Q: The most common cause of endogenous Cushing syndrome is:
+A) Adrenal adenoma
+B) Pituitary ACTH microadenoma (Cushing disease)
+C) Ectopic ACTH
+D) Adrenal carcinoma
+ANS: B
+EX: Cushing disease is suppressible with high-dose dexamethasone. The commonest cause overall is exogenous steroids.
+
+Q: In 21-hydroxylase deficiency, all are seen EXCEPT:
+A) Salt wasting
+B) Virilization of females
+C) Hypertension
+D) Raised 17-OH progesterone
+ANS: C
+EX: Hypertension occurs in 11β- and 17α-hydroxylase deficiency (DOC excess). 21-OH deficiency causes salt wasting.
+
+Q: The most common cause of Addison disease in India is:
+A) Autoimmune adrenalitis
+B) Tuberculosis
+C) Metastases
+D) Amyloidosis
+ANS: B
+EX: TB is the leading cause in developing countries; autoimmune adrenalitis leads in the West. Hyperpigmentation is due to raised ACTH/MSH.
+
+Q: Zellballen pattern is characteristic of:
+A) Adrenocortical carcinoma
+B) Pheochromocytoma / paraganglioma
+C) Neuroblastoma
+D) Carcinoid
+ANS: B
+EX: Nests of chromaffin cells are surrounded by S100+ sustentacular cells. Malignancy is defined only by metastasis.
+
+Q: Poor prognostic factor in neuroblastoma:
+A) Age < 18 months
+B) N-MYC amplification
+C) Hyperdiploidy
+D) Stage MS (4S)
+ANS: B
+EX: N-MYC amplification, 1p deletion and 17q gain are poor. Young age, hyperdiploidy and stage MS are favourable.
+
+Q: MEN 2B differs from MEN 2A by having:
+A) Hyperparathyroidism
+B) Mucosal neuromas and marfanoid habitus, without hyperparathyroidism
+C) Pituitary adenoma
+D) Gastrinoma
+ANS: B
+EX: MEN 2B (RET M918T) has aggressive early MTC, pheochromocytoma, mucosal neuromas and marfanoid habitus.
+
+Q: Islet amyloid in type 2 diabetes is derived from:
+A) Insulin
+B) Amylin (IAPP)
+C) Glucagon
+D) Calcitonin
+ANS: B
+EX: In type 1 diabetes the islets show insulitis (CD8 T cells).
+
+@ch 23
+Q: Kernohan notch phenomenon in uncal herniation causes:
+A) Contralateral hemiparesis
+B) Ipsilateral hemiparesis
+C) Bilateral blindness
+D) Respiratory arrest
+ANS: B
+EX: The contralateral cerebral peduncle is pressed against the tentorium, giving a false-localising ipsilateral hemiparesis.
+
+Q: Albuminocytologic dissociation in CSF is seen in:
+A) Bacterial meningitis
+B) Guillain–Barré syndrome
+C) Viral meningitis
+D) Multiple sclerosis
+ANS: B
+EX: CSF protein is high while cells are normal. Campylobacter infection is the commonest trigger.
+
+Q: Cobweb coagulum in CSF with low glucose and lymphocytosis suggests:
+A) Pyogenic meningitis
+B) Tuberculous meningitis
+C) Viral meningitis
+D) SAH
+ANS: B
+EX: TBM shows very high protein, low glucose, lymphocytes and raised ADA, with a basal exudate and arteritis.
+
+Q: The most common organism causing neonatal meningitis is:
+A) S. pneumoniae
+B) Group B Streptococcus
+C) N. meningitidis
+D) H. influenzae
+ANS: B
+EX: GBS, E. coli and Listeria cause neonatal meningitis. S. pneumoniae is commonest in adults.
+
+Q: HSV encephalitis characteristically involves:
+A) Occipital lobes
+B) Temporal lobes (inferior and medial)
+C) Brainstem
+D) Cerebellum
+ANS: B
+EX: It is a haemorrhagic necrotizing encephalitis of the temporal lobes. Diagnose by CSF PCR and treat with acyclovir.
+
+Q: Spongiform change without inflammation, with rapidly progressive dementia and myoclonus, suggests:
+A) Alzheimer disease
+B) Creutzfeldt–Jakob disease
+C) PML
+D) SSPE
+ANS: B
+EX: Prion disease with misfolded PrPSc. CSF shows 14-3-3 protein and positive RT-QuIC.
+
+Q: The most common site of hypertensive intracerebral haemorrhage is:
+A) Cerebellum
+B) Putamen (basal ganglia)
+C) Pons
+D) Lobar cortex
+ANS: B
+EX: Charcot–Bouchard microaneurysms of the lenticulostriate arteries are the source. Lobar bleeds in the elderly suggest amyloid angiopathy.
+
+Q: Lucid interval followed by deterioration after a temporal bone fracture suggests:
+A) Subdural haematoma
+B) Extradural haematoma
+C) SAH
+D) Diffuse axonal injury
+ANS: B
+EX: Middle meningeal artery bleeding gives a biconvex haematoma that does not cross sutures.
+
+Q: Neurofibrillary tangles in Alzheimer disease are composed of:
+A) Aβ amyloid
+B) Hyperphosphorylated tau
+C) α-synuclein
+D) Ubiquitinated TDP-43
+ANS: B
+EX: Tangles are tau; plaques are Aβ42; Lewy bodies are α-synuclein.
+
+Q: Lewy bodies are composed mainly of:
+A) Tau
+B) α-synuclein
+C) Huntingtin
+D) Neurofilament
+ANS: B
+EX: Parkinson disease shows loss of pigmented substantia nigra neurons, with Lewy bodies (α-synuclein).
+
+Q: The most common primary malignant brain tumour in adults is:
+A) Meningioma
+B) Glioblastoma
+C) Oligodendroglioma
+D) Lymphoma
+ANS: B
+EX: Glioblastoma (IDH-wildtype) shows pseudopalisading necrosis, microvascular proliferation and EGFR amplification.
+
+Q: Fried-egg cells with 1p/19q co-deletion indicate:
+A) Astrocytoma
+B) Oligodendroglioma
+C) Ependymoma
+D) Central neurocytoma
+ANS: B
+EX: Oligodendroglioma is IDH-mutant with 1p/19q co-deletion. It has the best prognosis among diffuse gliomas.
+
+Q: The most common CNS tumour of childhood is:
+A) Medulloblastoma
+B) Pilocytic astrocytoma
+C) Ependymoma
+D) Craniopharyngioma
+ANS: B
+EX: Pilocytic astrocytoma is cerebellar and cystic with a mural nodule, Rosenthal fibres and BRAF fusion. Medulloblastoma is the commonest malignant one.
+
+Q: Verocay bodies are seen in:
+A) Neurofibroma
+B) Schwannoma
+C) Meningioma
+D) Ependymoma
+ANS: B
+EX: Schwannoma has Antoni A (Verocay palisades) and Antoni B areas, and is S100+. Bilateral vestibular schwannomas mean NF2.
+
+Q: Gowers sign, calf pseudohypertrophy and absent dystrophin indicate:
+A) Becker dystrophy
+B) Duchenne muscular dystrophy
+C) Myotonic dystrophy
+D) Limb-girdle dystrophy
+ANS: B
+EX: Duchenne is X-linked with frameshift deletions and very high CK. Becker has in-frame deletions with reduced dystrophin.
+
+Q: Ragged red fibres on Gomori trichrome indicate:
+A) Inflammatory myopathy
+B) Mitochondrial myopathy
+C) Muscular dystrophy
+D) Neurogenic atrophy
+ANS: B
+EX: Ragged red fibres are subsarcolemmal aggregates of abnormal mitochondria (MERRF, MELAS, Kearns–Sayre).
+
+@ch 24
+Q: The cell in the first panel forms when activated macrophages fuse. Which cytokine mainly drives that activation?
+A) IL-4
+B) IFN-γ
+C) IL-10
+D) IL-5
+ANS: B
+EX: Th1 cells release IFN-γ, which turns macrophages into epithelioid cells; these fuse into Langhans giant cells (TB, sarcoid).
+IMG: gen/giant-cells.svg
+
+Q: A patient with a lesion like the one shown starts infliximab for rheumatoid arthritis. The main risk is breakdown of the lesion, because the drug blocks:
+A) IL-6
+B) TNF-α
+C) IL-17
+D) IL-1β
+ANS: B
+EX: TNF keeps granulomas intact. Anti-TNF drugs (infliximab, adalimumab) can reactivate latent TB, so screen with IGRA first.
+IMG: gen/granuloma.svg
+
+Q: A woman's smear shows many cells like the "Schistocyte" panel, with platelets of 20,000/µL, confusion and fever. Which coagulation profile fits best?
+A) Prolonged PT and aPTT, low fibrinogen
+B) Normal PT and aPTT
+C) Isolated prolonged aPTT
+D) Isolated prolonged PT
+ANS: B
+EX: In TTP the clotting factors are not consumed, so PT and aPTT stay normal. In DIC, PT and aPTT are prolonged and fibrinogen falls.
+IMG: gen/rbc-morphology.svg
+
+Q: In lupus nephritis, large deposits at site ③ of the diagram produce which light-microscopic appearance?
+A) Spike-and-dome
+B) Wire-loop lesions
+C) Kimmelstiel–Wilson nodules
+D) Crescents
+ANS: B
+EX: Massive subendothelial deposits thicken the capillary wall into wire loops (class IV lupus). Spikes are the subepithelial deposits of membranous nephropathy.
+IMG: gen/glomerulus.svg
+
+Q: Tumour ① in the diagram usually carries which driver mutation?
+A) H3F3A G34W
+B) H3F3B K36M
+C) IDH1 R132H
+D) EWSR1-FLI1
+ANS: A
+EX: Giant cell tumour of bone has H3F3A (H3.3 G34W). Chondroblastoma has H3F3B K36M, enchondroma IDH1/2, and Ewing EWSR1-FLI1.
+IMG: gen/bone-sites.svg
+
+Q: The lesion shown (histology of emphysema with "floating septae") indicates:
+A) Normal lung
+B) Destruction of alveolar walls
+C) Interstitial fibrosis
+D) Hyaline membranes
+ANS: B
+EX: Broken alveolar walls with floating septae show emphysematous destruction distal to the terminal bronchiole.
+IMG: resp/emph-histo.png
+
+Q: Psammoma bodies are a form of:
+A) Metastatic calcification
+B) Dystrophic calcification
+C) Ossification
+D) Amyloid
+ANS: B
+EX: Laminated calcium deposits form on necrotic single cells within tumours.
+
+Q: Tophi in gout should be fixed in absolute alcohol because:
+A) Formalin dissolves urate crystals
+B) Alcohol stains crystals
+C) Formalin causes calcification
+D) Alcohol prevents necrosis
+ANS: A
+EX: Urate crystals are water-soluble and dissolve in aqueous formalin.

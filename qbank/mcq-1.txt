@@ -1,0 +1,614 @@
+@ch 01
+Q: Which of the following ultrastructural changes indicates irreversible cell injury?
+A) Swelling of endoplasmic reticulum
+B) Small amorphous densities in mitochondria
+C) Large flocculent amorphous densities in mitochondria
+D) Plasma membrane blebbing
+ANS: C
+EX: Large flocculent mitochondrial densities (seen in ischemic myocardium) mark the point of no return. ER swelling, blebbing and small densities are reversible changes.
+
+Q: A 45-year-old with long-standing GERD has distal oesophageal biopsy showing columnar epithelium with goblet cells. The process is best described as:
+A) Dysplasia
+B) Metaplasia
+C) Hyperplasia
+D) Anaplasia
+ANS: B
+EX: Barrett oesophagus is intestinal metaplasia: one adult cell type (squamous) is replaced by another (columnar with goblet cells). It is premalignant for adenocarcinoma.
+
+Q: The most characteristic morphological feature of apoptosis is:
+A) Cell swelling
+B) Chromatin condensation (pyknosis)
+C) Inflammation
+D) Karyolysis
+ANS: B
+EX: Chromatin condensation is the most characteristic feature of apoptosis. Cells shrink, the membrane stays intact and there is no inflammation.
+
+Q: Cytochrome c released from mitochondria binds to which molecule to form the apoptosome?
+A) FADD
+B) APAF-1
+C) BCL-2
+D) Caspase-8
+ANS: B
+EX: Cytochrome c + APAF-1 form the apoptosome, which activates caspase-9 (intrinsic pathway). FADD and caspase-8 belong to the extrinsic pathway.
+
+Q: The most reactive (damaging) free radical is:
+A) Superoxide anion
+B) Hydrogen peroxide
+C) Hydroxyl radical
+D) Nitric oxide
+ANS: C
+EX: The hydroxyl radical (OH•), generated for example by the Fenton reaction, is the most reactive species.
+
+Q: Ferroptosis is characterised by all EXCEPT:
+A) Iron-dependent lipid peroxidation
+B) Loss of GPX4 activity
+C) Caspase-3 activation
+D) Inhibition by ferrostatin
+ANS: C
+EX: Ferroptosis is caspase-independent and driven by iron-catalysed lipid peroxidation when GPX4/glutathione fail.
+
+Q: Necroptosis is mediated by:
+A) Caspase-1 and gasdermin D
+B) RIPK1, RIPK3 and MLKL
+C) PARP-1 and AIF
+D) Beclin-1 and LC3
+ANS: B
+EX: Necroptosis is programmed necrosis via RIPK1–RIPK3–MLKL. Caspase-1/gasdermin D = pyroptosis; PARP-1/AIF = parthanatos; Beclin/LC3 = autophagy.
+
+Q: Brown atrophy of the heart in the elderly is due to accumulation of:
+A) Hemosiderin
+B) Melanin
+C) Lipofuscin
+D) Bilirubin
+ANS: C
+EX: Lipofuscin is the "wear-and-tear" pigment formed by lipid peroxidation. It collects in residual bodies, giving brown atrophy.
+
+Q: Fatty change with a single large vacuole displacing the nucleus is NOT typically seen in:
+A) Alcoholic liver disease
+B) Obesity
+C) Reye syndrome
+D) Kwashiorkor
+ANS: C
+EX: Reye syndrome (also acute fatty liver of pregnancy, valproate, tetracycline) causes microvesicular steatosis with a central nucleus.
+
+Q: Most sensitive neurons to ischemia are found in:
+A) Purkinje layer of cerebellum
+B) CA1 region of hippocampus
+C) Layer 4 of neocortex
+D) Substantia nigra
+ANS: B
+EX: CA1 (Sommer sector) pyramidal neurons are the most vulnerable, followed by cerebellar Purkinje cells and neocortical layers 3, 5 and 6.
+
+Q: Werner syndrome, a premature-ageing disorder, results from a defect in:
+A) Lamin A
+B) DNA helicase (RecQ)
+C) Telomerase RNA
+D) ATM kinase
+ANS: B
+EX: Werner syndrome is due to WRN, a RecQ DNA helicase. Lamin A is defective in Hutchinson–Gilford progeria.
+
+Q: Myositis ossificans differs from osteosarcoma in that it shows:
+A) Mature bone at the periphery and immature tissue at the centre
+B) Immature bone at the periphery
+C) Malignant osteoid
+D) Codman triangle
+ANS: A
+EX: Myositis ossificans shows zonation: mature lamellar bone at the periphery and an immature fibroblastic centre. Osteosarcoma shows the reverse pattern.
+
+Q: Which of the following is an example of pure hyperplasia without hypertrophy?
+A) Gravid uterus
+B) Liver regeneration after partial hepatectomy
+C) Left ventricular hypertrophy
+D) Skeletal muscle in body builders
+ANS: B
+EX: Liver regeneration is compensatory hyperplasia. The gravid uterus shows both hyperplasia and hypertrophy; cardiac and skeletal muscle show pure hypertrophy.
+
+@ch 02
+Q: Metastatic calcification commonly occurs in all EXCEPT:
+A) Gastric mucosa
+B) Kidney
+C) Lung
+D) Atheromatous plaque
+ANS: D
+EX: Metastatic calcification (hypercalcaemia) targets tissues that excrete acid: the stomach, kidney and lung. Calcification in atheroma is dystrophic.
+
+Q: Psammoma bodies are seen in all EXCEPT:
+A) Papillary carcinoma thyroid
+B) Serous cystadenocarcinoma ovary
+C) Meningioma
+D) Follicular carcinoma thyroid
+ANS: D
+EX: Psammoma bodies are a clue to papillary thyroid carcinoma, serous ovarian tumours, meningioma, mesothelioma and papillary RCC. They are not seen in follicular carcinoma.
+
+Q: Apple-green birefringence under polarized light after Congo red stain is due to:
+A) Fibril diameter
+B) Cross β-pleated sheet structure
+C) P component
+D) Glycosaminoglycans
+ANS: B
+EX: Congo red aligns along the cross-β-pleated sheet fibrils, which produces apple-green birefringence.
+
+Q: Amyloid associated with long-term haemodialysis is derived from:
+A) Transthyretin
+B) Serum amyloid A
+C) β2-microglobulin
+D) Immunoglobulin light chain
+ANS: C
+EX: Aβ2m amyloid follows long-term dialysis because cuprophane membranes do not remove β2-microglobulin. It causes carpal tunnel syndrome and arthropathy.
+
+Q: The most common cause of reactive systemic (AA) amyloidosis in India is:
+A) Rheumatoid arthritis
+B) Tuberculosis
+C) Multiple myeloma
+D) Familial Mediterranean fever
+ANS: B
+EX: Chronic infections, especially tuberculosis, are the commonest cause of AA amyloidosis in India. RA is the commonest in the West; myeloma causes AL amyloid.
+
+Q: "Sago spleen" refers to amyloid deposition in:
+A) Red pulp sinusoids
+B) Splenic follicles
+C) Splenic capsule
+D) Trabecular veins
+ANS: B
+EX: Sago spleen has amyloid in the follicles (tapioca-like granules). A lardaceous spleen has deposits in the red pulp.
+
+Q: Preferred initial site for biopsy in suspected systemic amyloidosis is:
+A) Kidney
+B) Liver
+C) Abdominal fat pad aspirate
+D) Heart
+ANS: C
+EX: Abdominal fat pad aspiration is simple and safe, and is the preferred screening biopsy. Rectal and renal biopsies are alternatives.
+
+Q: Amyloid in medullary carcinoma of thyroid is derived from:
+A) Calcitonin
+B) Thyroglobulin
+C) Amylin
+D) Transthyretin
+ANS: A
+EX: ACal amyloid in medullary thyroid carcinoma is derived from procalcitonin/calcitonin. Amylin (IAPP) amyloid is seen in islets in type 2 diabetes.
+
+Q: Most common cause of death in AL amyloidosis is:
+A) Renal failure
+B) Cardiac involvement
+C) Hepatic failure
+D) Bleeding
+ANS: B
+EX: Cardiac amyloid causes restrictive cardiomyopathy and arrhythmias, and is the commonest cause of death in AL amyloidosis.
+
+Q: Michaelis–Gutmann bodies are characteristic of:
+A) Sarcoidosis
+B) Malakoplakia
+C) Tuberculosis
+D) Whipple disease
+ANS: B
+EX: Malakoplakia shows von Hansemann histiocytes with laminated, calcified, PAS-positive and von Kossa-positive Michaelis–Gutmann bodies.
+
+@ch 03
+Q: The hallmark of acute inflammation is:
+A) Vasoconstriction
+B) Increased vascular permeability
+C) Margination
+D) Fibrosis
+ANS: B
+EX: Increased vascular permeability causes the protein-rich exudate that defines acute inflammation.
+
+Q: Rolling of leukocytes on endothelium is mediated by:
+A) Integrins
+B) Selectins
+C) PECAM-1
+D) ICAM-1
+ANS: B
+EX: Selectins (P, E, L) binding sialyl-Lewis X mediate rolling. Integrins with ICAM/VCAM give firm adhesion, and PECAM-1 mediates diapedesis.
+
+Q: Look at the diagram. A child with a congenital defect in fucosylation lacks the leukocyte ligand needed for step 2. The child will have:
+A) LAD-1 with delayed cord separation
+B) LAD-2 with the Bombay blood group
+C) Chronic granulomatous disease
+D) Chédiak–Higashi syndrome
+ANS: B
+EX: Step 2 (rolling) needs selectins to bind sialyl-Lewis X. LAD-2 is a fucosylation defect that removes sialyl-Lewis X and causes the Bombay phenotype. LAD-1 is a CD18 (integrin) defect.
+IMG: gen/extravasation.svg
+
+Q: A newborn has delayed separation of the umbilical cord (5 weeks), recurrent bacterial infections without pus, and marked neutrophilia. The defect is in:
+A) Sialyl-Lewis X
+B) β2 integrin (CD18)
+C) NADPH oxidase
+D) LYST gene
+ANS: B
+EX: Leukocyte adhesion deficiency type 1 is a CD18 (β2 integrin) defect. LAD-2 involves sialyl-Lewis X (fucosylation).
+
+Q: Chronic granulomatous disease patients are particularly susceptible to:
+A) Catalase-negative organisms
+B) Catalase-positive organisms
+C) Encapsulated bacteria only
+D) Viruses
+ANS: B
+EX: In CGD, NADPH oxidase is defective. Catalase-positive organisms (S. aureus, Aspergillus, Nocardia, Serratia) destroy their own H₂O₂ and so evade killing.
+
+Q: The most potent bactericidal system of neutrophils is:
+A) Lysozyme
+B) Lactoferrin
+C) H₂O₂–MPO–halide system
+D) Major basic protein
+ANS: C
+EX: Myeloperoxidase converts H₂O₂ and Cl⁻ into hypochlorous acid (HOCl), the most efficient bactericidal system.
+
+Q: Which mediator is chemotactic for neutrophils?
+A) LTC4
+B) LTB4
+C) PGI2
+D) Bradykinin
+ANS: B
+EX: LTB4, C5a, IL-8 and bacterial fMLP are chemotactic. LTC4/D4/E4 cause bronchospasm and increased permeability.
+
+Q: Corticosteroids inhibit arachidonic acid release by inhibiting:
+A) Cyclooxygenase
+B) 5-lipoxygenase
+C) Phospholipase A2
+D) Thromboxane synthase
+ANS: C
+EX: Steroids induce lipocortin (annexin A1), which inhibits phospholipase A2. NSAIDs inhibit COX and zileuton inhibits 5-LO.
+
+Q: Deficiency of C5–C9 predisposes to recurrent infections with:
+A) Staphylococcus
+B) Neisseria
+C) Pneumocystis
+D) Candida
+ANS: B
+EX: Deficiency of the membrane attack complex predisposes to recurrent Neisseria infections. Early classical deficiency gives SLE-like disease; C1-INH deficiency gives hereditary angioedema.
+
+Q: Bread-and-butter pericarditis is an example of:
+A) Serous inflammation
+B) Fibrinous inflammation
+C) Suppurative inflammation
+D) Ulcerative inflammation
+ANS: B
+EX: Fibrinous pericarditis (rheumatic, uraemic, post-MI) looks shaggy, like "bread and butter".
+
+Q: Langhans giant cells are characterised by:
+A) Haphazardly scattered nuclei
+B) Nuclei arranged in a horseshoe at the periphery
+C) Foamy cytoplasm with a central ring of nuclei
+D) Owl-eye nucleoli
+ANS: B
+EX: Langhans giant cells have peripheral horseshoe nuclei (TB, sarcoid). Foreign-body giant cells have scattered nuclei; Touton cells have a ring of nuclei with a foamy rim.
+
+Q: The key cytokine that converts macrophages into epithelioid cells in a granuloma is:
+A) IL-4
+B) IFN-γ
+C) IL-10
+D) TGF-β
+ANS: B
+EX: Th1-derived IFN-γ activates macrophages, which become epithelioid cells. TNF maintains the granuloma, so anti-TNF therapy reactivates TB.
+
+Q: Stellate (suppurative) granulomas are characteristic of:
+A) Sarcoidosis
+B) Cat-scratch disease
+C) Crohn disease
+D) Berylliosis
+ANS: B
+EX: Cat-scratch disease (Bartonella henselae), LGV and tularaemia produce stellate, necrotizing, suppurative granulomas.
+
+Q: Which of the following is a negative acute phase reactant?
+A) Fibrinogen
+B) Ferritin
+C) Albumin
+D) Hepcidin
+ANS: C
+EX: Albumin, transferrin and transthyretin fall during the acute phase. Fibrinogen, ferritin, hepcidin, CRP and SAA rise.
+
+Q: Fibrin-ring (doughnut) granulomas are classically seen in:
+A) Q fever
+B) Tuberculosis
+C) Leprosy
+D) Schistosomiasis
+ANS: A
+EX: Fibrin-ring granulomas in the liver or marrow are classic for Q fever (Coxiella burnetii). They are also reported with Hodgkin lymphoma, CMV, EBV and allopurinol.
+
+@ch 04
+Q: The most important growth factor for angiogenesis is:
+A) PDGF
+B) VEGF
+C) TGF-β
+D) EGF
+ANS: B
+EX: VEGF, induced by hypoxia through HIF-1α, is the most important angiogenic factor.
+
+Q: The most important fibrogenic cytokine is:
+A) TNF
+B) TGF-β
+C) IL-1
+D) FGF
+ANS: B
+EX: TGF-β stimulates collagen and fibronectin synthesis and inhibits MMPs. It drives scarring in wounds and in organ fibrosis.
+
+Q: Tensile strength of a skin wound at the end of 3 months reaches approximately:
+A) 10%
+B) 30%
+C) 70–80%
+D) 100%
+ANS: C
+EX: Wound strength is about 10% at one week and plateaus at 70–80% by 3 months. It never fully regains normal strength.
+
+Q: Collagen bridging the incision line in primary union occurs by:
+A) Day 1
+B) Day 3
+C) Day 5
+D) Week 4
+ANS: C
+EX: By day 5, neovascularization is maximal and collagen fibrils bridge the incision. On day 3, collagen fibres are vertical and do not yet bridge.
+
+Q: A keloid differs from a hypertrophic scar in that a keloid:
+A) Stays within wound margins
+B) Regresses spontaneously
+C) Extends beyond the wound margins and recurs
+D) Lacks collagen
+ANS: C
+EX: Keloids grow beyond the original wound margins, do not regress and recur after excision. They are common in people of African descent.
+
+Q: Stem cells of the intestine reside in:
+A) Villous tips
+B) Base of crypts
+C) Brunner glands
+D) Lamina propria
+ANS: B
+EX: Lgr5+ intestinal stem cells sit at the base of the crypts. Skin stem cells sit in the hair-follicle bulge and limbal stem cells in the cornea.
+
+Q: Lysyl oxidase, needed for collagen cross-linking, requires:
+A) Zinc
+B) Copper
+C) Vitamin C
+D) Iron
+ANS: B
+EX: Lysyl oxidase is copper-dependent (defective in Menkes disease). Vitamin C is needed for proline and lysine hydroxylation.
+
+Q: Healing of a CNS injury occurs predominantly by:
+A) Fibroblast proliferation
+B) Gliosis by astrocytes
+C) Neuronal regeneration
+D) Microglial scarring
+ANS: B
+EX: The CNS has no significant fibroblast response. Repair is by astrocytic gliosis (gemistocytes).
+
+Q: Rate of axonal regeneration after peripheral nerve injury is about:
+A) 0.1 mm/day
+B) 1–3 mm/day
+C) 1 cm/day
+D) 5 cm/day
+ANS: B
+EX: Axons regrow at roughly 1–3 mm a day along Schwann-cell bands of Büngner. Misdirected growth forms a traumatic neuroma.
+
+Q: The most important local cause of delayed wound healing is:
+A) Foreign body
+B) Infection
+C) Mechanical stress
+D) Poor blood supply
+ANS: B
+EX: Infection is the single most important cause of delayed wound healing.
+
+@ch 05
+Q: Lines of Zahn indicate:
+A) Postmortem clot
+B) Thrombus formed in flowing blood
+C) Embolus
+D) Infarct
+ANS: B
+EX: Alternating pale platelet–fibrin layers and dark RBC layers form only in flowing blood, which identifies an antemortem thrombus.
+
+Q: The most common inherited cause of hypercoagulability is:
+A) Protein C deficiency
+B) Antithrombin III deficiency
+C) Factor V Leiden
+D) Prothrombin G20210A
+ANS: C
+EX: Factor V Leiden (Arg506Gln) causes resistance to activated protein C. It is the commonest inherited thrombophilia.
+
+Q: Nutmeg liver is due to:
+A) Left ventricular failure
+B) Right heart failure (chronic passive congestion)
+C) Portal vein thrombosis
+D) Fatty change
+ANS: B
+EX: Chronic passive congestion causes red-brown congested centrilobular areas that alternate with pale periportal areas, giving the nutmeg look.
+
+Q: Heart failure cells are:
+A) Hemosiderin-laden alveolar macrophages
+B) Hypertrophied myocytes
+C) Lipofuscin-laden myocytes
+D) Fibroblasts in lung
+ANS: A
+EX: In chronic congestion of the lung (left heart failure, mitral stenosis), alveolar macrophages fill with hemosiderin. These "heart failure cells" are Perls positive.
+
+Q: White (anaemic) infarcts occur in all EXCEPT:
+A) Heart
+B) Spleen
+C) Kidney
+D) Lung
+ANS: D
+EX: The lung, with its dual blood supply and loose tissue, gets red (haemorrhagic) infarcts. Solid organs with end-arteries get white infarcts.
+
+Q: A patient develops dyspnoea, confusion and a petechial rash over the axillae 2 days after a femoral fracture. The likely diagnosis is:
+A) Pulmonary thromboembolism
+B) Fat embolism syndrome
+C) Air embolism
+D) Amniotic fluid embolism
+ANS: B
+EX: Fat embolism appears 1–3 days after long-bone fracture with respiratory insufficiency, neurological signs, anaemia, thrombocytopenia and petechiae.
+
+Q: In amniotic fluid embolism, the pulmonary vasculature shows:
+A) Fat globules only
+B) Fetal squamous cells, lanugo hair and mucin
+C) Air bubbles
+D) Tumour cells
+ANS: B
+EX: Fetal squames, lanugo, vernix fat and mucin are found in the maternal pulmonary circulation. Mortality is about 80%, and DIC is common.
+
+Q: The most common cause of DIC is:
+A) Acute promyelocytic leukaemia
+B) Gram-negative sepsis
+C) Abruptio placentae
+D) Snake bite
+ANS: B
+EX: Sepsis (Gram-negative LPS → tissue factor) is the commonest cause. Obstetric causes and APL are classic but less frequent.
+
+Q: The most specific laboratory test for DIC among the following is:
+A) Prolonged PT
+B) Thrombocytopenia
+C) Raised D-dimer
+D) Low fibrinogen
+ANS: C
+EX: D-dimer reflects fibrinolysis of cross-linked fibrin and is the most useful single marker in DIC.
+
+Q: In shock, the kidney typically shows:
+A) Acute cortical necrosis
+B) Acute tubular necrosis
+C) Papillary necrosis
+D) Glomerulonephritis
+ANS: B
+EX: Ischaemic ATN is the commonest renal lesion in shock. Cortical necrosis is mostly obstetric (abruptio).
+
+Q: Gamna–Gandy bodies are found in:
+A) Congestive splenomegaly
+B) Amyloidosis
+C) Hodgkin lymphoma
+D) Malaria
+ANS: A
+EX: Siderofibrotic nodules (iron + calcium on collagen) form in chronic congestive splenomegaly (portal hypertension) and sickle cell disease.
+
+Q: The earliest change in septic shock pathogenesis is driven mainly by:
+A) Hypovolemia
+B) TNF and IL-1 release after TLR stimulation
+C) Myocardial pump failure
+D) IgE-mediated mast cell degranulation
+ANS: B
+EX: PAMPs such as LPS activate TLRs. The resulting TNF, IL-1 and IL-6 drive vasodilation, capillary leak and DIC.
+
+Q: Paradoxical embolism requires:
+A) Saddle embolus
+B) Interatrial or interventricular communication
+C) Atrial fibrillation
+D) Atheroma
+ANS: B
+EX: A venous embolus crosses into the systemic circulation through an ASD, PFO or VSD.
+
+@ch 06
+Q: The single most reliable feature distinguishing malignant from benign tumours is:
+A) Anaplasia
+B) Rapid growth
+C) Metastasis
+D) Necrosis
+ANS: C
+EX: Metastasis unequivocally marks a tumour as malignant. Some benign tumours grow fast and some malignant ones are well differentiated.
+
+Q: A hamartoma is:
+A) Normal tissue at an abnormal site
+B) Disorganized mature tissue indigenous to the site
+C) Tumour of all three germ layers
+D) Malignant tumour of blood vessels
+ANS: B
+EX: Example: a pulmonary hamartoma with cartilage (popcorn calcification). A choristoma is normal tissue at a wrong site.
+
+Q: HPV E7 protein promotes carcinogenesis by:
+A) Degrading p53
+B) Binding and inactivating RB
+C) Activating telomerase only
+D) Mimicking CD40
+ANS: B
+EX: E7 binds RB and releases E2F. E6 degrades p53. CD40 mimicry is EBV LMP-1.
+
+Q: Li–Fraumeni syndrome is due to germline mutation in:
+A) RB1
+B) TP53
+C) APC
+D) PTEN
+ANS: B
+EX: Germline TP53 mutation predisposes to sarcomas, breast cancer, brain tumours, adrenocortical carcinoma and leukaemia.
+
+Q: Which carcinogen is associated with angiosarcoma of the liver?
+A) Aflatoxin
+B) Vinyl chloride
+C) Benzene
+D) β-naphthylamine
+ANS: B
+EX: Vinyl chloride, arsenic and Thorotrast cause hepatic angiosarcoma. Aflatoxin causes HCC; benzene causes AML; naphthylamine causes bladder cancer.
+
+Q: The hallmark of a tumour suppressor gene is that:
+A) One mutant allele is sufficient
+B) Both alleles must be inactivated (two-hit)
+C) It is always amplified
+D) It encodes a growth factor
+ANS: B
+EX: Knudson's two-hit hypothesis states that loss of both alleles is needed. Oncogenes act dominantly.
+
+Q: Hypercalcaemia in squamous cell carcinoma of the lung is due to:
+A) Bone metastasis
+B) PTHrP
+C) Calcitriol
+D) Ectopic PTH
+ANS: B
+EX: Squamous cell carcinoma secretes PTH-related peptide. Lymphomas can make calcitriol; true ectopic PTH is rare.
+
+Q: Lambert–Eaton syndrome is most commonly associated with:
+A) Thymoma
+B) Small cell carcinoma lung
+C) Squamous cell carcinoma lung
+D) Ovarian teratoma
+ANS: B
+EX: Antibodies to presynaptic voltage-gated calcium channels are seen with SCLC. Thymoma is linked with myasthenia gravis; ovarian teratoma with anti-NMDA encephalitis.
+
+Q: A tumour composed of cells positive for CD99 and FLI-1 in a 12-year-old's femoral diaphysis is most likely:
+A) Osteosarcoma
+B) Ewing sarcoma
+C) Lymphoma
+D) Neuroblastoma
+ANS: B
+EX: Ewing sarcoma shows membranous CD99 and FLI-1 positivity. It has t(11;22) EWSR1-FLI1.
+
+Q: Which marker is most specific for rhabdomyosarcoma?
+A) Desmin
+B) Myogenin
+C) Vimentin
+D) SMA
+ANS: B
+EX: Myogenin and MyoD1 are skeletal-muscle transcription factors and are the most specific markers. Desmin is also found in smooth muscle.
+
+Q: Warburg effect refers to:
+A) Increased oxidative phosphorylation
+B) Aerobic glycolysis in cancer cells
+C) Increased fatty acid oxidation
+D) Glutamine starvation
+ANS: B
+EX: Cancer cells use glycolysis even when oxygen is plentiful. This is the basis of FDG-PET imaging.
+
+Q: The most important prognostic indicator of a malignant tumour is generally:
+A) Grade
+B) Stage
+C) Tumour marker level
+D) Patient age
+ANS: B
+EX: Stage (TNM) has greater prognostic value than grade.
+
+Q: N-MYC amplification is a poor prognostic factor in:
+A) Burkitt lymphoma
+B) Neuroblastoma
+C) Small cell carcinoma
+D) Wilms tumour
+ANS: B
+EX: N-MYC amplification in neuroblastoma predicts poor outcome. C-MYC is involved in Burkitt and L-MYC in SCLC.
+
+Q: Seed-and-soil hypothesis of metastasis was proposed by:
+A) Virchow
+B) Paget
+C) Knudson
+D) Warburg
+ANS: B
+EX: Stephen Paget (1889) proposed that tumour cells (seeds) colonise only congenial organs (soil).
+
+Q: Trousseau syndrome (migratory thrombophlebitis) is classically associated with:
+A) Renal cell carcinoma
+B) Pancreatic carcinoma
+C) Prostate carcinoma
+D) Thyroid carcinoma
+ANS: B
+EX: Mucin-secreting adenocarcinomas, especially of the pancreas, release procoagulants that cause migratory thrombophlebitis.
