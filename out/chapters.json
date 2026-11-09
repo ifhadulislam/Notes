@@ -324,5 +324,31 @@
    "Vulva & Vagina",
    "Breast"
   ]
+ },
+ {
+  "id": "20-male",
+  "title": "Male Genital Tract",
+  "front": false,
+  "num": 20,
+  "h2": [
+   "Penis",
+   "Testis & Scrotum",
+   "Testicular Tumours",
+   "Prostate"
+  ]
+ },
+ {
+  "id": "21-bone-joint",
+  "title": "Bones, Joints & Soft Tissue",
+  "front": false,
+  "num": 21,
+  "h2": [
+   "Bone \u2014 General",
+   "Osteomyelitis",
+   "Metabolic Bone Disease",
+   "Bone Tumours",
+   "Joints",
+   "Soft Tissue Tumours"
+  ]
  }
 ]

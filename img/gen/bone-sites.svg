@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" font-family="Coming Soon, cursive" font-size="13">
+<path d="M60 90 C 20 90, 20 210, 60 210 C 100 210, 120 190, 150 180 L 560 175 C 590 185, 610 210, 650 210 C 690 210, 690 90, 650 90 C 610 90, 590 115, 560 125 L 150 120 C 120 110, 100 90, 60 90 Z" fill="#F7F0DC" stroke="#8A6A3B" stroke-width="2"/>
+<path d="M108 98 C 118 130, 118 170, 108 202" stroke="#C62E7C" stroke-width="2.5" stroke-dasharray="6 4" fill="none"/>
+<rect x="200" y="132" width="330" height="36" rx="16" fill="#F8D9C4" stroke="none"/>
+<path d="M28 72 L28 64 L106 64 L106 72" stroke="#28377C" fill="none"/><text x="67.0" y="58" text-anchor="middle" fill="#1A1919">Epiphysis</text>
+<path d="M112 72 L112 64 L200 64 L200 72" stroke="#28377C" fill="none"/><text x="156.0" y="58" text-anchor="middle" fill="#1A1919">Metaphysis</text>
+<path d="M205 72 L205 64 L540 64 L540 72" stroke="#28377C" fill="none"/><text x="372.5" y="58" text-anchor="middle" fill="#1A1919">Diaphysis</text>
+<text x="112" y="228" fill="#C62E7C" font-size="11">growth plate (physis)</text>
+<circle cx="60" cy="150" r="9" fill="#7A4FB5" opacity="0.85"/>
+<circle cx="70" cy="128" r="9" fill="#1B6E3C" opacity="0.85"/>
+<circle cx="150" cy="150" r="9" fill="#C62E7C" opacity="0.85"/>
+<circle cx="165" cy="118" r="9" fill="#D97A00" opacity="0.85"/>
+<circle cx="300" cy="150" r="9" fill="#28377C" opacity="0.85"/>
+<circle cx="430" cy="150" r="9" fill="#5A5A5A" opacity="0.85"/>
+<circle cx="360" cy="178" r="9" fill="#8A6A3B" opacity="0.85"/>
+<path d="M165 120 L190 96 C 196 86, 210 88, 206 100" stroke="#D97A00" stroke-width="5" fill="none"/>
+<circle cx="16" cy="254" r="5" fill="#7A4FB5"/><text x="25" y="258" fill="#28377C" font-size="11.5">① Giant cell tumour</text><text x="25" y="271" fill="#C62E7C" font-size="10">epiphysis (after fusion, 20–40 y)</text>
+<circle cx="256" cy="254" r="5" fill="#1B6E3C"/><text x="265" y="258" fill="#28377C" font-size="11.5">② Chondroblastoma</text><text x="265" y="271" fill="#C62E7C" font-size="10">epiphysis (before fusion, < 20 y)</text>
+<circle cx="496" cy="254" r="5" fill="#C62E7C"/><text x="505" y="258" fill="#28377C" font-size="11.5">③ Osteosarcoma</text><text x="505" y="271" fill="#C62E7C" font-size="10">metaphysis (knee — 10–20 y)</text>
+<circle cx="16" cy="290" r="5" fill="#D97A00"/><text x="25" y="294" fill="#28377C" font-size="11.5">④ Osteochondroma</text><text x="25" y="307" fill="#C62E7C" font-size="10">metaphysis, grows away from joint</text>
+<circle cx="256" cy="290" r="5" fill="#28377C"/><text x="265" y="294" fill="#28377C" font-size="11.5">⑤ Ewing sarcoma</text><text x="265" y="307" fill="#C62E7C" font-size="10">diaphysis (marrow), < 20 y</text>
+<circle cx="496" cy="290" r="5" fill="#5A5A5A"/><text x="505" y="294" fill="#28377C" font-size="11.5">⑥ Chondrosarcoma / myeloma</text><text x="505" y="307" fill="#C62E7C" font-size="10">medullary — axial / central</text>
+<circle cx="16" cy="326" r="5" fill="#8A6A3B"/><text x="25" y="330" fill="#28377C" font-size="11.5">⑦ Osteoid osteoma</text><text x="25" y="343" fill="#C62E7C" font-size="10">cortex of diaphysis — nidus < 2 cm</text>
+</svg>
