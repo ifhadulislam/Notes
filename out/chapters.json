@@ -350,5 +350,37 @@
    "Joints",
    "Soft Tissue Tumours"
   ]
+ },
+ {
+  "id": "22-endocrine",
+  "title": "Endocrine System",
+  "front": false,
+  "num": 22,
+  "h2": [
+   "Endocrine Control & Investigations",
+   "Pituitary",
+   "Thyroid",
+   "Parathyroid",
+   "Endocrine Pancreas \u2014 Diabetes Mellitus",
+   "Adrenal Gland",
+   "Multiple Endocrine Neoplasia (MEN)"
+  ]
+ },
+ {
+  "id": "23-cns",
+  "title": "Central Nervous System, Nerve & Muscle",
+  "front": false,
+  "num": 23,
+  "h2": [
+   "Cells & Reaction Patterns",
+   "Cerebral Edema, Raised ICP & Herniation",
+   "Infections of the CNS",
+   "Cerebrovascular Disease",
+   "Demyelinating Diseases",
+   "Neurodegenerative Diseases",
+   "CNS Tumours",
+   "Peripheral Nerve",
+   "Skeletal Muscle"
+  ]
  }
 ]

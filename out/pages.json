@@ -19,5 +19,7 @@
  "18-lymphoreticular": 129,
  "19-female-breast": 134,
  "20-male": 143,
- "21-bone-joint": 147
+ "21-bone-joint": 147,
+ "22-endocrine": 154,
+ "23-cns": 161
 }
