@@ -36,7 +36,8 @@ def inline(s):
 
 def md(text):
     text = inline(text)
-    return markdown.markdown(text, extensions=MD_EXT, output_format="html5")
+    h = markdown.markdown(text, extensions=MD_EXT, output_format="html5")
+    return re.sub(r'<ol start="(\d+)">', lambda m: f'<ol start="{m.group(1)}" style="counter-reset:n {int(m.group(1)) - 1}">', h)
 
 
 def md_inline(text):

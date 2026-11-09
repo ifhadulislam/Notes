@@ -84,5 +84,108 @@
    "Shock",
    "Fluid & Electrolyte Derangements"
   ]
+ },
+ {
+  "id": "06-neoplasia",
+  "title": "Neoplasia",
+  "front": false,
+  "num": 6,
+  "h2": [
+   "Definitions & Nomenclature",
+   "Benign vs Malignant",
+   "Invasion & Metastasis",
+   "Molecular Basis of Cancer \u2014 Hallmarks",
+   "Carcinogenesis",
+   "Grading & Staging",
+   "Clinical Aspects \u2014 Host Effects",
+   "Laboratory Diagnosis of Cancer"
+  ]
+ },
+ {
+  "id": "07-immunopathology",
+  "title": "Immunopathology",
+  "front": false,
+  "num": 7,
+  "h2": [
+   "Organisation of the Immune System",
+   "Hypersensitivity Reactions",
+   "Autoimmunity",
+   "Systemic Lupus Erythematosus (SLE)",
+   "Other Autoimmune Diseases",
+   "Transplant Rejection",
+   "Primary Immunodeficiencies",
+   "Secondary Immunodeficiency & HIV / AIDS"
+  ]
+ },
+ {
+  "id": "08-infections",
+  "title": "Infectious Diseases",
+  "front": false,
+  "num": 8,
+  "h2": [
+   "Patterns of Tissue Response to Infection",
+   "Tuberculosis",
+   "Leprosy (Hansen Disease)",
+   "Bacterial Infections",
+   "Viral Infections",
+   "Fungal & Opportunistic Infections",
+   "Parasitic Diseases"
+  ]
+ },
+ {
+  "id": "09-genetic-misc",
+  "title": "Genetic, Nutritional, Environmental & Pigment Disorders",
+  "front": false,
+  "num": 9,
+  "h2": [
+   "Modes of Inheritance",
+   "Cytogenetic Disorders",
+   "Protein\u2013Energy Malnutrition (PEM)",
+   "Vitamin Deficiencies",
+   "Radiation Injury",
+   "Pigments",
+   "Environmental & Nutritional Miscellany"
+  ]
+ },
+ {
+  "id": "10-cvs",
+  "title": "Cardiovascular System",
+  "front": false,
+  "num": 10,
+  "h2": [
+   "Blood Vessels \u2014 Atherosclerosis",
+   "Arteriolosclerosis & Hypertension",
+   "Aneurysms & Dissection",
+   "Vasculitis",
+   "Ischemic Heart Disease",
+   "Rheumatic Fever & Rheumatic Heart Disease",
+   "Infective Endocarditis (IE)",
+   "Valvular Heart Disease \u2014 Other",
+   "Cardiomyopathies",
+   "Pericardial Disease",
+   "Cardiac Tumours",
+   "Congenital Heart Disease"
+  ]
+ },
+ {
+  "id": "11-respiratory",
+  "title": "Respiratory System",
+  "front": false,
+  "num": 11,
+  "h2": [
+   "Structure of the Respiratory Tract",
+   "Lung Diseases \u2014 Classification",
+   "Emphysema",
+   "Chronic Bronchitis",
+   "Bronchial Asthma",
+   "Bronchiectasis",
+   "Pneumonias",
+   "Pulmonary Suppuration \u2014 Lung Abscess",
+   "Pulmonary Tuberculosis \u2014 Lung Specifics",
+   "Atelectasis & Neonatal Respiratory Distress",
+   "Restrictive & Interstitial Lung Diseases",
+   "Occupational Lung Diseases (Pneumoconioses)",
+   "Lung Tumours"
+  ]
  }
 ]

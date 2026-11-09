@@ -1,0 +1,75 @@
+fatty-liver | File:Liver steatosis fatty change.jpg
+coag-necrosis | coagulative necrosis kidney infarct
+caseous | caseous necrosis granuloma
+fat-necrosis | fat necrosis pancreas
+congo-red | amyloid congo red polarized
+langhans | Langhans giant cell
+granulation | granulation tissue histology
+keloid | keloid histopathology
+nutmeg | File:Nutmeg liver (crop).jpg
+zahn | lines of Zahn
+scc-pearls | squamous cell carcinoma keratin pearl
+signet | signet ring cell carcinoma
+zn-afb | Ziehl-Neelsen mycobacterium tuberculosis sputum
+negri | Negri bodies
+cmv-owl | cytomegalovirus owl eye inclusion
+aspergillus | aspergillosis histopathology hyphae
+crypto-ink | Cryptococcus neoformans India ink
+malaria-ring | Plasmodium falciparum ring forms
+aschoff | Aschoff body
+ie-veg | infective endocarditis vegetation
+mi-histo | myocardial infarction histopathology
+atheroma | atherosclerosis plaque histology
+hyaline-art | hyaline arteriolosclerosis
+onion-skin | hyperplastic arteriolosclerosis onion skin
+lobar-pneu | lobar pneumonia gross lung
+asbestos-body | ferruginous body asbestos
+sclc | small cell carcinoma lung histopathology
+hmd | hyaline membrane disease lung
+crescent | crescentic glomerulonephritis
+kw-nodule | Kimmelstiel-Wilson nodule
+rcc-clear | clear cell renal cell carcinoma histopathology
+wilms | Wilms tumor histopathology
+pkd | polycystic kidney disease gross
+barrett | Barrett esophagus histopathology
+hpylori | Helicobacter pylori histology
+celiac | celiac disease villous atrophy histology
+crypt-abscess | ulcerative colitis crypt abscess
+pseudomem | pseudomembranous colitis
+tub-adenoma | tubular adenoma colon histology
+pleomorphic | pleomorphic adenoma histopathology
+warthin | Warthin tumor histopathology
+ida-smear | iron deficiency anemia blood smear
+hyperseg | hypersegmented neutrophil
+sickle | sickle cell anemia blood smear
+spherocyte | hereditary spherocytosis blood smear
+schisto | schistocytes blood smear
+auer | Auer rods
+cll | chronic lymphocytic leukemia smudge cells
+cml | chronic myeloid leukemia blood smear
+hairy | hairy cell leukemia
+myeloma | multiple myeloma bone marrow plasma cells
+reed | Reed-Sternberg cell
+burkitt | Burkitt lymphoma starry sky
+gaucher | Gaucher cell
+cirrhosis | cirrhosis liver gross
+mallory | Mallory body alcoholic hepatitis
+hcc | hepatocellular carcinoma histopathology
+koilocyte | koilocytes Pap smear
+hmole | complete hydatidiform mole histopathology
+call-exner | Call-Exner bodies granulosa cell tumor
+schiller-duval | Schiller-Duval body
+fibroadenoma | fibroadenoma breast histopathology
+idc | invasive ductal carcinoma breast histopathology
+teratoma | mature cystic teratoma ovary
+seminoma | seminoma histopathology
+osteosarcoma | osteosarcoma histopathology
+gct-bone | giant cell tumor of bone histopathology
+ewing | Ewing sarcoma histopathology
+papillary-thy | papillary thyroid carcinoma histopathology
+medullary-thy | medullary thyroid carcinoma
+hashimoto | Hashimoto thyroiditis histopathology
+gbm | glioblastoma pseudopalisading necrosis
+meningioma | meningioma histopathology psammoma
+schwannoma | schwannoma Verocay bodies
+alzheimer | neuritic plaque Alzheimer silver stain

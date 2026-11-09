@@ -3,5 +3,11 @@
  "02-calcification-amyloid": 12,
  "03-inflammation": 16,
  "04-repair": 24,
- "05-hemodynamics": 29
+ "05-hemodynamics": 29,
+ "06-neoplasia": 37,
+ "07-immunopathology": 47,
+ "08-infections": 56,
+ "09-genetic-misc": 64,
+ "10-cvs": 70,
+ "11-respiratory": 80
 }

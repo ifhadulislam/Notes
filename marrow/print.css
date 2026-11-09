@@ -38,7 +38,6 @@ li > p { margin: 0; }
 ol { counter-reset: n; }
 ol > li { counter-increment: n; padding-left: 24px; }
 ol > li::before { content: counter(n) "."; position: absolute; left: 2px; top: 0; color: inherit; }
-ol[start] { counter-reset: n calc(attr(start integer) - 1); }
 .box.filled ul > li::before { background: var(--green); }
 li { break-inside: avoid; }
 

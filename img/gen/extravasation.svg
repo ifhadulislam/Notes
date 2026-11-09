@@ -29,9 +29,9 @@
     <text x="45" y="112">1. Margination</text>
     <text x="140" y="60">2. Rolling</text><text x="133" y="76" fill="#C62E7C">(selectins)</text>
     <text x="270" y="60">3. Firm adhesion</text><text x="262" y="76" fill="#C62E7C">(integrins–ICAM/VCAM)</text>
-    <text x="405" y="60">4. Transmigration</text><text x="405" y="76" fill="#C62E7C">(diapedesis, PECAM-1)</text>
-    <text x="545" y="60">5. Chemotaxis</text><text x="545" y="76" fill="#C62E7C">(C5a, IL-8, LTB4, fMLP)</text>
+    <text x="520" y="60">4. Transmigration</text><text x="520" y="76" fill="#C62E7C">(diapedesis, PECAM-1)</text>
+    <text x="380" y="180">5. Chemotaxis toward microbes</text><text x="380" y="196" fill="#C62E7C">(C5a, IL-8, LTB4, fMLP)</text>
   </g>
-  <g stroke="#28377C" fill="none" stroke-width="1"><path d="M175 80 L182 88"/><path d="M300 80 L307 95"/><path d="M445 80 L445 99"/><path d="M580 80 L615 120"/></g>
+  <g stroke="#28377C" fill="none" stroke-width="1"><path d="M175 80 L182 88"/><path d="M300 80 L307 95"/><path d="M360 80 L430 102"/><path d="M590 80 L617 118"/><path d="M590 186 L640 194"/></g>
   <text x="15" y="258" fill="#1A1919" font-size="12">Endothelium of post-capillary venule (main site of leukocyte exit)</text>
 </svg>
