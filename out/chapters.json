@@ -208,5 +208,60 @@
    "Urinary Bladder & Urothelial Tract",
    "Urinary Tract Tuberculosis"
   ]
+ },
+ {
+  "id": "13-git",
+  "title": "Gastrointestinal Tract & Pancreas",
+  "front": false,
+  "num": 13,
+  "h2": [
+   "Oral Cavity",
+   "Salivary Gland Tumours",
+   "Esophagus",
+   "Stomach",
+   "Small Intestine",
+   "Inflammatory Bowel Disease",
+   "Other Colonic Disorders",
+   "Intestinal Polyps & Colorectal Carcinoma",
+   "Pancreas"
+  ]
+ },
+ {
+  "id": "14-rbc",
+  "title": "Hematopoiesis & Red Cell Disorders",
+  "front": false,
+  "num": 14,
+  "h2": [
+   "Hematopoiesis",
+   "Anemia \u2014 Classification & Approach",
+   "Iron Deficiency Anemia",
+   "Anemia of Chronic Disease (Inflammation)",
+   "Megaloblastic Anemia",
+   "Hemolytic Anemias \u2014 Overview",
+   "Hereditary Spherocytosis (HS)",
+   "G6PD Deficiency",
+   "Sickle Cell Disease",
+   "Thalassemia",
+   "Immune Hemolytic Anemias",
+   "Mechanical & Infection-related Hemolysis",
+   "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+   "Aplastic Anemia",
+   "Myelodysplastic Syndromes (MDS)"
+  ]
+ },
+ {
+  "id": "15-hemostasis",
+  "title": "Bleeding Disorders & Blood Transfusion",
+  "front": false,
+  "num": 15,
+  "h2": [
+   "Approach to Bleeding Disorders",
+   "Vascular Purpuras",
+   "Thrombocytopenia",
+   "Qualitative Platelet Disorders",
+   "Coagulation Factor Disorders",
+   "Thrombophilia \u2014 Laboratory",
+   "Blood Groups & Transfusion"
+  ]
  }
 ]
