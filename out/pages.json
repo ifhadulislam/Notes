@@ -1,13 +1,14 @@
 {
  "01-cell-injury": 3,
- "02-calcification-amyloid": 12,
- "03-inflammation": 16,
- "04-repair": 24,
- "05-hemodynamics": 29,
- "06-neoplasia": 37,
- "07-immunopathology": 47,
- "08-infections": 56,
- "09-genetic-misc": 64,
- "10-cvs": 70,
- "11-respiratory": 80
+ "02-calcification-amyloid": 11,
+ "03-inflammation": 15,
+ "04-repair": 23,
+ "05-hemodynamics": 28,
+ "06-neoplasia": 36,
+ "07-immunopathology": 45,
+ "08-infections": 53,
+ "09-genetic-misc": 60,
+ "10-cvs": 66,
+ "11-respiratory": 75,
+ "12-kidney": 84
 }

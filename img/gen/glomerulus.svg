@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" font-family="Coming Soon, cursive" font-size="13">
+<rect x="10" y="10" width="420" height="310" rx="14" fill="#F3F1E6"/><text x="22" y="32" fill="#1A1919">Urinary (Bowman) space</text>
+<circle cx="220" cy="175" r="84" fill="#FBE3EA" stroke="#C88C3B" stroke-width="3" stroke-dasharray="12 5"/>
+<circle cx="220" cy="175" r="105" fill="none" stroke="#1B6E3C" stroke-width="8"/>
+<text x="170" y="180" fill="#1A1919">Capillary lumen</text><circle cx="200" cy="140" r="9" fill="#C62E7C"/><circle cx="245" cy="210" r="9" fill="#C62E7C"/>
+<rect x="113.4" y="112.5" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(-60 120.4 117.5)"/>
+<rect x="126.2" y="94.6" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(-49 133.2 99.6)"/>
+<rect x="142.2" y="79.4" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(-38 149.2 84.4)"/>
+<rect x="160.8" y="67.5" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(-27 167.8 72.5)"/>
+<rect x="181.3" y="59.5" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(-16 188.3 64.5)"/>
+<rect x="270.5" y="269.6" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(150 277.5 274.6)"/>
+<rect x="250.4" y="278.7" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(161 257.4 283.7)"/>
+<rect x="229.0" y="283.9" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(172 236.0 288.9)"/>
+<rect x="207.0" y="284.8" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(183 214.0 289.8)"/>
+<rect x="185.2" y="281.6" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(194 192.2 286.6)"/>
+<rect x="164.4" y="274.2" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(205 171.4 279.2)"/>
+<rect x="145.4" y="263.0" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(216 152.4 268.0)"/>
+<rect x="128.9" y="248.4" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(227 135.9 253.4)"/>
+<rect x="113.4" y="227.5" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(240 120.4 232.5)"/>
+<rect x="104.3" y="207.4" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(251 111.3 212.4)"/>
+<rect x="99.1" y="186.0" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(262 106.1 191.0)"/>
+<rect x="98.2" y="164.0" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(273 105.2 169.0)"/>
+<rect x="101.4" y="142.2" width="14" height="10" rx="4" fill="#E7E9F7" stroke="#28377C" transform="rotate(284 108.4 147.2)"/>
+<ellipse cx="72" cy="78" rx="32" ry="20" fill="#E7E9F7" stroke="#28377C" stroke-width="1.4"/><circle cx="70" cy="78" r="9" fill="#28377C"/><path d="M98 88 L128 102" stroke="#28377C" stroke-width="3"/>
+<ellipse cx="134.4" cy="135.1" rx="10" ry="4" fill="#2A2A2A" transform="rotate(295 134.4 135.1)"/>
+<ellipse cx="149.8" cy="111.8" rx="10" ry="4" fill="#2A2A2A" transform="rotate(312 149.8 111.8)"/>
+<path d="M192.8 73.6 A105 105 0 0 1 272.5 84.1" stroke="#2A2A2A" stroke-width="4" fill="none"/>
+<ellipse cx="323.3" cy="229.9" rx="10" ry="6" fill="#2A2A2A" transform="rotate(118 323.3 229.9)"/>
+<ellipse cx="302.7" cy="257.7" rx="10" ry="6" fill="#2A2A2A" transform="rotate(135 302.7 257.7)"/>
+<rect x="325.6" y="140.7" width="7" height="6" fill="#555" transform="rotate(-16 329.1 143.7)"/>
+<rect x="328.9" y="156.2" width="7" height="6" fill="#555" transform="rotate(-8 332.4 159.2)"/>
+<rect x="330.0" y="172.0" width="7" height="6" fill="#555" transform="rotate(0 333.5 175.0)"/>
+<path d="M321.5 138.1 L331.8 134.3" stroke="#1B6E3C" stroke-width="2.5"/>
+<path d="M325.6 152.5 L336.4 150.3" stroke="#1B6E3C" stroke-width="2.5"/>
+<path d="M327.7 167.5 L338.7 166.7" stroke="#1B6E3C" stroke-width="2.5"/>
+<path d="M327.7 182.5 L338.7 183.3" stroke="#1B6E3C" stroke-width="2.5"/>
+<path d="M62 262 C 80 238, 112 236, 132 252 C 126 282, 92 296, 66 284 Z" fill="#FCE9D9" stroke="#8A6A3B" stroke-width="1.2"/><circle cx="96" cy="266" r="7" fill="#8A6A3B"/>
+<g fill="#2A2A2A"><circle cx="80" cy="256" r="4"/><circle cx="114" cy="276" r="4"/><circle cx="112" cy="252" r="3.5"/></g>
+<text x="324.3" y="266.2" fill="#C62E7C">①</text>
+<text x="352.6" y="160.5" fill="#C62E7C">②</text>
+<text x="156.0" y="140.9" fill="#C62E7C">③</text>
+<text x="231.8" y="53.2" fill="#C62E7C">④</text>
+<text x="44" y="252" fill="#C62E7C">⑤</text><text x="58" y="312" fill="#28377C" font-size="12">Mesangium</text>
+<g fill="#28377C">
+<text x="450" y="40" fill="#1A1919">Labels</text>
+<text x="450" y="64">GBM (green ring)</text>
+<text x="450" y="84">Fenestrated endothelium (dashed)</text>
+<text x="450" y="104">Podocyte + foot processes</text>
+<text x="450" y="124">Mesangial cell + matrix</text>
+<text x="450" y="152" fill="#1A1919">Deposits (black)</text>
+<text x="450" y="174">① Subepithelial "humps"</text><text x="468" y="190" fill="#C62E7C" font-size="12">PSGN</text>
+<text x="450" y="210">② Subepithelial + GBM spikes</text><text x="468" y="226" fill="#C62E7C" font-size="12">Membranous nephropathy</text>
+<text x="450" y="246">③ Subendothelial</text><text x="468" y="262" fill="#C62E7C" font-size="12">MPGN type I, lupus class IV (wire loop)</text>
+<text x="450" y="282">④ Intramembranous (ribbon)</text><text x="468" y="298" fill="#C62E7C" font-size="12">Dense deposit disease (C3G)</text>
+<text x="450" y="318">⑤ Mesangial — IgA nephropathy, HSP</text></g></svg>

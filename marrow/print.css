@@ -4,8 +4,8 @@
   --green-bg: #EEF6EE;
   --pink-bg: #FBEFF5;
   --navy-bg: #EEF0F8;
-  --fs: 13.2px;
-  --lh: 1.5;
+  --fs: 12.7px;
+  --lh: 1.47;
 }
 @page { size: A4; margin: 13mm 13mm 13mm 16mm; }
 
@@ -18,8 +18,8 @@ body.book .chap.front { break-before: auto; }
 .chapter { font-size: 21px; margin: 4px 0 22px; line-height: 1.25; }
 .chapter .cnum { display: block; font-size: 13px; letter-spacing: .25em; color: var(--rule); margin-bottom: 4px; }
 h2 { font-size: 16.5px; margin: 20px 0 8px; break-after: avoid; }
-h3 { font-size: 13.2px; margin: 12px 0 5px; break-after: avoid; }
-h4 { font-family: var(--hand); font-weight: 400; color: var(--navy); font-size: 13.2px; margin: 10px 0 2px; break-after: avoid; }
+h3 { font-size: var(--fs); margin: 12px 0 5px; break-after: avoid; }
+h4 { font-family: var(--hand); font-weight: 400; color: var(--navy); font-size: var(--fs); margin: 10px 0 2px; break-after: avoid; }
 h4::after { content: " :"; }
 p { margin: 0 0 6px; }
 strong { font-weight: 400; color: var(--black); }
@@ -42,7 +42,7 @@ ol > li::before { content: counter(n) "."; position: absolute; left: 2px; top: 0
 li { break-inside: avoid; }
 
 /* ---------- tables ---------- */
-table { width: 100%; border-collapse: collapse; margin: 6px 0 12px; font-size: 12.2px; line-height: 1.4; break-inside: auto; }
+table { width: 100%; border-collapse: collapse; margin: 6px 0 12px; font-size: 11.8px; line-height: 1.38; break-inside: auto; }
 thead { display: table-header-group; }
 tr { break-inside: avoid; }
 th { font-family: var(--hand); font-weight: 400; color: var(--black); background: var(--navy-bg);

@@ -187,5 +187,26 @@
    "Occupational Lung Diseases (Pneumoconioses)",
    "Lung Tumours"
   ]
+ },
+ {
+  "id": "12-kidney",
+  "title": "Kidney & Urinary Tract",
+  "front": false,
+  "num": 12,
+  "h2": [
+   "Renal Structure & Function \u2014 Basics",
+   "Glomerulonephritis \u2014 Classification",
+   "Nephrotic Syndrome \u2014 Primary Diseases",
+   "Nephritic Syndrome \u2014 Primary Diseases",
+   "Secondary (Systemic) Glomerular Disease",
+   "Tubular & Interstitial Diseases",
+   "Chronic Kidney Disease & ESRD",
+   "Renal Vascular Diseases",
+   "Cystic Diseases of Kidney",
+   "Urolithiasis & Obstructive Uropathy",
+   "Renal Tumours",
+   "Urinary Bladder & Urothelial Tract",
+   "Urinary Tract Tuberculosis"
+  ]
  }
 ]
