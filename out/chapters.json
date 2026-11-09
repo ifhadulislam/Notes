@@ -1,0 +1,88 @@
+[
+ {
+  "id": "00-cover",
+  "title": "00-cover",
+  "front": true,
+  "num": 1,
+  "h2": []
+ },
+ {
+  "id": "01-cell-injury",
+  "title": "Cell Injury, Adaptation & Cell Death",
+  "front": false,
+  "num": 1,
+  "h2": [
+   "Overview",
+   "Cellular Adaptations",
+   "Cell Injury \u2014 Causes",
+   "Mechanisms of Cell Injury",
+   "Reversible Cell Injury",
+   "Irreversible Injury \u2014 Necrosis",
+   "Apoptosis",
+   "Other Forms of Cell Death",
+   "Autophagy",
+   "Cellular Aging"
+  ]
+ },
+ {
+  "id": "02-calcification-amyloid",
+  "title": "Calcification & Amyloidosis",
+  "front": false,
+  "num": 2,
+  "h2": [
+   "Pathological Calcification",
+   "Amyloidosis"
+  ]
+ },
+ {
+  "id": "03-inflammation",
+  "title": "Inflammation",
+  "front": false,
+  "num": 3,
+  "h2": [
+   "Overview",
+   "Vascular Events",
+   "Cellular Events \u2014 Leukocyte Recruitment",
+   "Chemical Mediators",
+   "Morphologic Patterns of Acute Inflammation",
+   "Chronic Inflammation",
+   "Granulomatous Inflammation",
+   "Systemic Effects of Inflammation (Acute Phase Response)"
+  ]
+ },
+ {
+  "id": "04-repair",
+  "title": "Tissue Repair & Healing",
+  "front": false,
+  "num": 4,
+  "h2": [
+   "Overview",
+   "Extracellular Matrix (ECM)",
+   "Liver Regeneration",
+   "Angiogenesis",
+   "Scar Formation",
+   "Cutaneous Wound Healing",
+   "Factors Affecting Healing",
+   "Healing at Specific Sites"
+  ]
+ },
+ {
+  "id": "05-hemodynamics",
+  "title": "Hemodynamic Disorders, Thrombosis & Shock",
+  "front": false,
+  "num": 5,
+  "h2": [
+   "Edema",
+   "Hyperemia & Congestion",
+   "Hemorrhage",
+   "Hemostasis \u2014 Normal",
+   "Thrombosis",
+   "Disseminated Intravascular Coagulation (DIC)",
+   "Embolism",
+   "Infarction",
+   "Gangrene",
+   "Shock",
+   "Fluid & Electrolyte Derangements"
+  ]
+ }
+]
