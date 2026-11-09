@@ -263,5 +263,37 @@
    "Thrombophilia \u2014 Laboratory",
    "Blood Groups & Transfusion"
   ]
+ },
+ {
+  "id": "16-wbc",
+  "title": "White Cell Disorders, Leukemias & Plasma Cell Neoplasms",
+  "front": false,
+  "num": 16,
+  "h2": [
+   "Non-neoplastic Leukocyte Disorders",
+   "Leukemia \u2014 General",
+   "Acute Lymphoblastic Leukemia (ALL)",
+   "Acute Myeloid Leukemia (AML)",
+   "Myeloproliferative Neoplasms (MPN)",
+   "Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma (CLL/SLL)",
+   "Plasma Cell Neoplasms"
+  ]
+ },
+ {
+  "id": "17-liver",
+  "title": "Liver, Gallbladder & Biliary Tract",
+  "front": false,
+  "num": 17,
+  "h2": [
+   "Liver Architecture",
+   "Jaundice & Bilirubin Metabolism",
+   "Viral Hepatitis",
+   "Alcoholic & Fatty Liver Disease",
+   "Cirrhosis",
+   "Portal Hypertension",
+   "Biliary Diseases",
+   "Liver Tumours",
+   "Gallbladder"
+  ]
  }
 ]
